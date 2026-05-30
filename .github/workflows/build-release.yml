@@ -274,7 +274,7 @@ jobs:
         id: check_existing_pr
         uses: actions/github-script@v8.0.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
         with:
           result-encoding: string
           script: |
@@ -298,7 +298,7 @@ jobs:
         if: ${{ steps.check_existing_pr.outputs.exists == 'false' }}
         uses: devops-infra/action-pull-request@v0.6.1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN_GITHUB }}
           source_branch: dev
           target_branch: main
           #milestone: ${{ steps.changelog.outputs.version }} # Change this! (if you plan on using milestones)
@@ -330,7 +330,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5.0.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN_GITHUB }}
           fetch-depth: 0
 
       - name: Get formatted loader name and UID
@@ -535,7 +535,7 @@ jobs:
             ${{ needs.info.outputs.project_file_name }}-serverpack.zip
           prerelease: ${{ needs.info.outputs.release_type != 'release' }}
           generate_release_notes: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN_GITHUB }}
 
   #release-curseforge:
   #  name: Release to CurseForge
