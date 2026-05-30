@@ -164,7 +164,7 @@ jobs:
         id: webhook
         shell: bash
         run: |
-          if [ "${{ secrets.discord-webhook }}" == '' ]; then
+          if [ "${{ secrets.discord_webhook }}" == '' ]; then
           echo "present=false" >> $GITHUB_OUTPUT
           else
           echo "present=true" >> $GITHUB_OUTPUT
