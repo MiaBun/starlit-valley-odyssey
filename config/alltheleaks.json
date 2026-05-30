@@ -5,6 +5,6 @@
   "debugItemStackModifications": false,
   "logIntervalInMinutes": 10,
   "showSummaryOnDebugScreen": true,
-  "memoryUsageWarningPercentage": 90,
+  "memoryUsageWarningPercentage": 80,
   "debugThreadsStuck": false
 }
