@@ -472,7 +472,7 @@ jobs:
         uses: actions/upload-artifact@v4.6.2
         with:
           name: ${{ needs.info.outputs.project_file_name }}-serverpack
-          path: ./build/serverpack/${{ needs.info.outputs.project_file_name }}-serverpack.zip
+          path: ./build/serverpack/${{ needs.info.outputs.project_file_name }}*-serverpack.zip
           if-no-files-found: error
 
   release-github:
