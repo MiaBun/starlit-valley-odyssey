@@ -1,9 +1,9 @@
 {
-    "name": "PanPack Template",
+    "name": "Starlit Valley Odyssey",
     "version": "DEV",
     "release_type": "alpha",
-    "description": "A template pack",
-    "author": "Pansmith",
+    "description": "forge 1.20.1 modpack",
+    "author": "CuiteNekoDragon",
     "overrides": [
         "config",
         "defaultconfigs",
