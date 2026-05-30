@@ -480,6 +480,8 @@ jobs:
     needs: [info, build-project]
     runs-on: ubuntu-latest
     if: ${{ needs.info.outputs.make_release == 'true' }}
+    permissions:
+      contents: write
     outputs:
       url: ${{ steps.release.outputs.url }}
 
