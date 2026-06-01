@@ -522,6 +522,8 @@ jobs:
       - name: Create release
         id: release
         uses: softprops/action-gh-release@v2.3.3
+        permissions:
+          contents: write
         with:
           name: ${{ needs.info.outputs.project_version }}
           tag_name: ${{ needs.info.outputs.project_version }}
@@ -535,7 +537,6 @@ jobs:
             ${{ needs.info.outputs.project_file_name }}-serverpack.zip
           prerelease: ${{ needs.info.outputs.release_type != 'release' }}
           generate_release_notes: true
-          token: ${{ secrets.TOKEN_GITHUB }}
 
   #release-curseforge:
   #  name: Release to CurseForge
