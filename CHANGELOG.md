@@ -6,6 +6,11 @@
 
 ## [0.0.4]
 ### Changes
+- changed license of core mod
+- added mouse tweaks
+
+## [0.0.4]
+### Changes
 - added FTB Quests
 - updated mods
 - added Starlit Valley: Odyssey - core mod
