@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_0_welcome"
+	group: "0869EF00969E7C6B"
+	id: "365A90238511B708"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Welcome"
+}

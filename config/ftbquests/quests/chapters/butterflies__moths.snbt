@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "butterflies__moths"
+	group: "4AB68A96AF616F64"
+	id: "70D9E1DD3C0688DA"
+	order_index: 10
+	quest_links: [ ]
+	quests: [ ]
+	title: "Butterflies \\& Moths"
+}

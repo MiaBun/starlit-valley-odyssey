@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "periodic_table"
+	group: "083763DEECE59D3E"
+	id: "7732FC462C4534F6"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Periodic Table"
+}

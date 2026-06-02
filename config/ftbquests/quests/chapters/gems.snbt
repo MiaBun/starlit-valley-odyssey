@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gems"
+	group: "4AB68A96AF616F64"
+	id: "3E12B68A8DAAC7FA"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Gems"
+}

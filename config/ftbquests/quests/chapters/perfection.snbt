@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "perfection"
+	group: "4AB68A96AF616F64"
+	id: "2E1E1567FBB000DD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Perfection"
+}

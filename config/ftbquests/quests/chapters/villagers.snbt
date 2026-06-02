@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "villagers"
+	group: "2604B6D16AC50450"
+	id: "31C7676921EDB780"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Villagers"
+}
