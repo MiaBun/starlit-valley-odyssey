@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased]
+### Changes
+- Sample Text
+
+## [0.0.6]
+### Changes
+- fixed some versioning issues
+
 ## [0.0.5]
 ### Changes
 - changed license of core mod

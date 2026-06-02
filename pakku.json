@@ -1,6 +1,7 @@
 {
     "name": "Starlit Valley Odyssey",
     "version": "DEV",
+    "release_type": "alpha",
     "description": "forge 1.20.1 modpack",
     "author": "CuiteNekoDragon",
     "overrides": [
