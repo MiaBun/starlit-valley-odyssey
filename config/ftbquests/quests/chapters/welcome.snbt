@@ -35,6 +35,11 @@
 					item: "minecraft:oak_sapling"
 					type: "item"
 				}
+				{
+					id: "33B2F7558DBED858"
+					item: "minecraft:bundle"
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 3.0d
@@ -65,6 +70,79 @@
 			title: "Shaders?"
 			x: -3.5d
 			y: 0.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"Want to protect your base or keep it loaded? Chunks can be claimed using Xaero's Worldmap - &6m &fkey by default."
+				""
+				"First right click on a chunk. Then:"
+				"- click &6Claim selected &fto claim a chunk"
+				""
+				"after that:"
+				"- click &6Forceload selected &fto force load the chunk."
+				"- clck &6Unforceload selected &fto unforceload a chunk (If it's force loaded."
+				"- click &6Unclaim selected &fto unclaim the chunk."
+			]
+			icon: "minecraft:light_blue_banner"
+			id: "6F7149C8095B6686"
+			tasks: [{
+				id: "50424A65D839197C"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "Claiming chunks"
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"This pack includes Distant Horizons, "
+				"This mod is enabled by default,"
+				""
+				"If it's too taxing for your PC you can disable it!"
+				""
+				"To do this go to the Pause Menu and clicking on Options, then click on the button left of the FOV slider and put &6Enable Rendering &fto False!"
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:elytra"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "280A272A2B16016A"
+			subtitle: "I can see the horizons in the distance!"
+			tasks: [{
+				id: "59C05EA8AC0D690D"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "Distant horizons"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"This pack has a lot animals and machines that can make sounds that get old very quickly."
+				""
+				"To mute specific mobs/machines/sounds, you can click on the volume icon in your inventory."
+				""
+				"If you dislike the ambient sounds in the pack, you can edit the file &6config/ambientsounds-client.json &fand set the volume to a lower value. You can also just remove the mod without losing the ability to connect to servers using the pack."
+			]
+			icon: "minecraft:sculk_sensor"
+			id: "41169E6056B7D029"
+			subtitle: "I can't stand the squirrels"
+			tasks: [{
+				id: "64CAAD43645ED32E"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "Muting sounds"
+			x: 3.0d
+			y: -3.0d
 		}
 	]
 	subtitle: ["Introduction to basic mechanics"]

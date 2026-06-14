@@ -83,6 +83,48 @@
             ]
         },
         {
+            "pakku_id": "yXFyW9TP5M2qSACd",
+            "pakku_links": [
+                "rp37PJgjurtIYyio"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ambientsounds"
+            },
+            "name": {
+                "curseforge": "AmbientSounds 6"
+            },
+            "id": {
+                "curseforge": "254284"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8042/994/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+                    "id": "8042994",
+                    "parent_id": "254284",
+                    "hashes": {
+                        "sha1": "87ea0cd8ec56763185ee0db09eec7c676969e4da",
+                        "md5": "dec1c8595667b063e9274d32b32efa5d"
+                    },
+                    "required_dependencies": [
+                        "257814"
+                    ],
+                    "size": 53429226,
+                    "date_published": "2026-05-05T12:20:34.283Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EM8VFxEFDHGYN6cU",
             "type": "MOD",
             "slug": {
@@ -388,6 +430,43 @@
             ]
         },
         {
+            "pakku_id": "rp37PJgjurtIYyio",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "creativecore"
+            },
+            "name": {
+                "curseforge": "CreativeCore"
+            },
+            "id": {
+                "curseforge": "257814"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CreativeCore_FORGE_v2.12.38_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8127/295/CreativeCore_FORGE_v2.12.38_mc1.20.1.jar",
+                    "id": "8127295",
+                    "parent_id": "257814",
+                    "hashes": {
+                        "sha1": "1004b6ae4e494039e28b14f2ba3ebe6b182487a8",
+                        "md5": "2dcd30a9a9c1f0cd468915dad15d6401"
+                    },
+                    "required_dependencies": [],
+                    "size": 1144069,
+                    "date_published": "2026-05-22T11:45:54.267Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "P7WLyaK0X2ZiNCWW",
             "type": "MOD",
             "slug": {
@@ -421,6 +500,43 @@
                     "required_dependencies": [],
                     "size": 31643,
                     "date_published": "2026-04-10T16:49:55.103Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "D8YWw1vz0sOy7kla",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "distant-horizons"
+            },
+            "name": {
+                "curseforge": "Distant Horizons: A Level of Detail mod"
+            },
+            "id": {
+                "curseforge": "508933"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8037/629/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar",
+                    "id": "8037629",
+                    "parent_id": "508933",
+                    "hashes": {
+                        "sha1": "90de462112b43f58686573c4e08bfe42e3352133",
+                        "md5": "74563a2394ef6b3598f8e334ae2b3737"
+                    },
+                    "required_dependencies": [],
+                    "size": 29467253,
+                    "date_published": "2026-05-04T12:33:22.870Z"
                 }
             ]
         },
@@ -573,6 +689,42 @@
             ]
         },
         {
+            "pakku_id": "kyzFDl6VQ2eVsYFS",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "extreme-sound-muffler"
+            },
+            "name": {
+                "curseforge": "Extreme sound muffler - (Neo)Forge"
+            },
+            "id": {
+                "curseforge": "363363"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ExtremeSoundMuffler-3.51-forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7469/697/ExtremeSoundMuffler-3.51-forge-1.20.1.jar",
+                    "id": "7469697",
+                    "parent_id": "363363",
+                    "hashes": {
+                        "sha1": "025499c74e1e9305fa931b44c3832f43b1925ec7",
+                        "md5": "b7821e5adbeeea69b6877851f803e350"
+                    },
+                    "required_dependencies": [],
+                    "size": 270331,
+                    "date_published": "2026-01-16T18:46:55.740Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "CSrawX0MeVfTcbIw",
             "pakku_links": [
                 "5NGMM2bfSjS1voUB"
@@ -657,6 +809,49 @@
                     ],
                     "size": 1159043,
                     "date_published": "2026-06-08T15:48:49.447Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yzMMLIeTkdzppKte",
+            "pakku_links": [
+                "HXUrGEK3DyUHkrOY",
+                "QYnr6f01kosohlhv"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ftbxaerocompat"
+            },
+            "name": {
+                "curseforge": "FTB Chunks x Xaero's Compat"
+            },
+            "id": {
+                "curseforge": "1357724"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ftbxaerocompat-forge-1.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7655/63/ftbxaerocompat-forge-1.1.3.jar",
+                    "id": "7655063",
+                    "parent_id": "1357724",
+                    "hashes": {
+                        "sha1": "8a3c74b6a5e285ec755097a76a97a469f2490726",
+                        "md5": "84d22e4c5ea26ee46af69b4caff9ad8c"
+                    },
+                    "required_dependencies": [
+                        "314906",
+                        "317780"
+                    ],
+                    "size": 737596,
+                    "date_published": "2026-02-20T20:20:39.643Z"
                 }
             ]
         },
@@ -1434,6 +1629,42 @@
             ]
         },
         {
+            "pakku_id": "RzxmBouWVG4CcgFw",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "platform"
+            },
+            "name": {
+                "curseforge": "Platform"
+            },
+            "id": {
+                "curseforge": "997634"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Platform-forge-1.20.1-1.3.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8214/829/Platform-forge-1.20.1-1.3.4.jar",
+                    "id": "8214829",
+                    "parent_id": "997634",
+                    "hashes": {
+                        "sha1": "066cc06802107183d6a1028a5e358a2bfd505402",
+                        "md5": "df08ab6aa4081252c22d3869142748dc"
+                    },
+                    "required_dependencies": [],
+                    "size": 512461,
+                    "date_published": "2026-06-08T06:00:39.950Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5NGMM2bfSjS1voUB",
             "type": "MOD",
             "slug": {
@@ -1591,6 +1822,42 @@
             ]
         },
         {
+            "pakku_id": "RnWg8icknyR6dV6c",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "regions-unexplored"
+            },
+            "name": {
+                "curseforge": "Regions Unexplored"
+            },
+            "id": {
+                "curseforge": "659110"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5558/225/RegionsUnexploredForge-0.5.6+1.20.1.jar",
+                    "id": "5558225",
+                    "parent_id": "659110",
+                    "hashes": {
+                        "sha1": "990b4b9492a8fd7cd150598e3e02a466efa913fb",
+                        "md5": "82c3073f606044e7b56d432d324ca480"
+                    },
+                    "required_dependencies": [],
+                    "size": 5726781,
+                    "date_published": "2024-07-23T17:00:24.550Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "eTQocryLFyi1ksfm",
             "type": "MOD",
             "slug": {
@@ -1738,6 +2005,87 @@
             ]
         },
         {
+            "pakku_id": "9SrmOHbawhAnBnwt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "terrablender"
+            },
+            "name": {
+                "curseforge": "TerraBlender (Forge)"
+            },
+            "id": {
+                "curseforge": "563928"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6290/448/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                    "id": "6290448",
+                    "parent_id": "563928",
+                    "hashes": {
+                        "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+                        "md5": "9d8e305b95ae5a8f7b446d6346324267"
+                    },
+                    "required_dependencies": [],
+                    "size": 107532,
+                    "date_published": "2025-03-10T23:40:16.850Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lk0ER4ZzMq3b0aD0",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "terralith"
+            },
+            "name": {
+                "curseforge": "Terralith"
+            },
+            "id": {
+                "curseforge": "513688"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Terralith_1.20.x_v2.5.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5512/76/Terralith_1.20.x_v2.5.4.jar",
+                    "id": "5512076",
+                    "parent_id": "513688",
+                    "hashes": {
+                        "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+                        "md5": "b143cfd648086c68d7f47a86b8994ee3"
+                    },
+                    "required_dependencies": [],
+                    "size": 3156901,
+                    "date_published": "2024-07-07T22:15:52.497Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "bDnTYAJhSPkLsDib",
             "type": "MOD",
             "slug": {
@@ -1810,6 +2158,121 @@
                     "required_dependencies": [],
                     "size": 3875,
                     "date_published": "2023-07-06T08:27:59.207Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kSmapZcMk4juC9j0",
+            "pakku_links": [
+                "RzxmBouWVG4CcgFw"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "vanillabackport"
+            },
+            "name": {
+                "curseforge": "Vanilla Backport"
+            },
+            "id": {
+                "curseforge": "417430"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "VanillaBackport-forge-1.20.1-1.1.7.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8229/712/VanillaBackport-forge-1.20.1-1.1.7.10.jar",
+                    "id": "8229712",
+                    "parent_id": "417430",
+                    "hashes": {
+                        "sha1": "a5ca598c0badd4b37a7b133ae8d2d9bf4cc20c40",
+                        "md5": "d38797d58bf537348cf0d62d04f335d1"
+                    },
+                    "required_dependencies": [
+                        "997634"
+                    ],
+                    "size": 56051142,
+                    "date_published": "2026-06-11T02:50:28.830Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2V226Os8cMOnbzQk",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "xaeros-minimap"
+            },
+            "name": {
+                "curseforge": "Xaero's Minimap"
+            },
+            "id": {
+                "curseforge": "263420"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "xaerominimap-forge-1.20.1-26.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8231/196/xaerominimap-forge-1.20.1-26.1.0.jar",
+                    "id": "8231196",
+                    "parent_id": "263420",
+                    "hashes": {
+                        "sha1": "5b2be59a71add73676596d0d3350b832552bac70",
+                        "md5": "35779121a4073ba1097db4e5042d61e3"
+                    },
+                    "required_dependencies": [],
+                    "size": 2147158,
+                    "date_published": "2026-06-11T11:13:37.323Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QYnr6f01kosohlhv",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "xaeros-world-map"
+            },
+            "name": {
+                "curseforge": "Xaero's World Map"
+            },
+            "id": {
+                "curseforge": "317780"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "xaeroworldmap-forge-1.20.1-1.41.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8231/23/xaeroworldmap-forge-1.20.1-1.41.0.jar",
+                    "id": "8231023",
+                    "parent_id": "317780",
+                    "hashes": {
+                        "sha1": "f2c63673810ff7b87a7fee40d34e70a04fc80ef6",
+                        "md5": "3d7d37fb8d136135332a5618f7d03d4f"
+                    },
+                    "required_dependencies": [],
+                    "size": 1389429,
+                    "date_published": "2026-06-11T10:42:06.597Z"
                 }
             ]
         },
