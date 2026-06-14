@@ -596,7 +596,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "ftb-chunks-forge-2001.3.7.jar",
+                    "file_name": "ftb-chunks-forge-2001.3.8.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -604,20 +604,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7880/858/ftb-chunks-forge-2001.3.7.jar",
-                    "id": "7880858",
+                    "url": "https://edge.forgecdn.net/files/8216/874/ftb-chunks-forge-2001.3.8.jar",
+                    "id": "8216874",
                     "parent_id": "314906",
                     "hashes": {
-                        "sha1": "ad905a6efcd0569bd8f4cc8e38889671b4bfc6a9",
-                        "md5": "d8487e3f9a53961adf7d23cb47e3e885"
+                        "sha1": "ee2d0cdac6d2ca31f43da30f76dff8c6bae9d687",
+                        "md5": "c9c17e13f616fd5ff2f83429e7ae512d"
                     },
                     "required_dependencies": [
-                        "404468",
                         "419699",
+                        "404468",
                         "404465"
                     ],
-                    "size": 1159090,
-                    "date_published": "2026-04-05T18:09:04.663Z"
+                    "size": 1159043,
+                    "date_published": "2026-06-08T15:48:49.447Z"
                 }
             ]
         },
@@ -677,7 +677,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "ftb-library-forge-2001.2.12.jar",
+                    "file_name": "ftb-library-forge-2001.2.13.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -685,18 +685,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7296/748/ftb-library-forge-2001.2.12.jar",
-                    "id": "7296748",
+                    "url": "https://edge.forgecdn.net/files/8226/927/ftb-library-forge-2001.2.13.jar",
+                    "id": "8226927",
                     "parent_id": "404465",
                     "hashes": {
-                        "sha1": "7f36ec4af42ad1d69872c58022e93a9d1b9c82b7",
-                        "md5": "8bbd067159587d80f1c5286ea52e567b"
+                        "sha1": "a5427d5ff07eb044144ed0b54308370d88bce17e",
+                        "md5": "9de2c76938392445e735a98b352da9d4"
                     },
                     "required_dependencies": [
                         "419699"
                     ],
-                    "size": 780523,
-                    "date_published": "2025-12-05T12:02:22.023Z"
+                    "size": 780558,
+                    "date_published": "2026-06-10T14:57:06.283Z"
                 }
             ]
         },
@@ -912,28 +912,28 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "JadeAddons-1.20.1-Forge-5.5.0.jar",
+                    "file_name": "JadeAddons-1.20.1-Forge-5.5.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
                     ],
                     "loaders": [
-                        "neoforge",
-                        "forge"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6274/674/JadeAddons-1.20.1-Forge-5.5.0.jar",
-                    "id": "6274674",
+                    "url": "https://edge.forgecdn.net/files/8203/724/JadeAddons-1.20.1-Forge-5.5.1.jar",
+                    "id": "8203724",
                     "parent_id": "583345",
                     "hashes": {
-                        "sha1": "5e74e87f61cf05c18457f09dfa1cb70332b6b777",
-                        "md5": "3e2fa5d8b2ec994ba416ec4f84d5ea60"
+                        "sha1": "c4339eb3ef0c4728cb511efe60726653a35c7a0d",
+                        "md5": "b5f939a79e57f78a3ef0e6c1cfd6ea59"
                     },
                     "required_dependencies": [
                         "324717"
                     ],
-                    "size": 91771,
-                    "date_published": "2025-03-07T12:14:18.823Z"
+                    "size": 91754,
+                    "date_published": "2026-06-06T03:40:58.047Z"
                 }
             ]
         },
@@ -1262,7 +1262,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "modernfix-forge-5.27.40+mc1.20.1.jar",
+                    "file_name": "modernfix-forge-5.27.50+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1270,16 +1270,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8141/550/modernfix-forge-5.27.40+mc1.20.1.jar",
-                    "id": "8141550",
+                    "url": "https://edge.forgecdn.net/files/8234/337/modernfix-forge-5.27.50+mc1.20.1.jar",
+                    "id": "8234337",
                     "parent_id": "790626",
                     "hashes": {
-                        "sha1": "d1bb6bac6255b657a6c4b3bfb25135806e2eed3e",
-                        "md5": "790c08df98022b28713584d958835a91"
+                        "sha1": "f2314a9cd75774c1f0166e85e21fa0e38a90ce71",
+                        "md5": "6238f7e9167e553f752cbb4996342560"
                     },
                     "required_dependencies": [],
-                    "size": 970410,
-                    "date_published": "2026-05-25T03:11:52.210Z"
+                    "size": 979326,
+                    "date_published": "2026-06-12T00:04:27.903Z"
                 }
             ]
         },
