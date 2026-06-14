@@ -230,6 +230,45 @@
             ]
         },
         {
+            "pakku_id": "m5RyvdtfFypL2Cdd",
+            "type": "SHADER",
+            "slug": {
+                "curseforge": "complementary-reimagined"
+            },
+            "name": {
+                "curseforge": "Complementary Shaders - Reimagined"
+            },
+            "id": {
+                "curseforge": "627557"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ComplementaryReimagined_r5.8.1.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8123/287/ComplementaryReimagined_r5.8.1.zip",
+                    "id": "8123287",
+                    "parent_id": "627557",
+                    "hashes": {
+                        "sha1": "5a021081f0178ed91dd911194071465ab0a4348b",
+                        "md5": "8dbb914ed233d6e8183ce34eb26beaab"
+                    },
+                    "required_dependencies": [],
+                    "size": 546925,
+                    "date_published": "2026-05-21T14:52:53.817Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KZvK1rlapJMit1QJ",
             "type": "MOD",
             "slug": {
@@ -1316,6 +1355,44 @@
                     "required_dependencies": [],
                     "size": 76237,
                     "date_published": "2024-05-12T16:26:46.523Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Z7ePh8YhIPOjTCzb",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "oculus"
+            },
+            "name": {
+                "curseforge": "Oculus"
+            },
+            "id": {
+                "curseforge": "581495"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "oculus-mc1.20.1-1.8.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6020/952/oculus-mc1.20.1-1.8.0.jar",
+                    "id": "6020952",
+                    "parent_id": "581495",
+                    "hashes": {
+                        "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+                        "md5": "1dd891634ac21591b5a692471f112572"
+                    },
+                    "required_dependencies": [],
+                    "size": 2851119,
+                    "date_published": "2024-12-24T23:33:51.040Z"
                 }
             ]
         },

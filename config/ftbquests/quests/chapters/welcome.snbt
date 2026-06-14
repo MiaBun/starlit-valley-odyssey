@@ -1,0 +1,72 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: "minecraft:poppy"
+	id: "39C5CF7705B2C28B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Welcome to &dStarlit Valley: Odyssey&f!"
+				""
+				"Where farming meets a deep magic and tech progression,"
+				"But be aware, don't go too deep into capitalism!"
+				""
+				"Expand your farming empire and become wealthy in the process."
+				"Eventually you'll be able to dive into a deep magic and tech progression line!"
+				""
+				"This questbook will give you an introduction to the concept of the pack, and server as a journal for collectable items and progression."
+			]
+			icon: "minecraft:poppy"
+			id: "3F48C4C993B70EE5"
+			rewards: [
+				{
+					id: "5665FB49790F2307"
+					item: "minecraft:dirt"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "725DDA6174CD73A6"
+					item: "minecraft:oak_sapling"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 3.0d
+			subtitle: "You only have to read this one"
+			tasks: [{
+				id: "7B22F6EB7B56BDE4"
+				title: "Click to complete!"
+				type: "checkmark"
+			}]
+			title: "Welcome!"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"Shaders come pre-installed!"
+				""
+				"Press &6o &fto enable, provided your PC has the specs capable for them."
+			]
+			icon: "minecraft:glass_pane"
+			id: "0EF072657ECC1059"
+			tasks: [{
+				id: "416CCBFDDD98399A"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "Shaders?"
+			x: -3.5d
+			y: 0.0d
+		}
+	]
+	subtitle: ["Introduction to basic mechanics"]
+	title: "Welcome"
+}

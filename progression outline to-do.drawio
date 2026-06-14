@@ -1,6 +1,6 @@
 <mxfile host="Electron" pages="2">
   <diagram name="Page-1" id="MYqo1k76NVaqQHKW2KsX">
-    <mxGraphModel dx="1899" dy="6020" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1982" dy="6043" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,9 +27,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-10" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YCXsymQhbBU-JPVY3qd5-12" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-16" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-15">
@@ -69,9 +66,6 @@
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="transportation" vertex="1">
           <mxGeometry height="60" width="120" x="231" y="616" as="geometry" />
-        </mxCell>
-        <mxCell id="YCXsymQhbBU-JPVY3qd5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="shaders" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="616" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ponder and guideME" vertex="1">
           <mxGeometry height="60" width="120" x="506" y="396" as="geometry" />
