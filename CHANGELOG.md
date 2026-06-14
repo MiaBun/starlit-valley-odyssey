@@ -4,6 +4,21 @@
 ### Changes
 - Sample Text
 
+## [0.0.9]
+### Changes
+- added quest that introduces muting sounds
+- added quest that introduces claiming chunks
+- added quest that introduces distant horizons
+- added xaero's world map
+- added xaero's minimap
+- disabled ftb chunks minimap
+- added xaero X FTBchunks compat mod
+- added extreme sounds muffler
+- added distant horizons
+- added terralith
+- added regions unexplored
+- added ambient sounds
+
 ## [0.0.8]
 ### Changes
 - updated ftb chunks mod
