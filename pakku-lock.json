@@ -1320,6 +1320,43 @@
             ]
         },
         {
+            "pakku_id": "RvjT7vUBpOctToPW",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "kiwi"
+            },
+            "name": {
+                "curseforge": "Kiwi 🥝 (Neo/Forge)"
+            },
+            "id": {
+                "curseforge": "303657"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Kiwi-1.20.1-Forge-11.10.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8109/664/Kiwi-1.20.1-Forge-11.10.2.jar",
+                    "id": "8109664",
+                    "parent_id": "303657",
+                    "hashes": {
+                        "sha1": "eeba73992d3c950be0a0a80cf4bdb3436ca561a9",
+                        "md5": "d39500317bb90794b829cef3c2e61e84"
+                    },
+                    "required_dependencies": [],
+                    "size": 1677323,
+                    "date_published": "2026-05-18T16:53:43.403Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "35bzbvSQjkntLpWn",
             "pakku_links": [
                 "eTQocryLFyi1ksfm"
@@ -2039,6 +2076,49 @@
                     ],
                     "size": 14249,
                     "date_published": "2025-03-12T16:39:35.327Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jcH5Iid8kwOzMlCa",
+            "pakku_links": [
+                "RvjT7vUBpOctToPW"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "snow-real-magic"
+            },
+            "name": {
+                "curseforge": "Snow! Real Magic! ⛄ (Neo/Forge)"
+            },
+            "id": {
+                "curseforge": "308663"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SnowRealMagic-1.20.1-Forge-10.7.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7472/648/SnowRealMagic-1.20.1-Forge-10.7.0.jar",
+                    "id": "7472648",
+                    "parent_id": "308663",
+                    "hashes": {
+                        "sha1": "c7fdaf6c9851106c0cedc02b98949ea229ca3f53",
+                        "md5": "d1736ff9c822c4fb02616c17de03e350"
+                    },
+                    "required_dependencies": [
+                        "303657"
+                    ],
+                    "size": 346619,
+                    "date_published": "2026-01-17T09:39:59.017Z"
                 }
             ]
         },
