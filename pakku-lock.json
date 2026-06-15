@@ -1356,6 +1356,44 @@
             ]
         },
         {
+            "pakku_id": "Nzv17ToqUhBhkObo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fusion-connected-textures"
+            },
+            "name": {
+                "curseforge": "Fusion (Connected Textures)"
+            },
+            "id": {
+                "curseforge": "854949"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fusion-1.2.12-forge-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7471/518/fusion-1.2.12-forge-mc1.20.1.jar",
+                    "id": "7471518",
+                    "parent_id": "854949",
+                    "hashes": {
+                        "sha1": "ec5c8a552493297842543140fed1b0a327c217f4",
+                        "md5": "aad8a16b48cd54cd75e34bf4f40eec1b"
+                    },
+                    "required_dependencies": [],
+                    "size": 544586,
+                    "date_published": "2026-01-17T02:39:03.600Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "70bcFKFwHnklDTec",
             "type": "MOD",
             "slug": {
