@@ -4,6 +4,31 @@
 ### Changes
 - Sample Text
 
+## [0.0.10]
+### Changes
+- rather big update that adds ~90 mods mostly centered around refining the visual look of the modpack, providing more KubeJS functionality and some other nice to haves alongside optimisation mods.
+- below a short summary:
+- added better compatibility checker, this will give me more control over ensuring if the modpack is compatible with the server you're trying to join!
+- added quests additions, this gives more quest types.
+- added shoulder surfing reloaded, this mod adds a 3rd person over the shoulder mode
+- added what are they up to, this gives visual feedback of what other players are doing, you can now watch your friends craft.
+- added chat heads, chat messages have a little cute player head now!
+- added ftb quest localizer, ftb quests can be localised now.
+- added fancy menu & dripp loading screen, in the future the main menu and loading screen will be fully customised.
+- added ht's treechop and panda's falling trees, tree's now actually fall when chopping them down.
+- added optifine zoom through ok zoomer.
+- added trofers, in the future you'll be able to collect certain trophies.
+- added observable, this will help with detecting lag sources.
+- added controllable, full controller support!
+- added a trash slot to the inventory.
+- added smoother animations to ftb quests.
+- added a painting selector to vanilla paintings.
+- added faster ladder climbing.
+- added trials chambers backported from 1.21
+- added a visual keybind editor
+- added some EMI plugins that allow you to see loot info, effect info and more.
+- overhauled the tooltips, they now include enchantment descriptions, food information, tool tips, nicer outlines around the item boxes and a little 3d preview of the item.
+
 ## [0.0.9]
 ### Changes
 - added quest that introduces muting sounds
