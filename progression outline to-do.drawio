@@ -1,6 +1,6 @@
 <mxfile host="Electron" pages="2">
   <diagram name="Page-1" id="MYqo1k76NVaqQHKW2KsX">
-    <mxGraphModel dx="2120" dy="6081" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2532" dy="6194" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,9 @@
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="shipping and currency" vertex="1">
           <mxGeometry height="60" width="120" x="88" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-10" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="p_k8QEUY-x7rwupQnIZv-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="transportation" vertex="1">
           <mxGeometry height="60" width="120" x="231" y="616" as="geometry" />
@@ -2000,6 +2003,9 @@
         <mxCell id="ONvU04Uk-y-eqvmLHyt9-4" edge="1" parent="1" source="gYXeVlYBWJ0sOE7ozV9N-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ONvU04Uk-y-eqvmLHyt9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-6" edge="1" parent="1" source="gYXeVlYBWJ0sOE7ozV9N-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="p_k8QEUY-x7rwupQnIZv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gYXeVlYBWJ0sOE7ozV9N-205" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="building tools" vertex="1">
           <mxGeometry height="60" width="120" x="1419" y="298" as="geometry" />
         </mxCell>
@@ -2045,7 +2051,10 @@
         <mxCell id="ONvU04Uk-y-eqvmLHyt9-2" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" target="ONvU04Uk-y-eqvmLHyt9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONvU04Uk-y-eqvmLHyt9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gacha machien for plushies" vertex="1">
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-8" edge="1" parent="1" source="ONvU04Uk-y-eqvmLHyt9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="p_k8QEUY-x7rwupQnIZv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONvU04Uk-y-eqvmLHyt9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gacha machine for plushies" vertex="1">
           <mxGeometry height="60" width="120" x="1539" y="203" as="geometry" />
         </mxCell>
         <mxCell id="YuxUuOTLAmuuojh494VP-1" edge="1" parent="1" source="YuxUuOTLAmuuojh494VP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YuxUuOTLAmuuojh494VP-4">
@@ -15264,6 +15273,15 @@
         </mxCell>
         <mxCell id="p_k8QEUY-x7rwupQnIZv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="paragliders" vertex="1">
           <mxGeometry height="60" width="120" x="1407" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="armor statues" vertex="1">
+          <mxGeometry height="33" width="120" x="1561" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="perfect plushies" vertex="1">
+          <mxGeometry height="60" width="120" x="1561" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="via romana" vertex="1">
+          <mxGeometry height="60" width="120" x="231" y="716" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

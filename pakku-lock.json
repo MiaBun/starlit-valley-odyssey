@@ -2124,6 +2124,47 @@
             ]
         },
         {
+            "pakku_id": "KkQSY8dVF6ruETUY",
+            "pakku_links": [
+                "ylbFz5Wp7PnOhvf1"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "quests-additions"
+            },
+            "name": {
+                "curseforge": "Quests Additions (Forge)"
+            },
+            "id": {
+                "curseforge": "580129"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "questsadditions-1.4.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6004/490/questsadditions-1.4.7.jar",
+                    "id": "6004490",
+                    "parent_id": "580129",
+                    "hashes": {
+                        "sha1": "789aeefff75e389bd311cff9ccfe422493dfe694",
+                        "md5": "285f47b10614f6cb3258ec04df16b44b"
+                    },
+                    "required_dependencies": [
+                        "289412"
+                    ],
+                    "size": 112015,
+                    "date_published": "2024-12-19T12:00:59.607Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "sW8dqhMhXyx9vV25",
             "type": "MOD",
             "slug": {
