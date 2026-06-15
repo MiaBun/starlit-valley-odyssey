@@ -762,6 +762,48 @@
             ]
         },
         {
+            "pakku_id": "g6ZOLBepnxIyEqQT",
+            "pakku_links": [
+                "4EP0PoxE2QstqLm1"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "rubidium-extra"
+            },
+            "name": {
+                "curseforge": "Embeddium (Rubidium) Extra"
+            },
+            "id": {
+                "curseforge": "654373"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6101/745/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+                    "id": "6101745",
+                    "parent_id": "654373",
+                    "hashes": {
+                        "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8",
+                        "md5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
+                    },
+                    "required_dependencies": [
+                        "908741"
+                    ],
+                    "size": 568608,
+                    "date_published": "2025-01-19T03:16:15.170Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "x4y8H4cMoTR5crE6",
             "type": "MOD",
             "slug": {
