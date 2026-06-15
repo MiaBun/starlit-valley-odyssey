@@ -237,6 +237,43 @@
             ]
         },
         {
+            "pakku_id": "GxRAb4jDS0PPSWWj",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "attributefix"
+            },
+            "name": {
+                "curseforge": "AttributeFix"
+            },
+            "id": {
+                "curseforge": "280510"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7612/291/AttributeFix-Forge-1.20.1-21.0.5.jar",
+                    "id": "7612291",
+                    "parent_id": "280510",
+                    "hashes": {
+                        "sha1": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa",
+                        "md5": "e43cd5f7fc4b04e20127359e5bf9af80"
+                    },
+                    "required_dependencies": [],
+                    "size": 19499,
+                    "date_published": "2026-02-12T01:13:46.607Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UROq9aMVetlhU6Tz",
             "type": "MOD",
             "slug": {
