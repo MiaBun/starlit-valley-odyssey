@@ -1282,6 +1282,47 @@
             ]
         },
         {
+            "pakku_id": "3G5LuRmO0aJ60Wbo",
+            "pakku_links": [
+                "Tuuvno77GcjEIYEa"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fast-paintings"
+            },
+            "name": {
+                "curseforge": "Fast Paintings"
+            },
+            "id": {
+                "curseforge": "883287"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fastpaintings-1.20-1.2.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5324/825/fastpaintings-1.20-1.2.7.jar",
+                    "id": "5324825",
+                    "parent_id": "883287",
+                    "hashes": {
+                        "sha1": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc",
+                        "md5": "d14882d3a9ddc95bb3b9dc1e53928e25"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 309400,
+                    "date_published": "2024-05-07T22:02:22.807Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VQgtPErkLoiTFQrg",
             "type": "MOD",
             "slug": {
@@ -1891,6 +1932,43 @@
                     "required_dependencies": [],
                     "size": 979326,
                     "date_published": "2026-06-12T00:04:27.903Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Tuuvno77GcjEIYEa",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "selene"
+            },
+            "name": {
+                "curseforge": "Moonlight Lib"
+            },
+            "id": {
+                "curseforge": "499980"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "moonlight-1.20-2.16.33-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8199/502/moonlight-1.20-2.16.33-forge.jar",
+                    "id": "8199502",
+                    "parent_id": "499980",
+                    "hashes": {
+                        "sha1": "3dcaba6e2595f7ee24deb34c5a32cdacd8196f3b",
+                        "md5": "10d0cd52783fa55bb8c19f4390424a33"
+                    },
+                    "required_dependencies": [],
+                    "size": 1397030,
+                    "date_published": "2026-06-05T06:18:44.633Z"
                 }
             ]
         },
