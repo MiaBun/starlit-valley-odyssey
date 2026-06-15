@@ -2387,6 +2387,43 @@
             ]
         },
         {
+            "pakku_id": "9rpCQ4tZTymTl6xj",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "shoulder-surfing-reloaded"
+            },
+            "name": {
+                "curseforge": "Shoulder Surfing Reloaded"
+            },
+            "id": {
+                "curseforge": "243190"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ShoulderSurfing-Forge-1.20.1-4.22.12.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8151/315/ShoulderSurfing-Forge-1.20.1-4.22.12.jar",
+                    "id": "8151315",
+                    "parent_id": "243190",
+                    "hashes": {
+                        "sha1": "8e6a6107d075af859f43dece064b71b2259c344b",
+                        "md5": "fce369c9984b6ee5b306b4b209ceeb6b"
+                    },
+                    "required_dependencies": [],
+                    "size": 270973,
+                    "date_published": "2026-05-26T21:47:43.157Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "jcH5Iid8kwOzMlCa",
             "pakku_links": [
                 "RvjT7vUBpOctToPW"
