@@ -1169,6 +1169,42 @@
             ]
         },
         {
+            "pakku_id": "CJMPJHKN9fDWeuri",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fragmentum"
+            },
+            "name": {
+                "curseforge": "Fragmentum [Forge Edition]"
+            },
+            "id": {
+                "curseforge": "1123970"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fragmentum-forge-1.20.1-1.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8099/907/fragmentum-forge-1.20.1-1.3.0.jar",
+                    "id": "8099907",
+                    "parent_id": "1123970",
+                    "hashes": {
+                        "sha1": "4d3c7ff7d0281713b92506dc4e4a358c549d3cf1",
+                        "md5": "0c30cad87d3a41bb12e57e295ce1a55c"
+                    },
+                    "required_dependencies": [],
+                    "size": 2733846,
+                    "date_published": "2026-05-16T18:32:57.753Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "70bcFKFwHnklDTec",
             "type": "MOD",
             "slug": {
@@ -1515,6 +1551,47 @@
                     "required_dependencies": [],
                     "size": 178625,
                     "date_published": "2023-11-23T00:33:22.407Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "IxUxo7ps8GmCHnta",
+            "pakku_links": [
+                "CJMPJHKN9fDWeuri"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "loot-journal"
+            },
+            "name": {
+                "curseforge": "Loot Journal: Pickup Notifier [Forge Edition]"
+            },
+            "id": {
+                "curseforge": "700723"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "loot_journal-forge-1.20.1-6.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8145/949/loot_journal-forge-1.20.1-6.2.1.jar",
+                    "id": "8145949",
+                    "parent_id": "700723",
+                    "hashes": {
+                        "sha1": "7a817be0df116a6a2ff51260e3ba1eecad3eeb8d",
+                        "md5": "44efcb56b3c4330d88893d4caf2d139f"
+                    },
+                    "required_dependencies": [
+                        "1123970"
+                    ],
+                    "size": 939923,
+                    "date_published": "2026-05-25T21:53:14.313Z"
                 }
             ]
         },
