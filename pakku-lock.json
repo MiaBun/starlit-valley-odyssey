@@ -274,6 +274,42 @@
             ]
         },
         {
+            "pakku_id": "W4UnNTrYdZeKz4z4",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "better-compatibility-checker"
+            },
+            "name": {
+                "curseforge": "Better Compatibility Checker"
+            },
+            "id": {
+                "curseforge": "551894"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4688/940/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+                    "id": "4688940",
+                    "parent_id": "551894",
+                    "hashes": {
+                        "sha1": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae",
+                        "md5": "6cda211453a4423157b1a7927b050cff"
+                    },
+                    "required_dependencies": [],
+                    "size": 26540,
+                    "date_published": "2023-08-08T16:32:58.147Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LK1gBRqU54NNzDRo",
             "type": "MOD",
             "slug": {
