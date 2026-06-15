@@ -236,6 +236,42 @@
             ]
         },
         {
+            "pakku_id": "LK1gBRqU54NNzDRo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "catalogue"
+            },
+            "name": {
+                "curseforge": "Catalogue"
+            },
+            "id": {
+                "curseforge": "459701"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "catalogue-forge-1.20.1-1.8.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4766/90/catalogue-forge-1.20.1-1.8.0.jar",
+                    "id": "4766090",
+                    "parent_id": "459701",
+                    "hashes": {
+                        "sha1": "b8cc73db430fa6015671492d4332a65a8c2f5cae",
+                        "md5": "524efc6bbcd6da51e86cbf3183587330"
+                    },
+                    "required_dependencies": [],
+                    "size": 240394,
+                    "date_published": "2023-09-24T02:34:14Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8Op3lZJRklSeAfu5",
             "type": "MOD",
             "slug": {
