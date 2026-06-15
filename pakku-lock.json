@@ -500,6 +500,43 @@
             ]
         },
         {
+            "pakku_id": "fvwuhNqrMXPIYfPD",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "blueprint"
+            },
+            "name": {
+                "curseforge": "Blueprint"
+            },
+            "id": {
+                "curseforge": "382216"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "blueprint-1.20.1-7.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8048/579/blueprint-1.20.1-7.1.4.jar",
+                    "id": "8048579",
+                    "parent_id": "382216",
+                    "hashes": {
+                        "sha1": "10ee193ad755b03eceb0791a6f5257755feebcfe",
+                        "md5": "024008848618628f9f37f7af1018ae58"
+                    },
+                    "required_dependencies": [],
+                    "size": 1165189,
+                    "date_published": "2026-05-06T15:28:19.517Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "IreUJ5EL65k3JwXr",
             "type": "MOD",
             "slug": {
@@ -1424,6 +1461,48 @@
             ]
         },
         {
+            "pakku_id": "y1G0miVDfKFbKOEK",
+            "pakku_links": [
+                "IreUJ5EL65k3JwXr"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "enchantment-descriptions"
+            },
+            "name": {
+                "curseforge": "Enchantment Descriptions"
+            },
+            "id": {
+                "curseforge": "250419"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7612/607/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+                    "id": "7612607",
+                    "parent_id": "250419",
+                    "hashes": {
+                        "sha1": "0328a8350cf0a6d1c44265367a077649088b354b",
+                        "md5": "82f3fc15d2b48e0bde064704e76a849a"
+                    },
+                    "required_dependencies": [
+                        "228525"
+                    ],
+                    "size": 66883,
+                    "date_published": "2026-02-12T03:26:35.620Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "onhsdfT3vTdD2LOp",
             "type": "MOD",
             "slug": {
@@ -1538,6 +1617,47 @@
                     ],
                     "size": 2364113,
                     "date_published": "2026-03-23T21:37:35.203Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "mRI6wuvzgPvGUsRI",
+            "pakku_links": [
+                "Tuuvno77GcjEIYEa"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "every-compat"
+            },
+            "name": {
+                "curseforge": "Every Compat (Wood Good)"
+            },
+            "id": {
+                "curseforge": "628539"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "everycomp-1.20-2.9.23-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8208/389/everycomp-1.20-2.9.23-forge.jar",
+                    "id": "8208389",
+                    "parent_id": "628539",
+                    "hashes": {
+                        "sha1": "7a7a86c532ed0b11a8b8b5d15fbf8f8a6a2daea6",
+                        "md5": "72c8ee0daea94b0f258491bfd27b2ef3"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 2858646,
+                    "date_published": "2026-06-07T01:08:46.700Z"
                 }
             ]
         },
@@ -2199,6 +2319,47 @@
             ]
         },
         {
+            "pakku_id": "02gqi2Av91CmZbF2",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "faster-ladder-climbing"
+            },
+            "name": {
+                "curseforge": "Faster Ladder Climbing"
+            },
+            "id": {
+                "curseforge": "258881"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FasterLadderClimbing-1.20.1-0.2.10.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4819/758/FasterLadderClimbing-1.20.1-0.2.10.jar",
+                    "id": "4819758",
+                    "parent_id": "258881",
+                    "hashes": {
+                        "sha1": "cf27aa0cbcc60a26ce9000b2b1c3c34c8fe84022",
+                        "md5": "473e7fe48569b45d60dc0e008bb5e96f"
+                    },
+                    "required_dependencies": [],
+                    "size": 7457,
+                    "date_published": "2023-10-27T19:49:08.973Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VQgtPErkLoiTFQrg",
             "type": "MOD",
             "slug": {
@@ -2343,6 +2504,79 @@
                     "required_dependencies": [],
                     "size": 544586,
                     "date_published": "2026-01-17T02:39:03.600Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "c6UF4ePJdHX6q5rq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "gallery"
+            },
+            "name": {
+                "curseforge": "Gallery"
+            },
+            "id": {
+                "curseforge": "1173553"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gallery-1.20.1-1.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6321/203/gallery-1.20.1-1.0.3.jar",
+                    "id": "6321203",
+                    "parent_id": "1173553",
+                    "hashes": {
+                        "sha1": "d4cc9e69776c2955bfb688d57ad691bfd6cd3347",
+                        "md5": "27001f76b53b1089135df0f8ba47bbd8"
+                    },
+                    "required_dependencies": [],
+                    "size": 241777,
+                    "date_published": "2025-03-19T05:11:30.037Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vhc1V3tVYCxp9esj",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "geckojs"
+            },
+            "name": {
+                "curseforge": "GeckoJS"
+            },
+            "id": {
+                "curseforge": "977922"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "GeckoJS-2001forge-1.5.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6349/198/GeckoJS-2001forge-1.5.2.jar",
+                    "id": "6349198",
+                    "parent_id": "977922",
+                    "hashes": {
+                        "sha1": "ff6a1f7877d4b2ed1d0ae4f4f1ea92b65a356cc7",
+                        "md5": "c7d7887320f6e720aa4419a93598c235"
+                    },
+                    "required_dependencies": [],
+                    "size": 153436,
+                    "date_published": "2025-03-26T04:10:01.917Z"
                 }
             ]
         },
@@ -2840,6 +3074,49 @@
                     ],
                     "size": 1658792,
                     "date_published": "2026-05-01T10:43:20.410Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uL1HnfYnpayGn10J",
+            "pakku_links": [
+                "FXNKMvH6JiRMbecG",
+                "35bzbvSQjkntLpWn"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "kubejs-additions"
+            },
+            "name": {
+                "curseforge": "KubeJS Additions"
+            },
+            "id": {
+                "curseforge": "594387"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kubejsadditions-forge-4.3.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6302/185/kubejsadditions-forge-4.3.4.jar",
+                    "id": "6302185",
+                    "parent_id": "594387",
+                    "hashes": {
+                        "sha1": "c2720e589a292d5d168ef71a57f5dc3436db96b1",
+                        "md5": "3fd00cc0a566ed51706fedb677b19217"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "238086"
+                    ],
+                    "size": 321976,
+                    "date_published": "2025-03-14T06:26:02.543Z"
                 }
             ]
         },
@@ -3656,6 +3933,49 @@
             ]
         },
         {
+            "pakku_id": "vBUJwuwUcU67M6Fi",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "packet-fixer"
+            },
+            "name": {
+                "curseforge": "Packet Fixer"
+            },
+            "id": {
+                "curseforge": "689467"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7872/374/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+                    "id": "7872374",
+                    "parent_id": "689467",
+                    "hashes": {
+                        "sha1": "79ebc5e66a5ee3ce92afb340e693d506e97361a0",
+                        "md5": "494234194e4ce530719281d558510cf5"
+                    },
+                    "required_dependencies": [],
+                    "size": 188661,
+                    "date_published": "2026-04-04T11:15:26.597Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9qZUdxbA4WoNRTwi",
             "pakku_links": [
                 "FXNKMvH6JiRMbecG",
@@ -3938,6 +4258,89 @@
             ]
         },
         {
+            "pakku_id": "i7SZFMmRQ7LCdaZx",
+            "pakku_links": [
+                "35bzbvSQjkntLpWn"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ponder"
+            },
+            "name": {
+                "curseforge": "Ponder for KubeJS"
+            },
+            "id": {
+                "curseforge": "622888"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ponderjs-1.20.1-2.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7188/949/ponderjs-1.20.1-2.1.0.jar",
+                    "id": "7188949",
+                    "parent_id": "622888",
+                    "hashes": {
+                        "sha1": "a661c5dc6cf28815154e71e066a9e8b13a9fc0c1",
+                        "md5": "cf7fbaba26523ba7966e4976023f1cd6"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 2285835,
+                    "date_published": "2025-11-05T13:30:16.063Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kAbVZd0Vd66VQvlO",
+            "pakku_links": [
+                "35bzbvSQjkntLpWn"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "powerfuljs"
+            },
+            "name": {
+                "curseforge": "PowerfulJS"
+            },
+            "id": {
+                "curseforge": "819845"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "powerfuljs-1.6.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4951/461/powerfuljs-1.6.1.jar",
+                    "id": "4951461",
+                    "parent_id": "819845",
+                    "hashes": {
+                        "sha1": "aff030e4fadb788201599e5cfff325f171b5028f",
+                        "md5": "33494b3bcaf7f2bd53ee74e341eade25"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 731791,
+                    "date_published": "2023-12-12T08:40:02.680Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lBHWVD9ZPfDmHNj0",
             "type": "MOD",
             "slug": {
@@ -4130,6 +4533,42 @@
                     "required_dependencies": [],
                     "size": 713454,
                     "date_published": "2024-09-09T08:07:43.540Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DUcwkBTtfelR9U5z",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "raws-visual-keybinder"
+            },
+            "name": {
+                "curseforge": "Raw's Visual keybinder"
+            },
+            "id": {
+                "curseforge": "1020759"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "visual_keybinder-1.20.1 - 0.1.12.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7776/129/visual_keybinder-1.20.1 - 0.1.12.jar",
+                    "id": "7776129",
+                    "parent_id": "1020759",
+                    "hashes": {
+                        "sha1": "88a524a32d540e49438bab2b28d3f8188eac1fa3",
+                        "md5": "3a45316762496820ab1710f97ef38a87"
+                    },
+                    "required_dependencies": [],
+                    "size": 258438,
+                    "date_published": "2026-03-18T14:32:16.833Z"
                 }
             ]
         },
@@ -4984,6 +5423,42 @@
                     ],
                     "size": 117983,
                     "date_published": "2026-05-01T06:45:46.360Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZW9UmlvimPvEIElz",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "trials-chambers-reuploaded"
+            },
+            "name": {
+                "curseforge": "Trials Chambers Reuploaded"
+            },
+            "id": {
+                "curseforge": "1392862"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Trials-2.3.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7280/359/Trials-2.3.4.jar",
+                    "id": "7280359",
+                    "parent_id": "1392862",
+                    "hashes": {
+                        "sha1": "791368beed656939d39bf60250d2dae117eebfc2",
+                        "md5": "0c8eab21ffc934388af9775eb73a9f75"
+                    },
+                    "required_dependencies": [],
+                    "size": 8337744,
+                    "date_published": "2025-12-01T00:49:24.047Z"
                 }
             ]
         },
