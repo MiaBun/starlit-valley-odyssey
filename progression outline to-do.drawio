@@ -1,6 +1,6 @@
 <mxfile host="Electron" pages="2">
   <diagram name="Page-1" id="MYqo1k76NVaqQHKW2KsX">
-    <mxGraphModel dx="2399" dy="6157" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="6081" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,6 +160,14 @@
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-54" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-53">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-4" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="p_k8QEUY-x7rwupQnIZv-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1526" y="605" />
+              <mxPoint x="1467" y="605" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="blacksmith invitation" vertex="1">
           <mxGeometry height="60" width="120" x="1496" y="520" as="geometry" />
@@ -2027,6 +2035,9 @@
         </mxCell>
         <mxCell id="gYXeVlYBWJ0sOE7ozV9N-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="entering elfheim, wait what?" vertex="1">
           <mxGeometry height="60" width="120" x="9735" y="-1100" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-2" edge="1" parent="1" source="ONvU04Uk-y-eqvmLHyt9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="p_k8QEUY-x7rwupQnIZv-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONvU04Uk-y-eqvmLHyt9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="field guide" vertex="1">
           <mxGeometry height="60" width="120" x="1001" y="418" as="geometry" />
@@ -15247,6 +15258,12 @@
         </mxCell>
         <mxCell id="WWonTSzb2dbDCgluWlWv-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2nd bite reverses" vertex="1">
           <mxGeometry height="60" width="120" x="10649" y="-83" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="exposure camera" vertex="1">
+          <mxGeometry height="60" width="120" x="1001" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="p_k8QEUY-x7rwupQnIZv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="paragliders" vertex="1">
+          <mxGeometry height="60" width="120" x="1407" y="716" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

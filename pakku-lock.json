@@ -8,6 +8,44 @@
     },
     "projects": [
         {
+            "pakku_id": "GnORuX3UnMmok65Y",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "additional-attributes"
+            },
+            "name": {
+                "curseforge": "Additional Attributes"
+            },
+            "id": {
+                "curseforge": "986624"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "additional_attributes-1.20.1-1.3.6-all.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6782/138/additional_attributes-1.20.1-1.3.6-all.jar",
+                    "id": "6782138",
+                    "parent_id": "986624",
+                    "hashes": {
+                        "sha1": "aa172dc324d2d59fc41a15dec77ab4f3e2a5527a",
+                        "md5": "7df915975334e8bcbb9ddf9e42674b41"
+                    },
+                    "required_dependencies": [],
+                    "size": 252410,
+                    "date_published": "2025-07-18T06:07:45.590Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "whUyQ17qi1GTG5XK",
             "type": "MOD",
             "slug": {
