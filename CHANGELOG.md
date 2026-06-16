@@ -4,6 +4,14 @@
 ### Changes
 - Sample Text
 
+## [0.0.12]
+### Changes
+- ensured musgo and joyful motions are default required texture packs.
+- implemented every quest in the welcome chapter.
+- added spice of life to give more reasons to eat diverse
+- added creeper confetti, begone annoying creeper explosions!
+- added create, create numismatics and create numismatics utils
+
 ## [0.0.11]
 ### Changes
 - added cosmetic armor reworked
