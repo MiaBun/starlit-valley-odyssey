@@ -236,6 +236,47 @@
             ]
         },
         {
+            "pakku_id": "g5wk1bsWLg6YLJuJ",
+            "pakku_links": [
+                "Tuuvno77GcjEIYEa"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "amendments"
+            },
+            "name": {
+                "curseforge": "Amendments"
+            },
+            "id": {
+                "curseforge": "896746"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "amendments-1.20-2.2.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7470/401/amendments-1.20-2.2.5.jar",
+                    "id": "7470401",
+                    "parent_id": "896746",
+                    "hashes": {
+                        "sha1": "5d5a1d7d2d2dd37c578fdea2495757baaa624092",
+                        "md5": "3e821a83a3a12bc9ca0fecb73a980dba"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 1301022,
+                    "date_published": "2026-01-16T21:48:01.220Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EM8VFxEFDHGYN6cU",
             "type": "MOD",
             "slug": {
@@ -1070,6 +1111,42 @@
                     "required_dependencies": [],
                     "size": 64187,
                     "date_published": "2024-02-10T13:46:20.167Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LNwq7nrc2lN4uFIQ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cosmetic-armor-reworked"
+            },
+            "name": {
+                "curseforge": "Cosmetic Armor Reworked"
+            },
+            "id": {
+                "curseforge": "237307"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar",
+                    "id": "4600191",
+                    "parent_id": "237307",
+                    "hashes": {
+                        "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+                        "md5": "2454075e9a25cbadc0fce66502e3261d"
+                    },
+                    "required_dependencies": [],
+                    "size": 88752,
+                    "date_published": "2023-06-21T05:37:55.983Z"
                 }
             ]
         },
@@ -2849,6 +2926,64 @@
             ]
         },
         {
+            "pakku_id": "ph0iXe7Lfxt574nC",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "joyful-motions"
+            },
+            "name": {
+                "modrinth": "Joyful Motions"
+            },
+            "id": {
+                "modrinth": "Q2Nx245G"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Joyful Motions.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Q2Nx245G/versions/nmVMmCQV/Joyful Motions.zip",
+                    "id": "nmVMmCQV",
+                    "parent_id": "Q2Nx245G",
+                    "hashes": {
+                        "sha512": "5d521bb1fafb5d947373f0ece1a616db172d7d772c77f06bf3fcf3458a5c14f860a4e7e8af2f7f9d67e6f12ac467a57aced9b6e89e4816239dc94dce6a336e3a",
+                        "sha1": "c5f83130e5ac4030c9c558c9cc6ea967e7b5f119"
+                    },
+                    "required_dependencies": [],
+                    "size": 128418,
+                    "date_published": "2026-04-16T08:42:27.324946Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oIhStJ6BfjuewN0y",
             "type": "MOD",
             "slug": {
@@ -3734,6 +3869,46 @@
             ]
         },
         {
+            "pakku_id": "marFQ9wGkKSXMyGT",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "musgo"
+            },
+            "name": {
+                "curseforge": "Musgo"
+            },
+            "id": {
+                "curseforge": "1305044"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Musgo.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7821/048/Musgo.zip",
+                    "id": "7821048",
+                    "parent_id": "1305044",
+                    "hashes": {
+                        "sha1": "30b4a70757b19f3e1cbcc79f21f5d797c0fa0a9c",
+                        "md5": "e9b702c3ea8530663dc2aaa9a7d62fd8"
+                    },
+                    "required_dependencies": [],
+                    "size": 1965327,
+                    "date_published": "2026-03-27T04:26:09.447Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zy7pqzDTu4JbemQa",
             "type": "MOD",
             "slug": {
@@ -3767,6 +3942,43 @@
                     "required_dependencies": [],
                     "size": 272740,
                     "date_published": "2023-06-26T14:50:49.010Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Vxu8Bk8ujTxQvkPo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "not-enough-animations"
+            },
+            "name": {
+                "curseforge": "Not Enough Animations"
+            },
+            "id": {
+                "curseforge": "433760"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "notenoughanimations-forge-1.12.3-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8063/400/notenoughanimations-forge-1.12.3-mc1.20.1.jar",
+                    "id": "8063400",
+                    "parent_id": "433760",
+                    "hashes": {
+                        "sha1": "95ee4f40cd30147ec1cd7f598f4635aa3f76bd2d",
+                        "md5": "d58d52e0822a5c2e52d550601c2804bc"
+                    },
+                    "required_dependencies": [],
+                    "size": 1942586,
+                    "date_published": "2026-05-09T14:56:32.010Z"
                 }
             ]
         },
@@ -4423,6 +4635,42 @@
             ]
         },
         {
+            "pakku_id": "6eQcCs35TwIlEq5Z",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "punchy"
+            },
+            "name": {
+                "curseforge": "Punchy! - First person animations"
+            },
+            "id": {
+                "curseforge": "1374153"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "punchy-2.5.5-forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8103/827/punchy-2.5.5-forge-1.20.1.jar",
+                    "id": "8103827",
+                    "parent_id": "1374153",
+                    "hashes": {
+                        "sha1": "c5ea379842c9a0e2547d48c5eed6b6e7d470ab59",
+                        "md5": "0357e5cd5b2c6bbb096b175774d7ba20"
+                    },
+                    "required_dependencies": [],
+                    "size": 1690343,
+                    "date_published": "2026-05-17T13:55:12.647Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "SAuZduabO9ClRn7A",
             "type": "MOD",
             "slug": {
@@ -4941,6 +5189,43 @@
                     ],
                     "size": 1198997,
                     "date_published": "2023-12-17T22:09:26.180Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4JdrM0h3viVqdJPf",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "skin-layers-3d"
+            },
+            "name": {
+                "curseforge": "Skin Layers 3D"
+            },
+            "id": {
+                "curseforge": "521480"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7857/555/skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+                    "id": "7857555",
+                    "parent_id": "521480",
+                    "hashes": {
+                        "sha1": "b64ccb25ebe4cb7b09d1dd4561dbc519d5f02382",
+                        "md5": "d7173930d21f0f3bf240e1d08ba84a29"
+                    },
+                    "required_dependencies": [],
+                    "size": 2163998,
+                    "date_published": "2026-04-01T18:15:51.713Z"
                 }
             ]
         },
