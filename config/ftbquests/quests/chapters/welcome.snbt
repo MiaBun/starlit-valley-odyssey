@@ -121,7 +121,7 @@
 			}]
 			title: "Distant horizons"
 			x: 0.0d
-			y: -4.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["3F48C4C993B70EE5"]
@@ -143,6 +143,131 @@
 			title: "Muting sounds"
 			x: 3.0d
 			y: -3.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"Teleportation does exist, however you will have to invest massive amounts of cash to buy it."
+				""
+				"Alternatively, you can build out a network of roads and teleport between them using signs."
+			]
+			icon: "minecraft:chorus_fruit"
+			id: "778FB81CBF7FC817"
+			tasks: [{
+				id: "7022D9A8B6369BB9"
+				title: "Undertstood!"
+				type: "checkmark"
+			}]
+			title: "Transportation"
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"Starlit Valley: Odyssey is a more peaceful oriented modpack! This means:"
+				""
+				"- Inventory is kept on death (Though tool durability will be lost)"
+				"- Mobs don't spawn above ground"
+				"- Phantoms are repurposed, instead of punishing you for not sleeping, they spawn on layer 5 of the Skull Cavern."
+				"- pillager patrols no longer spawn"
+				"- Creepers are festive!"
+				""
+				"This doesn't mean there's no danger however. &6The underground, Nether, Skull Cavern and End are as dangerous as ever&f...."
+			]
+			icon: "minecraft:lily_of_the_valley"
+			id: "69182A5D87C407CB"
+			tasks: [{
+				id: "5DED118F809A1037"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "More Peaceful Experience"
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"Spice of Life: Onion Edition has been added to incentivize eating different foods."
+				""
+				"Reaching certain thresholds of food diversity will give you benefits listed in the book. Most notably: extra health!"
+			]
+			icon: "minecraft:book"
+			id: "5897641B7413B59A"
+			tasks: [{
+				id: "7C6C54D91FC08C03"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "The spice of Life"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3F48C4C993B70EE5"]
+			description: [
+				"Many recipes in the pack are modified or require currency."
+				""
+				"Like games such as Stardew Valley and Harvest Moon, exploit the earth for profit!"
+				""
+				"However beware, you might get a chance to go full capitalism or RPG mode to advance!"
+			]
+			icon: "minecraft:gold_nugget"
+			id: "793874F39F02CD8A"
+			tasks: [{
+				id: "6FB234265627F943"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "Shipping and Currency"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["778FB81CBF7FC817"]
+			description: [
+				"Ultimine does exist, however it's a enchant called Veinminer that you will have to either invest massive amounts of cash to buy."
+				""
+				"Or you can get lucky with looting chests!"
+				"Alternatively you can get lucky with a enchantment table. However this isn't possible till later in the game."
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:diamond_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "06E1BDAA7349B291"
+			subtitle: "where's my bestie!"
+			tasks: [{
+				id: "377ECBC76D7E6F4B"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "No ultimine?"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["793874F39F02CD8A"]
+			description: [
+				"This modpack features full documentation through GuideME and Ponder."
+				""
+				"- GuideME provides a full in-game Wiki giving detailed information about almost every important item and gameplay feature in this pack."
+				"- Ponder provides visual guidance for every workstation, machinery and other interactables!"
+			]
+			icon: "minecraft:small_amethyst_bud"
+			id: "3CB774469C44D773"
+			tasks: [{
+				id: "6D328AE0B64DA135"
+				title: "Understood!"
+				type: "checkmark"
+			}]
+			title: "Ponder and GuideME"
+			x: 0.0d
+			y: 5.0d
 		}
 	]
 	subtitle: ["Introduction to basic mechanics"]
