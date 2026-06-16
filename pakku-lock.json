@@ -5393,6 +5393,48 @@
             ]
         },
         {
+            "pakku_id": "7RNoM7d7fQcUDaXx",
+            "pakku_links": [
+                "rp37PJgjurtIYyio"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "spice-of-life-onion"
+            },
+            "name": {
+                "curseforge": "Spice of Life Onion"
+            },
+            "id": {
+                "curseforge": "878047"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SoLOnion_FORGE_v1.4.5_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5816/336/SoLOnion_FORGE_v1.4.5_mc1.20.1.jar",
+                    "id": "5816336",
+                    "parent_id": "878047",
+                    "hashes": {
+                        "sha1": "1c8a22b8e1da93feb9a1c0e5a2c57dc805db9df7",
+                        "md5": "ec2194e64bdd85f3969b76dc583276cc"
+                    },
+                    "required_dependencies": [
+                        "257814"
+                    ],
+                    "size": 285625,
+                    "date_published": "2024-10-16T08:15:29.463Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "aSfE8HURLTNM7GWd",
             "pakku_links": [
                 "HAtAViHgHnhQkS78"

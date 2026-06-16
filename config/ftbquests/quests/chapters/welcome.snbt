@@ -193,8 +193,13 @@
 				""
 				"Reaching certain thresholds of food diversity will give you benefits listed in the book. Most notably: extra health!"
 			]
-			icon: "minecraft:book"
+			icon: "solonion:food_book"
 			id: "5897641B7413B59A"
+			rewards: [{
+				id: "59FD3AA35936859A"
+				item: "solonion:food_book"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7C6C54D91FC08C03"
 				title: "Understood!"
