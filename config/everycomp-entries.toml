@@ -78,6 +78,10 @@
 		[entries.wood_type.regions_unexplored]
 			branch = true
 
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
 	[entries.leaves_type]
 
 		[entries.leaves_type.regions_unexplored]

@@ -218,7 +218,7 @@
 				""
 				"However beware, you might get a chance to go full capitalism or RPG mode to advance!"
 			]
-			icon: "minecraft:gold_nugget"
+			icon: "numismatics:cog"
 			id: "793874F39F02CD8A"
 			tasks: [{
 				id: "6FB234265627F943"

@@ -1190,6 +1190,130 @@
             ]
         },
         {
+            "pakku_id": "F9CnOGO5Cg53z7pj",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create"
+            },
+            "name": {
+                "curseforge": "Create"
+            },
+            "id": {
+                "curseforge": "328085"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-1.20.1-6.0.8.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7178/761/create-1.20.1-6.0.8.jar",
+                    "id": "7178761",
+                    "parent_id": "328085",
+                    "hashes": {
+                        "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+                        "md5": "6ebc5c57638c1678359eac65b924c310"
+                    },
+                    "required_dependencies": [],
+                    "size": 19170905,
+                    "date_published": "2025-11-02T16:10:24.043Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "8UMjo1wxNXpB3mOL",
+            "pakku_links": [
+                "F9CnOGO5Cg53z7pj"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "numismatics"
+            },
+            "name": {
+                "curseforge": "Create: Numismatics"
+            },
+            "id": {
+                "curseforge": "889722"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6264/591/CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+                    "id": "6264591",
+                    "parent_id": "889722",
+                    "hashes": {
+                        "sha1": "f49daf6ea32cd7b15816dafff5cf8fe291c89218",
+                        "md5": "4943d40efd8e79c800f495b572ad4282"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 885623,
+                    "date_published": "2025-03-04T18:42:57.287Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "UB72VS3kNTRaAio3",
+            "pakku_links": [
+                "8UMjo1wxNXpB3mOL",
+                "F9CnOGO5Cg53z7pj",
+                "DorF6z4xkUtg8nKT"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-numismatics-utils"
+            },
+            "name": {
+                "curseforge": "Create: Numismatics Utils"
+            },
+            "id": {
+                "curseforge": "1339392"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "numismatics_utils-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8026/503/numismatics_utils-2.1.jar",
+                    "id": "8026503",
+                    "parent_id": "1339392",
+                    "hashes": {
+                        "sha1": "7b730f7c9717e261445866e4889849133a970e13",
+                        "md5": "f481fedba8889fba647fee2cc57e9e3e"
+                    },
+                    "required_dependencies": [
+                        "889722",
+                        "328085",
+                        "309927"
+                    ],
+                    "size": 41436,
+                    "date_published": "2026-05-02T13:04:12.323Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "rp37PJgjurtIYyio",
             "type": "MOD",
             "slug": {
@@ -1296,6 +1420,44 @@
                     "required_dependencies": [],
                     "size": 31643,
                     "date_published": "2026-04-10T16:49:55.103Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DorF6z4xkUtg8nKT",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "curios"
+            },
+            "name": {
+                "curseforge": "Curios API (Forge/NeoForge)"
+            },
+            "id": {
+                "curseforge": "309927"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "curios-forge-5.14.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1+1.20.1.jar",
+                    "id": "6418456",
+                    "parent_id": "309927",
+                    "hashes": {
+                        "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+                        "md5": "2fdcc97cbc66c4b2492b407c792e7159"
+                    },
+                    "required_dependencies": [],
+                    "size": 398066,
+                    "date_published": "2025-04-13T13:09:30.850Z"
                 }
             ]
         },
