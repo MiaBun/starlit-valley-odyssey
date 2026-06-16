@@ -4,6 +4,16 @@
 ### Changes
 - Sample Text
 
+## [0.0.11]
+### Changes
+- added cosmetic armor reworked
+- added not enough animations
+- added skin layers 3d
+- added punchy!
+- added joyful motions
+- added amendments
+- added musgo (will be forked later down the line to be expanded)
+
 ## [0.0.10]
 ### Changes
 - rather big update that adds ~90 mods mostly centered around refining the visual look of the modpack, providing more KubeJS functionality and some other nice to haves alongside optimisation mods.
