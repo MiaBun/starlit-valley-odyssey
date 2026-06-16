@@ -4857,6 +4857,42 @@
             ]
         },
         {
+            "pakku_id": "xxrnEupwlYPF0bGB",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "resource-pack-overrides"
+            },
+            "name": {
+                "curseforge": "Resource Pack Overrides"
+            },
+            "id": {
+                "curseforge": "832644"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5101/541/ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar",
+                    "id": "5101541",
+                    "parent_id": "832644",
+                    "hashes": {
+                        "sha1": "fa3d92461bceb63439d33ab634e894d4b342599c",
+                        "md5": "e104ab9263aae79fd2fcb4f0f9f258cc"
+                    },
+                    "required_dependencies": [],
+                    "size": 84339,
+                    "date_published": "2024-02-12T10:51:10.697Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "eTQocryLFyi1ksfm",
             "type": "MOD",
             "slug": {
