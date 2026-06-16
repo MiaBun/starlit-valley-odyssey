@@ -1227,6 +1227,42 @@
             ]
         },
         {
+            "pakku_id": "WP7RRmHCU9jtckn1",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "creeper-confetti"
+            },
+            "name": {
+                "curseforge": "Creeper Confetti"
+            },
+            "id": {
+                "curseforge": "222548"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "creeperconfetti-4.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5990/872/creeperconfetti-4.3.jar",
+                    "id": "5990872",
+                    "parent_id": "222548",
+                    "hashes": {
+                        "sha1": "acf7b04bdb95e344e13eda9fdeff95dd353e5048",
+                        "md5": "617f4df8bfce86edd8539588a30e969c"
+                    },
+                    "required_dependencies": [],
+                    "size": 267538,
+                    "date_published": "2024-12-14T16:30:21.387Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "P7WLyaK0X2ZiNCWW",
             "type": "MOD",
             "slug": {
