@@ -5535,6 +5535,42 @@
             ]
         },
         {
+            "pakku_id": "bIz3rlQw6wzJFN78",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "simple-voice-chat"
+            },
+            "name": {
+                "curseforge": "Simple Voice Chat"
+            },
+            "id": {
+                "curseforge": "416089"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "voicechat-forge-1.20.1-2.6.18.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8158/492/voicechat-forge-1.20.1-2.6.18.jar",
+                    "id": "8158492",
+                    "parent_id": "416089",
+                    "hashes": {
+                        "sha1": "d80072e188d9611f7c5afd6fabe79ed53752f80f",
+                        "md5": "07082c80834951e6621fec0dc52096b2"
+                    },
+                    "required_dependencies": [],
+                    "size": 4903917,
+                    "date_published": "2026-05-28T08:05:03.440Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4JdrM0h3viVqdJPf",
             "type": "MOD",
             "slug": {
