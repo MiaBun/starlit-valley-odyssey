@@ -957,6 +957,42 @@
             ]
         },
         {
+            "pakku_id": "yHeMfB0vC66yyKEK",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "configured-defaults"
+            },
+            "name": {
+                "curseforge": "Configured Defaults"
+            },
+            "id": {
+                "curseforge": "930131"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6060/24/ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar",
+                    "id": "6060024",
+                    "parent_id": "930131",
+                    "hashes": {
+                        "sha1": "4ce4e836cc837a9b99dd1a9119260c640a4b5240",
+                        "md5": "344e3a4599ad289fb1d0554f963f3031"
+                    },
+                    "required_dependencies": [],
+                    "size": 42866,
+                    "date_published": "2025-01-06T17:30:50.613Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KZvK1rlapJMit1QJ",
             "type": "MOD",
             "slug": {
@@ -2892,6 +2928,42 @@
             ]
         },
         {
+            "pakku_id": "hv0ut46m9xCPq3mL",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "guideme"
+            },
+            "name": {
+                "curseforge": "GuideME"
+            },
+            "id": {
+                "curseforge": "1173950"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "guideme-20.1.15.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8204/776/guideme-20.1.15.jar",
+                    "id": "8204776",
+                    "parent_id": "1173950",
+                    "hashes": {
+                        "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
+                        "md5": "0d892c2b4af52459ac6a639040374916"
+                    },
+                    "required_dependencies": [],
+                    "size": 9414827,
+                    "date_published": "2026-06-06T09:47:01.193Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Bg2BkJ77v4KCu0MJ",
             "type": "MOD",
             "slug": {
@@ -3001,6 +3073,42 @@
                     "required_dependencies": [],
                     "size": 538992,
                     "date_published": "2026-01-27T21:06:43.760Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "t6CwO5eORXo29huA",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "in-control"
+            },
+            "name": {
+                "curseforge": "In Control!"
+            },
+            "id": {
+                "curseforge": "257356"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "incontrol-1.20-9.4.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7436/213/incontrol-1.20-9.4.6.jar",
+                    "id": "7436213",
+                    "parent_id": "257356",
+                    "hashes": {
+                        "sha1": "0d324b97af98938f28f58f696e0b992c42eb8f31",
+                        "md5": "4812d8f692a52668176909b87c937e8a"
+                    },
+                    "required_dependencies": [],
+                    "size": 361894,
+                    "date_published": "2026-01-09T05:39:22.677Z"
                 }
             ]
         },
