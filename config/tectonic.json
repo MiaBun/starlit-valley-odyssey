@@ -26,7 +26,7 @@
     "ridge_scale": 0.25,
     "river_lanterns": true,
     "rolling_hills": true,
-    "underground_rivers": true
+    "underground_rivers": false
   },
   "general": {
     "mod_enabled": true,

@@ -841,6 +841,43 @@
             ]
         },
         {
+            "pakku_id": "tiH2euGF0OT6cefm",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "coastal-waves"
+            },
+            "name": {
+                "curseforge": "Coastal Waves"
+            },
+            "id": {
+                "curseforge": "1155936"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Waves-1.20.1-1.6.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7208/600/Waves-1.20.1-1.6.1.jar",
+                    "id": "7208600",
+                    "parent_id": "1155936",
+                    "hashes": {
+                        "sha1": "9704c7049b49ba6f5969ba2a1442490385764d03",
+                        "md5": "9012ca8827fef15f7fa78179ce2fbf86"
+                    },
+                    "required_dependencies": [],
+                    "size": 1337928,
+                    "date_published": "2025-11-10T23:43:44.807Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uAfX6SqLG5jdTJrO",
             "type": "MOD",
             "slug": {
@@ -1611,6 +1648,42 @@
                     "required_dependencies": [],
                     "size": 402345,
                     "date_published": "2026-01-29T18:21:06.127Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Q1iRSCfiZzN9DfSV",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dynamic-waters"
+            },
+            "name": {
+                "curseforge": "Dynamic Waters: Realistic Flowing Rivers"
+            },
+            "id": {
+                "curseforge": "1505834"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dynamicwaters-9.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8237/798/dynamicwaters-9.0.0.jar",
+                    "id": "8237798",
+                    "parent_id": "1505834",
+                    "hashes": {
+                        "sha1": "221221db7ff08f420e9dd1ae0f9f4dc1e2b9bb5a",
+                        "md5": "40d70ee2dbbba70e1daf469e3cd142a6"
+                    },
+                    "required_dependencies": [],
+                    "size": 168456,
+                    "date_published": "2026-06-12T17:20:34.617Z"
                 }
             ]
         },
