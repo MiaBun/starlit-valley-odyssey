@@ -4,6 +4,17 @@
 ### Changes
 - Sample Text
 
+## [0.0.13]
+### Changes
+- added new mods (guideME, in control, configured defaults, simple voice chat, dynamic waters, rpg tweaks and coastal waves)
+- added a template page to in-game wiki using guideME
+- added in-game wiki and quest book buttons to pause menu, these replace the player feedback and report bugs buttons
+- ensured tools dont lose durability when mining, instead they lose durability upon death
+- modified welcome quest so it auto completed and runs 4 commands to setup the world
+- modified hostile mob behaviour so they can't spawn above y level 50
+- modified drowned behaviour so they don't spawn above y level 30
+- changed valid biome spawns, now you'll only spawn in either forests or plains
+
 ## [0.0.12]
 ### Changes
 - ensured musgo and joyful motions are default required texture packs.
