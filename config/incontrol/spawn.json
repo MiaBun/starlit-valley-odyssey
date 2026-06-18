@@ -1,1 +1,31 @@
-[]
+[
+    {
+    "mob": [
+      "minecraft:drowned"
+    ],
+    "dimension": "minecraft:overworld",
+    "minheight": 30,
+    "result": "deny"
+  },
+  {
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:skeleton",
+      "minecraft:enderman",
+      "minecraft:spider",
+      "minecraft:creeper",
+      "minecraft:witch",
+      "minecraft:zombie_villager",
+      "minecraft:husk",
+      "minecraft:stray",
+      "trials:bogged",
+      "minecraft:slime",
+      "minecraft:skeleton_horse",
+      "species:limpet",
+      "windswept:chilled"
+    ],
+    "dimension": "minecraft:overworld",
+    "minheight": 50,
+    "result": "deny"
+  }
+]
