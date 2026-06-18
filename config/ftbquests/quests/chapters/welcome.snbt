@@ -40,14 +40,48 @@
 					item: "minecraft:bundle"
 					type: "item"
 				}
+				{
+					auto: "invisible"
+					command: "/gamerule doPatrolSpawning false"
+					elevate_perms: true
+					id: "444C0247EEE87627"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/gamerule keepInventory true "
+					elevate_perms: true
+					id: "02EC7B91A0F40920"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/gamerule doInsomnia false "
+					elevate_perms: true
+					id: "07D37153C77E51D5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/gamerule randomTickSpeed 3"
+					elevate_perms: true
+					id: "5F92D5AF9B9605D8"
+					silent: true
+					type: "command"
+				}
 			]
 			shape: "hexagon"
 			size: 3.0d
 			subtitle: "You only have to read this one"
 			tasks: [{
-				id: "7B22F6EB7B56BDE4"
-				title: "Click to complete!"
-				type: "checkmark"
+				dimension: "minecraft:overworld"
+				icon: "minecraft:grass"
+				id: "7FCDB35B538D88AC"
+				title: "Spawn in"
+				type: "dimension"
 			}]
 			title: "Welcome!"
 			x: 0.0d
