@@ -3186,6 +3186,42 @@
             ]
         },
         {
+            "pakku_id": "Dl8pW2GA35IfEI8J",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "irons-rpg-tweaks"
+            },
+            "name": {
+                "curseforge": "Iron's Rpg Tweaks"
+            },
+            "id": {
+                "curseforge": "871799"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "irons_rpg_tweaks-1.20.1-2.2.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8261/779/irons_rpg_tweaks-1.20.1-2.2.3.jar",
+                    "id": "8261779",
+                    "parent_id": "871799",
+                    "hashes": {
+                        "sha1": "610d660a9044fa15a07f84cec59c01ab5dfc7fed",
+                        "md5": "970b24fecb60978c8e4f50d08f0b2926"
+                    },
+                    "required_dependencies": [],
+                    "size": 291948,
+                    "date_published": "2026-06-16T22:19:26.573Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "qPhGK6WzFQ9WmNTN",
             "pakku_links": [
                 "FXNKMvH6JiRMbecG"
