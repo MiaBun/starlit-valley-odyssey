@@ -1,12 +1,9 @@
 ---
-item_ids:
-  - minecraft:carrot
 navigation:
-  title: Root
+  title: Starlit Valley Odyssey
+  position: 0
 ---
 
 # Start Page
 
-<Recipe id="missingrecipe" fallbackText="The recipe for special item is disabled." />
-
-Welcome to the world of Starlit Valley: Odyssey
+Welcome to Starlit Valley: Odyssey.
