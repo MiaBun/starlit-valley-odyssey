@@ -1,6 +1,6 @@
 <mxfile host="Electron" pages="2">
   <diagram name="Page-1" id="MYqo1k76NVaqQHKW2KsX">
-    <mxGraphModel dx="796" dy="4912" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1331" dy="5227" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -873,6 +873,15 @@
         <mxCell id="YCXsymQhbBU-JPVY3qd5-290" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-289">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-5" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dlL8ANEM4bONt9ZFSMut-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-7" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dlL8ANEM4bONt9ZFSMut-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-9" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dlL8ANEM4bONt9ZFSMut-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-283" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="making real money" vertex="1">
           <mxGeometry height="60" width="120" x="4399" y="517" as="geometry" />
         </mxCell>
@@ -883,7 +892,7 @@
           <mxGeometry height="60" width="120" x="4433" y="418" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-287" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="higher tiers" vertex="1">
-          <mxGeometry height="60" width="120" x="4399" y="601" as="geometry" />
+          <mxGeometry height="60" width="120" x="4279" y="627" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-320" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-319">
           <mxGeometry relative="1" as="geometry" />
@@ -981,6 +990,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_5YWvvIDfL7cFto8KaLl-16" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_5YWvvIDfL7cFto8KaLl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-3" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-321">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-319" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the skull cavern" vertex="1">
@@ -1982,6 +1994,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2SbEbTO14hR2UUhXcSwJ-327" edge="1" parent="1" source="gYXeVlYBWJ0sOE7ozV9N-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="2SbEbTO14hR2UUhXcSwJ-326">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-2" edge="1" parent="1" source="gYXeVlYBWJ0sOE7ozV9N-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dlL8ANEM4bONt9ZFSMut-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gYXeVlYBWJ0sOE7ozV9N-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="entering elfheim, wait what?" vertex="1">
@@ -15289,6 +15304,18 @@
         </mxCell>
         <mxCell id="A8H10mZjsu9il7eKxzr1-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="via romana" vertex="1">
           <mxGeometry height="60" width="120" x="1275" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mako island - mermod exploration secret" vertex="1">
+          <mxGeometry height="60" width="120" x="9735" y="-962" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="running your own cafe" vertex="1">
+          <mxGeometry height="60" width="120" x="4411" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="running your own restaurant" vertex="1">
+          <mxGeometry height="60" width="120" x="4553" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="dlL8ANEM4bONt9ZFSMut-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="running your own bar" vertex="1">
+          <mxGeometry height="60" width="120" x="4688" y="628" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

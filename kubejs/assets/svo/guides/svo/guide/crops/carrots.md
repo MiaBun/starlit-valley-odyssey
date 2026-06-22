@@ -4,9 +4,14 @@ item_ids:
 navigation:
   title: Carrots
   parent: crops/crops.md
-  position: 1
 ---
 
 # Carrots
 
-Carrots!
+A carrot is a food item obtained from carrot crops that can be used to plant them, eaten or used as a crafting ingredient.
+
+Carrot crops are planted in farmland and used to grow carrots.
+
+<ItemGrid>
+    <ItemIcon  id="minecraft:carrot" />
+</ItemGrid>
