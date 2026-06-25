@@ -4,6 +4,15 @@
 ### Changes
 - Sample Text
 
+## [0.1.0]
+### Changes
+- added a in-game wiki, whilst not finished it at least has pages for all trees, crops, materials and animals.
+- added windy configured mod
+- added auroras mod
+- changed the mojang boot up screen to be less of an eye-sore.
+- changed the title screen to be less cluttered by removing some buttons that hav e 0 use in modded.
+- removed all create, numismatics and numismatics utils items from showing up in EMI and being craftable since they aren't tied into progression yet.
+
 ## [0.0.13]
 ### Changes
 - added new mods (guideME, in control, configured defaults, simple voice chat, dynamic waters, rpg tweaks and coastal waves)

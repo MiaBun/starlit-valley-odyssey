@@ -10,7 +10,6 @@ Starlit Valley: Odyssey roadmap:
 
 | Version  | Feature |
 | ------------- | ------------- |
-| 0.1.0  | remove recipes for all currently unavailable recipes  |
 | 0.2.0  | tool rebalancing  |
 | 0.2.0  | basic economy (items having base prices and shipping bin)  |
 | 0.2.0  | player shops now craftable  |
