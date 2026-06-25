@@ -1,7 +1,6 @@
 ---
 navigation:
   title: Dimensions
-  position: 4
 ---
 
 # Dimensions

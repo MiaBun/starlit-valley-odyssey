@@ -1,7 +1,7 @@
 ---
 navigation:
   title: Changelog
-  position: 16
+  position: -2
 ---
 
 # Changelog

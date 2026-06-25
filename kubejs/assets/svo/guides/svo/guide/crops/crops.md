@@ -1,7 +1,6 @@
 ---
 navigation:
   title: Crops
-  position: 3
 ---
 
 # Crops

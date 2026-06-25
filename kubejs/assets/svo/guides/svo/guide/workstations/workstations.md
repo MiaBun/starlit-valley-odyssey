@@ -1,7 +1,6 @@
 ---
 navigation:
   title: Workstations
-  position: 15
 ---
 
 # Workstations

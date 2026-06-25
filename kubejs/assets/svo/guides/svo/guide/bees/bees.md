@@ -1,7 +1,6 @@
 ---
 navigation:
   title: Bees
-  position: 2
 ---
 
 # Bees

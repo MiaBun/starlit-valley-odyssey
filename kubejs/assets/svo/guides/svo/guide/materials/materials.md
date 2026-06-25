@@ -1,7 +1,6 @@
 ---
 navigation:
   title: Materials
-  position: 7
 ---
 
 # Materials

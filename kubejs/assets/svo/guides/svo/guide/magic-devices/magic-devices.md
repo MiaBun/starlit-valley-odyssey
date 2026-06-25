@@ -1,7 +1,6 @@
 ---
 navigation:
   title: Magic Devices
-  position: 6
 ---
 
 # Magic Devices

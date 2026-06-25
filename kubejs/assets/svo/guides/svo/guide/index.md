@@ -1,7 +1,7 @@
 ---
 navigation:
   title: Starlit Valley Odyssey
-  position: 0
+  position: -3
 ---
 
 # Start Page
