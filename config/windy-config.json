@@ -1,0 +1,6 @@
+{
+  "spawnWind": true,
+  "minimumWindHeight": 70,
+  "windMustSeeSky": true,
+  "spawnRateMultiplier": 1.0
+}

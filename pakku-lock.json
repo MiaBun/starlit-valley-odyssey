@@ -388,6 +388,43 @@
             ]
         },
         {
+            "pakku_id": "QQlIiLmMNHUedl2B",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "auroras"
+            },
+            "name": {
+                "curseforge": "Auroras"
+            },
+            "id": {
+                "curseforge": "1105290"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Auroras-1.20.1-1.6.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6040/671/Auroras-1.20.1-1.6.2.jar",
+                    "id": "6040671",
+                    "parent_id": "1105290",
+                    "hashes": {
+                        "sha1": "f7ba6e761a5c439325c93f6d33b6b3feda3182bd",
+                        "md5": "7fff40d58f53aea9c9767ca8b0d0efd3"
+                    },
+                    "required_dependencies": [],
+                    "size": 2119153,
+                    "date_published": "2024-12-31T19:57:57.427Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UROq9aMVetlhU6Tz",
             "type": "MOD",
             "slug": {
@@ -6399,6 +6436,42 @@
                     ],
                     "size": 435496,
                     "date_published": "2025-03-17T12:36:07.270Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "fT1lWdZfu0rqo1Jy",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "windy-configurable"
+            },
+            "name": {
+                "curseforge": "Windy: Configurable"
+            },
+            "id": {
+                "curseforge": "1506251"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Windy_Forge-1.20.1-v1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7886/321/Windy_Forge-1.20.1-v1.0.1.jar",
+                    "id": "7886321",
+                    "parent_id": "1506251",
+                    "hashes": {
+                        "sha1": "8ab63a299bdcb49d4109f75e43f80cf36d18eb60",
+                        "md5": "654d266bd1b504d50653b68df112da82"
+                    },
+                    "required_dependencies": [],
+                    "size": 43054,
+                    "date_published": "2026-04-06T18:44:52.467Z"
                 }
             ]
         },
