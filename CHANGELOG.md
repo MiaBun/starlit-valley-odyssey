@@ -4,6 +4,12 @@
 ### Changes
 - Sample Text
 
+## [0.1.1]
+### Changes
+- changed tool and armour progression, PLEASE NOTE THE TEMPLATES AREN'T AVAILABLE YET (yeah i really pushed a unobtainable item update)
+- tools now goes from wood > stone > iron > gold > diamond > netherite
+- armour now goes from leather > chainmail > iron > gold > diamond > netherite
+
 ## [0.1.0]
 ### Changes
 - added a in-game wiki, whilst not finished it at least has pages for all trees, crops, materials and animals.

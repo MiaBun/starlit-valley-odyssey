@@ -1,0 +1,11 @@
+{
+  "item.starlit.iron_upgrade_smithing_template.upgrade": "Iron Upgrade",
+  "item.starlit.iron_upgrade_smithing_template.applies_to": "Stone, Leather, Chainmail, and Cotton Equipment",
+  "item.starlit.iron_upgrade_smithing_template.ingredients": "Iron Ingot",
+  "item.starlit.gold_upgrade_smithing_template.upgrade": "Gold Upgrade",
+  "item.starlit.gold_upgrade_smithing_template.applies_to": "Iron Equipment",
+  "item.starlit.gold_upgrade_smithing_template.ingredients": "Gold Ingot",
+  "item.starlit.diamond_upgrade_smithing_template.upgrade": "Diamond Upgrade",
+  "item.starlit.diamond_upgrade_smithing_template.applies_to": "Gold Equipment",
+  "item.starlit.diamond_upgrade_smithing_template.ingredients": "Diamond"
+}

@@ -6,18 +6,57 @@
 	id: "799CDC3D879133AD"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		description: ["This questline will take you through the basics of the pack to get you started with farming."]
-		id: "5B217DCFE3C8F8DA"
-		size: 2.0d
-		tasks: [{
-			id: "3A0E15200BC208B4"
-			item: "minecraft:crafting_table"
-			type: "item"
-		}]
-		title: "The Basics"
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			description: ["This questline will take you through the basics of the pack to get you started with farming."]
+			id: "5B217DCFE3C8F8DA"
+			size: 2.0d
+			tasks: [{
+				id: "3A0E15200BC208B4"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "The Basics"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5B217DCFE3C8F8DA"]
+			description: [
+				"Upgrading your tools past wood requires a &6Smithing Table&f. At higher tiers it will require a Smithing Template purchase from a &6Blacksmith Villager&f."
+				""
+				"Tools can be repaired in an anvil infinitely, and enchantments also carry over when upgrade!"
+				""
+				"Search for an item in the item list sidebar and &6Left Click&f on it to see its recipes."
+			]
+			id: "03746709991123F4"
+			rewards: [
+				{
+					id: "1A175C98226C11BF"
+					item: "numismatics:cog"
+					type: "item"
+				}
+				{
+					id: "291C0FDB5F203052"
+					item: "minecraft:smithing_table"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6E12801B59F85AA9"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Upgrading Tools?"
+			x: 3.0d
+			y: 0.0d
+		}
+	]
 	title: "Chapter I: Getting Started"
 }
