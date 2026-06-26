@@ -6,6 +6,18 @@
 	id: "799CDC3D879133AD"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		description: ["This questline will take you through the basics of the pack to get you started with farming."]
+		id: "5B217DCFE3C8F8DA"
+		size: 2.0d
+		tasks: [{
+			id: "3A0E15200BC208B4"
+			item: "minecraft:crafting_table"
+			type: "item"
+		}]
+		title: "The Basics"
+		x: 0.0d
+		y: 0.0d
+	}]
 	title: "Chapter I: Getting Started"
 }

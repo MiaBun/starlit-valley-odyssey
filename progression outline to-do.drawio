@@ -1,18 +1,9 @@
 <mxfile host="Electron" pages="2">
   <diagram name="Page-1" id="MYqo1k76NVaqQHKW2KsX">
-    <mxGraphModel dx="1331" dy="5227" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="5085" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YCXsymQhbBU-JPVY3qd5-24" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UFxPnFSxFFXv6cA7G-kz-8" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="UFxPnFSxFFXv6cA7G-kz-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YCXsymQhbBU-JPVY3qd5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the basics" vertex="1">
-          <mxGeometry height="60" width="120" x="550" y="520" as="geometry" />
-        </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-26" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YCXsymQhbBU-JPVY3qd5-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
