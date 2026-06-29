@@ -1761,6 +1761,49 @@
             ]
         },
         {
+            "pakku_id": "eKunjrGF6nUaDLiZ",
+            "pakku_links": [
+                "7QkccVTCYP2AAPpU",
+                "2tsaie60xPCUp1X3"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "emi-backport"
+            },
+            "name": {
+                "curseforge": "EMI++ Forked"
+            },
+            "id": {
+                "curseforge": "1411826"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emixx-forge-1.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8274/454/emixx-forge-1.5.1.jar",
+                    "id": "8274454",
+                    "parent_id": "1411826",
+                    "hashes": {
+                        "sha1": "7bf56799042bb929418a497b08218e8a922e9d9e",
+                        "md5": "f0d9452a2fec8d718a58f156250a7dd9"
+                    },
+                    "required_dependencies": [
+                        "351264",
+                        "580555"
+                    ],
+                    "size": 399605,
+                    "date_published": "2026-06-18T18:02:34.723Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Gd3OUxbI0qkJnMXv",
             "pakku_links": [
                 "SAuZduabO9ClRn7A"
