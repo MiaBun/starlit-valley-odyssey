@@ -1,11 +1,5 @@
 global.removedItems = [
     'numismatics:andesite_depositor',
-    'numismatics:spur',
-    'numismatics:bevel',
-    'numismatics:sprocket',
-    'numismatics:cog',
-    'numismatics:crown',
-    'numismatics:sun',
     'numismatics:white_card',
     'numismatics:orange_card',
     'numismatics:magenta_card',

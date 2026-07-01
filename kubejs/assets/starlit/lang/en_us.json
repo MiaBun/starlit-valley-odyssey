@@ -7,5 +7,9 @@
   "item.starlit.gold_upgrade_smithing_template.ingredients": "Gold Ingot",
   "item.starlit.diamond_upgrade_smithing_template.upgrade": "Diamond Upgrade",
   "item.starlit.diamond_upgrade_smithing_template.applies_to": "Gold Equipment",
-  "item.starlit.diamond_upgrade_smithing_template.ingredients": "Diamond"
+  "item.starlit.diamond_upgrade_smithing_template.ingredients": "Diamond",
+
+  "item.numismatics.neptunium_coin": "Neptunium Coin",
+  "item.numismatics.ancient_coin": "Ancient Coin",
+  "item.numismatics.prismatic_coin": "Prismatic Coin"
 }
