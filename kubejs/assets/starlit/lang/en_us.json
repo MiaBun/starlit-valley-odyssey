@@ -11,5 +11,17 @@
 
   "item.numismatics.neptunium_coin": "Neptunium Coin",
   "item.numismatics.ancient_coin": "Ancient Coin",
-  "item.numismatics.prismatic_coin": "Prismatic Coin"
+  "item.numismatics.prismatic_coin": "Prismatic Coin",
+
+  "tooltip.starlit.coins": "§f●§r %s",
+  "tooltip.starlit.stack_value": "Stack value",
+  "tooltip.starlit.multipliers": " + multipliers",
+  "tooltip.starlit.hold_key": "Hold [%s]",
+  "tooltip.starlit.area": "Area: %s",
+
+  "tooltip.starlit.item_type.gem": "§f🎣§r Gem",
+  "tooltip.starlit.farmer_product": "§f🔱§r Farmer product",
+  "tooltip.starlit.artisan_product": "§f✎§r Artisan product",
+  "tooltip.starlit.geologist_product": "§f🎣§r Geologist product",
+  "tooltip.starlit.adventurer_product": "§f🗡§r Adventurer product"
 }
