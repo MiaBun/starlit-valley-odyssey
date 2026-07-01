@@ -5681,6 +5681,42 @@
             ]
         },
         {
+            "pakku_id": "PRSbRV2tHlHgfPnc",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "shipping-bin"
+            },
+            "name": {
+                "curseforge": "Shipping Bin"
+            },
+            "id": {
+                "curseforge": "1058468"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ShippingBin-forge-1.20.1-4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5818/385/ShippingBin-forge-1.20.1-4.jar",
+                    "id": "5818385",
+                    "parent_id": "1058468",
+                    "hashes": {
+                        "sha1": "3467709775e63054b0c1a544e3dbf998ebac3f9a",
+                        "md5": "8dbe4fcf98addc5699f5ece042439761"
+                    },
+                    "required_dependencies": [],
+                    "size": 164855,
+                    "date_published": "2024-10-17T03:07:29.107Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9rpCQ4tZTymTl6xj",
             "type": "MOD",
             "slug": {

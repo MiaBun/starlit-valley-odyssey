@@ -44,6 +44,17 @@
         "value": 2048
       }
     },
+    "shippingbin:wood_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -130,6 +141,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "shippingbin:sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "minecraft:generic.luck": {
@@ -308,6 +330,17 @@
         "value": 1024
       }
     },
+    "shippingbin:crop_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "minecraft:zombie.spawn_reinforcements": {
       "enabled": true,
       "min": {
@@ -328,6 +361,17 @@
       "max": {
         "default": 2,
         "value": 2
+      }
+    },
+    "shippingbin:gem_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "minecraft:generic.attack_knockback": {
@@ -383,6 +427,17 @@
       "max": {
         "default": 20,
         "value": 1000000
+      }
+    },
+    "shippingbin:meat_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "unionlib:generic.draw_speed": {

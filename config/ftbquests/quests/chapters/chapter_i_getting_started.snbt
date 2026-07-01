@@ -57,6 +57,23 @@
 			x: 3.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["03746709991123F4"]
+			description: [
+				"To get started making money, you'll need a &6Basic Shipping Bin&f."
+				""
+				"Items placed inside that have a sell value will be sold at &66 AM&f for the value listed in the tooltip."
+			]
+			id: "23680C1B3C50DC4E"
+			tasks: [{
+				id: "53651EFE231B1A84"
+				item: "shippingbin:shipping_bin"
+				type: "item"
+			}]
+			title: "Making Money"
+			x: 5.5d
+			y: 0.0d
+		}
 	]
 	title: "Chapter I: Getting Started"
 }
