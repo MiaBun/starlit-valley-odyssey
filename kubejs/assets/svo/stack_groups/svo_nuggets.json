@@ -1,0 +1,7 @@
+{
+  "id": "svo:nuggets",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:nuggets"
+  ]
+}

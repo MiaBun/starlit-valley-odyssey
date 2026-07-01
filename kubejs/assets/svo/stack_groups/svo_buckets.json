@@ -1,0 +1,11 @@
+{
+  "id": "svo:buckets",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:buckets",
+    "#forge:mob_buckets",
+    "minecraft:sulfur_cube_bucket",
+    "minecraft:tadpole_bucket",
+    "minecraft:powder_snow_bucket"
+  ]
+}

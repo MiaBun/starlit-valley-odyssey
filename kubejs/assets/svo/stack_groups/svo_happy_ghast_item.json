@@ -1,0 +1,7 @@
+{
+  "id": "svo:happy_ghast_harness",
+  "type": "emixx:group",
+  "contents": [
+    "#minecraft:harnesses"
+  ]
+}

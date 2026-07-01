@@ -1,0 +1,7 @@
+{
+  "id": "svo:bundles",
+  "type": "emixx:group",
+  "contents": [
+    "#minecraft:bundles"
+  ]
+}

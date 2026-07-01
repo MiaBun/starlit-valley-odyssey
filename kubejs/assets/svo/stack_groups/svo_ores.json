@@ -1,0 +1,7 @@
+{
+  "id": "svo:ores",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:ores"
+  ]
+}

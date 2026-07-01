@@ -1,0 +1,7 @@
+{
+  "id": "svo:glass_panes",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:glass_panes"
+  ]
+}

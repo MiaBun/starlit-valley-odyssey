@@ -1,0 +1,7 @@
+{
+  "id": "svo:glass_blocks",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:glass"
+  ]
+}

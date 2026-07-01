@@ -1,0 +1,7 @@
+{
+  "id": "svo:crops",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:crops"
+  ]
+}

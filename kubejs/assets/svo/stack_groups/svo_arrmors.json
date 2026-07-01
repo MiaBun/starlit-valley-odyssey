@@ -1,0 +1,7 @@
+{
+  "id": "svo:armors",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:armors"
+  ]
+}

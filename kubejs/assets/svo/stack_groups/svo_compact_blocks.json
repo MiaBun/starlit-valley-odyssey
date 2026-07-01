@@ -1,0 +1,7 @@
+{
+  "id": "svo:compact_blocks",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:storage_blocks"
+  ]
+}

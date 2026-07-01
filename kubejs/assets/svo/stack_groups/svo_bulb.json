@@ -1,0 +1,7 @@
+{
+  "id": "svo:bulb",
+  "type": "emixx:group",
+  "contents": [
+    "#svo:bulb"
+  ]
+}

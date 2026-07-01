@@ -1,0 +1,7 @@
+{
+  "id": "svo:raw_materials",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:raw_materials"
+  ]
+}

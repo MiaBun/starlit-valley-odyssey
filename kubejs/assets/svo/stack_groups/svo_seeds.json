@@ -1,0 +1,7 @@
+{
+  "id": "svo:seeds",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:seeds"
+  ]
+}

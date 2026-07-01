@@ -1,0 +1,7 @@
+{
+  "id": "svo:fishes",
+  "type": "emixx:group",
+  "contents": [
+    "#minecraft:fishes"
+  ]
+}
