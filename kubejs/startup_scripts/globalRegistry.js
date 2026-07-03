@@ -490,6 +490,10 @@ global.combs = [
     //TODO: add combs
 ];
 
+global.combblocks = [
+    //TODO: add combblocks
+];
+
 //magician's goods
 global.magiciangoods = [
     //TODO: add magician's goods
@@ -737,6 +741,13 @@ global.combs.forEach((comb) => {
     multiplier: "shippingbin:crop_sell_multiplier",
   });
 });
+global.combblocks.forEach((combblock) => {
+  const { item, value } = combblock;
+  global.trades.set(item, {
+    value: global.getConfiguredValue(value, "crop"),
+    multiplier: "shippingbin:crop_sell_multiplier",
+  });
+});
 global.magiciangoods.forEach((magiciangood) => {
   const { item, value } = magiciangood;
   global.trades.set(item, {
@@ -751,7 +762,7 @@ global.engineersgoods.forEach((engineersgood) => {
     multiplier: "shippingbin:wood_sell_multiplier",
   });
 });
-global.combs.forEach((flowers) => {
+global.flowers.forEach((flowers) => {
   const { item, value } = flowers;
   global.trades.set(item, {
     value: global.getConfiguredValue(value, "crop"),

@@ -215,7 +215,42 @@ ItemEvents.tooltip((tooltip) => {
         });
     });
 
+    //slime plort
+
+    //slime heart 
+
+    //combs
+
+    //comb blocks
+
     global.ore.forEach((item) => {
         global.addPriceTooltip(tooltip, item, "gem");
     });
+    //pristine
+    //geodes
+    //frozen geodes
+    //magma geodes
+    //gems
+    //misc geologist
+    //artifacts
+    //relics
+    //crops
+    //meat
+    //wines
+    //brews
+    //preserves
+    //dehydrated
+    //artisan goods
+    //fish
+    //smoked fish
+    //aged roe
+    //cocktails
+    //herbalbrews
+    //logs
+    //cooking
+    //misc
+    //essence
+    //magiciangoods
+    //engineersgoods
+    //flowers
 });
