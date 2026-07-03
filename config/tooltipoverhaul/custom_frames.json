@@ -39,6 +39,15 @@
       "borderType": "auto_gradient"
     },
     {
+      "texture": "tooltipoverhaul:textures/overlay/diamond_frame.png",
+      "items": [
+        "numismatics:ancient_coin",
+        "numismatics:prismatic_coin"
+      ],
+      "gradientType": "custom",
+      "borderType": "auto_gradient"
+    },
+    {
       "texture": "tooltipoverhaul:textures/overlay/amber_frame.png",
       "items": [
         "minecraft:elytra",

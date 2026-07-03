@@ -231,6 +231,16 @@ ItemEvents.tooltip((tooltip) => {
     //frozen geodes
     //magma geodes
     //gems
+    //list of standard gems
+    [
+      "minecraft:emerald",
+      "minecraft:diamond",
+      "minecraft:amethyst_shard",
+      "minecraft:quartz",
+      "minecraft:prismarine_crystals",
+    ].forEach((gem) => {
+      tooltip.add(gem, Text.translatable("tooltip.starlit.item_type.gem").gray());
+    })
     //misc geologist
     //artifacts
     //relics

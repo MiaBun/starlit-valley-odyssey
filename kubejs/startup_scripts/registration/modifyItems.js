@@ -1,4 +1,19 @@
 ItemEvents.modification((e) => {
+
+    e.modify("numismatics:neptunium_coin", (item) => {
+        item.rarity = "rare";
+    });
+
+    e.modify(
+        [
+            "numismatics:ancient_coin",
+            "numismatics:prismatic_coin",
+        ],
+        (item) => {
+            item.rarity = "epic";
+        }
+    );
+
     const goldVanillaTools = [
         "minecraft:golden_hoe",
         "minecraft:golden_axe",
