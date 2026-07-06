@@ -1,6 +1,6 @@
-<mxfile host="Electron" pages="2">
+<mxfile host="Electron" pages="8">
   <diagram name="Page-1" id="MYqo1k76NVaqQHKW2KsX">
-    <mxGraphModel dx="259" dy="5085" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="5428" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,6 +506,9 @@
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="tapping wood" vertex="1">
           <mxGeometry height="60" width="120" x="2750" y="726" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxWjA5ZwGzeIAavKooJ-2" edge="1" parent="1" source="YCXsymQhbBU-JPVY3qd5-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IfxWjA5ZwGzeIAavKooJ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCXsymQhbBU-JPVY3qd5-174" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="artisan goods?" vertex="1">
           <mxGeometry height="60" width="120" x="2915" y="726" as="geometry" />
@@ -15299,41 +15302,65 @@
         <mxCell id="dlL8ANEM4bONt9ZFSMut-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="running your own bar" vertex="1">
           <mxGeometry height="60" width="120" x="4688" y="628" as="geometry" />
         </mxCell>
+        <mxCell id="IfxWjA5ZwGzeIAavKooJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pollinating flowers" vertex="1">
+          <mxGeometry height="60" width="120" x="2936" y="837" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="liPw0JiRW_a7citKAIFm" name="Page-13">
-    <mxGraphModel dx="1281" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="uMMbCWwKK6Mb9LZ52g4N" name="alfheim">
+    <mxGraphModel dx="1996" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mass fabricator&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Space probe surface reception&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="road of heaven&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="element copying&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dragon egg copier&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="quantum force transformer&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="swarm core&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="max neutron compressor&lt;div&gt;MAX&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="770" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="LyuD5szKStHAE1ZDLGLx-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="artificial star&lt;div&gt;UXV&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="770" y="720" as="geometry" />
-        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kohps03uylmwQTWAS-OS" name="helheim">
+    <mxGraphModel dx="1996" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CgmnrJYeDHRtdN6vSN5L" name="jotunheim">
+    <mxGraphModel dx="1996" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mf4Ge3jj_M1xZzEb9FxO" name="niflheim">
+    <mxGraphModel dx="1996" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FB9FhNgi5kW38EwEIJ_a" name="muspelheim">
+    <mxGraphModel dx="1996" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AKdpHf0uD7NF5qJyBkOp" name="midgard">
+    <mxGraphModel dx="1996" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iW2IWJGdTsMkl3ZZ6Fo9" name="asgard">
+    <mxGraphModel dx="1996" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
