@@ -6556,6 +6556,46 @@
             ]
         },
         {
+            "pakku_id": "xL7lzjDROMBhy0IC",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "william-wythers-overhauled-overworld"
+            },
+            "name": {
+                "curseforge": "William Wythers' Overhauled Overworld"
+            },
+            "id": {
+                "curseforge": "921022"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "WWOO-FABRIC+FORGE+QUILT-2.0.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4793/728/WWOO-FABRIC+FORGE+QUILT-2.0.0.jar",
+                    "id": "4793728",
+                    "parent_id": "921022",
+                    "hashes": {
+                        "sha1": "a1241d62fbf021013a8bd54d838245a044facfaf",
+                        "md5": "edac266d810af52de52a4243c74e1a2b"
+                    },
+                    "required_dependencies": [],
+                    "size": 2172855,
+                    "date_published": "2023-10-11T16:34:38.913Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fT1lWdZfu0rqo1Jy",
             "type": "MOD",
             "slug": {

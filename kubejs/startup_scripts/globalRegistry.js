@@ -48,7 +48,27 @@ global.pristine = [];
 
 //ores
 global.ore = [
-    { item: "minecraft:raw_copper", value: 4},
+    { item: "minecraft:raw_copper", value: 4 },
+    { item: "minecraft:raw_copper_block", value: 36 },
+    { item: "minecraft:raw_iron", value: 8 },
+    { item: "minecraft:raw_iron_block", value: 72 },
+    { item: "minecraft:coal", value: 8 },
+    { item: "minecraft:coal_block", value: 72 },
+    { item: "minecraft:raw_gold", value: 16 },
+    { item: "minecraft:raw_gold_block", value: 144 },
+    { item: "minecraft:redstone", value: 8 },
+    { item: "minecraft:redstone_block", value: 72 },
+    { item: "minecraft:lapis_lazuli", value: 6 },
+    { item: "minecraft:lapis_block", value: 64 },
+    { item: "minecraft:emerald", value: 32 },
+    { item: "minecraft:emerald_block", value: 288 },
+    { item: "minecraft:amethyst_shard", value: 8 },
+    { item: "minecraft:amethyst_block", value: 32 },
+    { item: "minecraft:quartz", value: 8 },
+    { item: "minecraft:quartz_block", value: 32 },
+    { item: "minecraft:diamond", value: 256 },
+    { item: "minecraft:diamond_block", value: 2304 },
+    { item: "minecraft:netherite_scrap", value: 1024 },
     //TODO: add more ores
 ];
 
