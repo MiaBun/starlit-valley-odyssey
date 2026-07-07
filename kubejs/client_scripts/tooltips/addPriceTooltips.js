@@ -240,27 +240,57 @@ ItemEvents.tooltip((tooltip) => {
       "minecraft:prismarine_crystals",
     ].forEach((gem) => {
       tooltip.add(gem, Text.translatable("tooltip.starlit.item_type.gem").gray());
-    })
+    });
+    
     //misc geologist
+    global.miscGeologist.forEach((gem) => {
+      global.addPriceTooltip(tooltip, gem, "gem");
+    });
     //artifacts
+
     //relics
+
     //crops
+     global.crops.forEach((crop) => {
+      global.addPriceTooltip(tooltip, crop, "crop");
+    });
+
     //meat
+    global.animalProducts.forEach((meat) => {
+      global.addPriceTooltip(tooltip, meat, "crop");
+    });
+
     //wines
+
     //brews
+
     //preserves
+
     //dehydrated
+
     //artisan goods
+
     //fish
+
     //smoked fish
+
     //aged roe
+
     //cocktails
+
     //herbalbrews
+
     //logs
+
     //cooking
+
     //misc
+
     //essence
+
     //magiciangoods
+
     //engineersgoods
+
     //flowers
 });

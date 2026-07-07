@@ -69,7 +69,6 @@ global.ore = [
     { item: "minecraft:diamond", value: 256 },
     { item: "minecraft:diamond_block", value: 2304 },
     { item: "minecraft:netherite_scrap", value: 1024 },
-    //TODO: add more ores
 ];
 
 [
@@ -132,7 +131,7 @@ global.gems.forEach((mineral) => {
 
 //mining misc
 global.miscGeologist = [
-    //TODO: add mining misc
+    { item: "minecraft:golden_apple", value: 128 }, //TODO: wiki
 ];
 
 //artifacts
@@ -151,19 +150,58 @@ global.relics = [
   Master Cult: * 1.5
 */
 global.crops = [
-    //TODO: add crops
+    { item: "minecraft:sweet_berries", value: 4 }, //TODO: wiki
+    { item: "minecraft:melon_slice", value: 9 }, //TODO: wiki
+    { item: "minecraft:melon", value: 81 }, //TODO: wiki
+    { item: "minecraft:cocoa_beans", value: 4 }, //TODO: wiki
+    { item: "minecraft:carrot", value: 23 }, //TODO: wiki
+    { item: "minecraft:golden_carrot", value: 150 }, //TODO: wiki
+    { item: "minecraft:potato", value: 24 }, //TODO: wiki
+    { item: "minecraft:poisonous_potato", value: 4 }, //TODO: wiki
+    { item: "minecraft:beetroot", value: 24 }, //TODO: wiki
+    { item: "minecraft:apple", value: 8 }, //TODO: wiki
+    { item: "minecraft:red_mushroom", value: 8 }, //TODO: wiki
+    { item: "minecraft:brown_mushroom", value: 8 }, //TODO: wiki
+    { item: "minecraft:crimson_fungus", value: 16 }, //TODO: wiki
+    { item: "minecraft:warped_fungus", value: 16 }, //TODO: wiki
+    { item: "minecraft:bamboo_block", value: 9 }, //TODO: wiki
+    { item: "minecraft:cactus", value: 12 }, //TODO: wiki
+    { item: "minecraft:wheat", value: 46 }, //TODO: wiki
+    { item: "minecraft:hay_block", value: 414 }, //TODO: wiki
+    { item: "minecraft:sugar_cane", value: 12 }, //TODO: wiki
+    { item: "minecraft:pumpkin", value: 80 }, //TODO: wiki
+    { item: "minecraft:chorus_fruit", value: 16 }, //TODO: wiki
+    { item: "minecraft:torchflower", value: 128 }, //TODO: wiki
+    { item: "minecraft:pitcher_plant", value: 64 }, //TODO: wiki
 ];
 
 //animal products
 global.animalProducts = [
-    //TODO: add animal products
     //eggs
+    { item: "minecraft:egg", value: 4 }, //TODO: wiki
+    { item: "minecraft:brown_egg", value: 4 }, //TODO: wiki
+    { item: "minecraft:blue_egg", value: 4 }, //TODO: wiki
+    { item: "minecraft:turtle_egg", value: 64 }, //TODO: wiki
+    { item: "minecraft:sniffer_egg", value: 192 }, //TODO: wiki
     //milk
     //basic raw
+    { item: "minecraft:beef", value: 16 }, //TODO: wiki
+    { item: "minecraft:porkchop", value: 32 }, //TODO: wiki
+    { item: "minecraft:mutton", value: 16 }, //TODO: wiki
+    { item: "minecraft:chicken", value: 8 }, //TODO: wiki
     //advanced raw
+    { item: "minecraft:rabbit", value: 64 }, //TODO: wiki
     //advanced cooked
     //bee
+    { item: "minecraft:honey_bottle", value: 8 }, //TODO: wiki
+    { item: "minecraft:honey_block", value: 24 }, //TODO: wiki
+    { item: "minecraft:honeycomb", value: 4 }, //TODO: wiki
+    { item: "minecraft:honeycomb_block", value: 16 }, //TODO: wiki
     //misc
+    { item: "minecraft:leather", value: 8 }, //TODO: wiki
+    { item: "minecraft:rabbit_hide", value: 12 }, //TODO: wiki
+    { item: "minecraft:rabbit_foot", value: 1024 }, //TODO: wiki
+    { item: "minecraft:feather", value: 16 }, //TODO: wiki
 ];
 
 //fruits

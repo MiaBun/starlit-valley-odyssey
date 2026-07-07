@@ -73,4 +73,22 @@ ServerEvents.tags("item", (e) => {
     bulb.forEach((bulb) => {
         e.add("svo:bulb", bulb);
     });
+
+    global.ore.forEach((ore) => {
+        e.add("svo:sellable_ore", ore.item.path);
+    });
+
+    global.miscGeologist.forEach((miscGeologist) => {
+        e.add("svo:sellable_misc_geologist", miscGeologist.item.path);
+    });
+
+    global.crops.forEach((crops) => {
+        e.add("svo:sellable_crops", crops.item.path);
+    });
+
+    global.animalProducts.forEach((animalProducts) => {
+        e.add("svo:sellable_animal_products", animalProducts.item.path);
+    });
+
+
 })
