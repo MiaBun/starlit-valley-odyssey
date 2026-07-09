@@ -271,6 +271,9 @@ ItemEvents.tooltip((tooltip) => {
     //artisan goods
 
     //fish
+    global.fish.forEach((fish) => {
+      global.addPriceTooltip(tooltip, fish, "crop");
+    });
 
     //smoked fish
 
@@ -281,10 +284,20 @@ ItemEvents.tooltip((tooltip) => {
     //herbalbrews
 
     //logs
+    global.logs.forEach((log) => {
+      global.addPriceTooltip(tooltip, log, "crop");
+    });
 
     //cooking
 
+    global.cooking.forEach((dish) => {
+      global.addPriceTooltip(tooltip, dish, "crop");
+    });
+
     //misc
+    global.miscAdventurer.forEach((miscItem) => {
+      global.addPriceTooltip(tooltip, miscItem, "meat");
+    });
 
     //essence
 

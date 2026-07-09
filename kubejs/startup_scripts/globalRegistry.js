@@ -206,7 +206,27 @@ global.animalProducts = [
 
 //fruits
 global.fruits = [
-    //TODO: add fruits
+    {
+      item: "minecraft:sweet_berries",
+      altPreserveOutput: "vintagedelight:sweet_berry_mason_jar",
+      value: 4,
+    },
+    {
+      item: "minecraft:apple",
+      altPreserveOutput: "vintagedelight:apple_sauce_mason_jar",
+      value: 8,
+    },
+    {
+      item: "minecraft:melon_slice",
+      altPreserveOutput: "society:melon_preserves",
+      value: 9,
+    },
+    { item: "minecraft:chorus_fruit", value: 16 },
+    {
+      item: "minecraft:glow_berries",
+      altPreserveOutput: "vintagedelight:glow_berry_mason_jar",
+      value: 24,
+    },
 ];
 
 /**
@@ -236,7 +256,10 @@ global.fruits.forEach((fruit) => {
 
 //mushrooms
 global.mushrooms = [
-    //TODO: add mushrooms
+    { item: "minecraft:brown_mushroom", value: 8 },
+    { item: "minecraft:red_mushroom", value: 8 },
+    { item: "minecraft:crimson_fungus", value: 16 },
+    { item: "minecraft:warped_fungus", value: 16 },
 ];
 global.mushrooms.forEach((shroom) => {
     let itemId = shroom.item.path;
@@ -286,7 +309,28 @@ global.herbalBrews = [
 
 //logs
 global.logs = [
-    //TODO: add logs
+    { item: "minecraft:oak_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:stripped_oak_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:spruce_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:stripped_spruce_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:birch_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:stripped_birch_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:jungle_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:stripped_jungle_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:dark_oak_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:stripped_dark_oak_log", value: 2 }, //TODO: wiki
+    { item: "minecraft:acacia_log", value: 3 }, //TODO: wiki
+    { item: "minecraft:stripped_acacia_log", value: 3 }, //TODO: wiki
+    { item: "minecraft:mangrove_log", value: 4 }, //TODO: wiki
+    { item: "minecraft:stripped_mangrove_log", value: 4 }, //TODO: wiki
+    { item: "minecraft:cherry_log", value: 4 }, //TODO: wiki
+    { item: "minecraft:stripped_cherry_log", value: 4 }, //TODO: wiki
+    { item: "minecraft:warped_stem", value: 16 }, //TODO: wiki
+    { item: "minecraft:stripped_warped_stem", value: 16 }, //TODO: wiki
+    { item: "minecraft:crimson_stem", value: 16 }, //TODO: wiki
+    { item: "minecraft:stripped_crimson_stem", value: 16 }, //TODO: wiki
+    { item: "minecraft:pale_oak_log", value: 8 }, //TODO: wiki
+    { item: "minecraft:stripped_pale_oak_log", value: 8 }, //TODO: wiki
 ];
 
 /**
@@ -372,7 +416,12 @@ global.cooking = [];
 // Raw ingredient calculation. Multiplier added before pushing to global.cooking
 
 const craftingTableRecipes = [
-    //TODO: add crafting table recipes
+    { item: "minecraft:cookie", value: 12 }, //TODO: wiki
+    { item: "minecraft:bread", value: 16 }, //TODO: wiki
+    { item: "minecraft:pumpkin_pie", value: 87 }, //TODO: wiki
+    { item: "minecraft:mushroom_stew", value: 16 }, //TODO: wiki
+    { item: "minecraft:cake", value: 318 }, //TODO: wiki
+    { item: "minecraft:rabbit_stew", value: 239 }, //TODO: wiki
 ];
 craftingTableRecipes.forEach((recipe) => {
   global.cooking.push({
@@ -386,7 +435,9 @@ let fermentingRecipes = [
     //TODO: add fermenting recipes
 ];
 global.picklableVegetables = [
-    //TODO: add picklable vegetables
+    { item: "minecraft:potato", value: 24 },
+    { item: "minecraft:carrot", value: 23 },
+    { item: "minecraft:golden_carrot", value: 150 },
 ];
 
 global.picklableVegetables.forEach((recipe) =>
@@ -405,7 +456,15 @@ fermentingRecipes.forEach((recipe) => {
 
 // Raw ingredient calculation. Multiplier added before pushing to global.cooking
 const furnaceRecipes = [
-    //TODO: add furnace recipes
+    { item: "minecraft:cooked_beef", value: 16 }, //TODO: wiki
+    { item: "minecraft:baked_potato", value: 24 }, //TODO: wiki
+    { item: "minecraft:cooked_porkchop", value: 32 }, //TODO: wiki
+    { item: "minecraft:cooked_rabbit", value: 64 }, //TODO: wiki
+    { item: "minecraft:cooked_mutton", value: 16 }, //TODO: wiki
+    { item: "minecraft:cooked_chicken", value: 8 }, //TODO: wiki
+    { item: "minecraft:cooked_salmon", value: 24 }, //TODO: wiki
+    { item: "minecraft:cooked_cod", value: 16 }, //TODO: wiki
+    { item: "minecraft:popped_chorus_fruit", value: 16 }, //TODO: wiki
 ];
 furnaceRecipes.forEach((recipe) => {
   global.cooking.push({
@@ -438,7 +497,7 @@ cakingStationRecipes.forEach((recipe) => {
 });
 
 const cookingPotRecipes = [
-    //TODO: add cooking pot recipes
+    { item: "minecraft:beetroot_soup", value: 72 }, //TODO: wiki
 ];
 cookingPotRecipes.forEach((recipe) => {
   global.cooking.push({
@@ -482,7 +541,10 @@ mixingBowlRecipes.forEach((recipe) => {
 
 //fish
 global.fish = [
-    //TODO: add fish
+    { item: "minecraft:pufferfish", value: 16 }, //TODO: wiki
+    { item: "minecraft:salmon", value: 24 }, //TODO: wiki
+    { item: "minecraft:cod", value: 16 }, //TODO: wiki
+    { item: "minecraft:tropical_fish", value: 72 }, //TODO: wiki
 ];
 global.smokedFish = [];
 global.agedRoe = [];
@@ -522,7 +584,36 @@ global.fish.forEach((fish) => {
 
 //misc adventurer
 global.miscAdventurer = [
-    //TODO: add misc adventurer
+    { item: "minecraft:experience_bottle", value: 8 }, //TODO: wiki
+    { item: "minecraft:nautilus_shell", value: 64 }, //TODO: wiki
+    { item: "minecraft:echo_shard", value: 192 }, //TODO: wiki
+    { item: "minecraft:heart_of_the_sea", value: 256 }, //TODO: wiki
+    { item: "minecraft:nether_star", value: 2048 }, //TODO: wiki
+    { item: "minecraft:dragon_egg", value: 3072 }, //TODO: wiki
+    { item: "minecraft:angler_pottery_sherd", value: 192 }, //TODO: wiki
+    { item: "minecraft:snort_pottery_sherd", value: 192 }, //TODO: wiki
+    { item: "minecraft:shelter_pottery_sherd", value: 192 }, //TODO: wiki
+    { item: "minecraft:archer_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:skull_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:miner_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:prize_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:brewer_pottery_sherd", value: 128 }, //TODO: wiki
+    { item: "minecraft:arms_up_pottery_sherd", value: 128 }, //TODO: wiki
+    { item: "minecraft:explorer_pottery_sherd", value: 192 }, //TODO: wiki
+    { item: "minecraft:blade_pottery_sherd", value: 192 }, //TODO: wiki
+    { item: "minecraft:mourner_pottery_sherd", value: 192 }, //TODO: wiki
+    { item: "minecraft:plenty_pottery_sherd", value: 192 }, //TODO: wiki
+    { item: "minecraft:sheaf_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:burn_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:danger_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:friend_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:heart_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:heartbreak_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:howl_pottery_sherd", value: 80 }, //TODO: wiki
+    { item: "minecraft:totem_of_undying", value: 448 }, //TODO: wiki
+    { item: "minecraft:dragon_head", value: 4608 }, //TODO: wiki
+    { item: "minecraft:enchanted_golden_apple", value: 4096 }, //TODO: wiki
+    { item: "minecraft:goat_horn", value: 512 }, //TODO: wiki
 ];
 
 //plorts

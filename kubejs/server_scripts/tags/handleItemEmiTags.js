@@ -90,5 +90,22 @@ ServerEvents.tags("item", (e) => {
         e.add("svo:sellable_animal_products", animalProducts.item.path);
     });
 
+    global.logs.forEach((log) => {
+        e.add("svo:sellable_logs", log.item.path);
+    });
+
+    global.cooking.forEach((cooking) => {
+        e.add("svo:sellable_cooking", cooking.item.path);
+    });
+    
+    global.fish.forEach((fish) => {
+        e.add("svo:sellable_fish", fish.item.path);
+    });
+
+    global.miscAdventurer.forEach((miscAdventurer) => {
+        e.add("svo:sellable_misc_adventurer", miscAdventurer.item.path);
+    });
+
+
 
 })
