@@ -75,35 +75,39 @@ ServerEvents.tags("item", (e) => {
     });
 
     global.ore.forEach((ore) => {
-        e.add("svo:sellable_ore", ore.item.path);
+        e.add("svo:sellable_ore", ore.item);
     });
 
     global.miscGeologist.forEach((miscGeologist) => {
-        e.add("svo:sellable_misc_geologist", miscGeologist.item.path);
+        e.add("svo:sellable_misc_geologist", miscGeologist.item);
     });
 
     global.crops.forEach((crops) => {
-        e.add("svo:sellable_crops", crops.item.path);
+        e.add("svo:sellable_crops", crops.item);
     });
 
     global.animalProducts.forEach((animalProducts) => {
-        e.add("svo:sellable_animal_products", animalProducts.item.path);
+        e.add("svo:sellable_animal_products", animalProducts.item);
     });
 
     global.logs.forEach((log) => {
-        e.add("svo:sellable_logs", log.item.path);
+        e.add("svo:sellable_logs", log.item);
     });
 
     global.cooking.forEach((cooking) => {
-        e.add("svo:sellable_cooking", cooking.item.path);
+        e.add("svo:sellable_cooking", cooking.item);
     });
     
     global.fish.forEach((fish) => {
-        e.add("svo:sellable_fish", fish.item.path);
+        e.add("svo:sellable_fish", fish.item);
     });
 
     global.miscAdventurer.forEach((miscAdventurer) => {
-        e.add("svo:sellable_misc_adventurer", miscAdventurer.item.path);
+        e.add("svo:sellable_misc_adventurer", miscAdventurer.item);
+    });
+
+    global.flowers.forEach((flower) => {
+        e.add("svo:sellable_flowers", flower.item);
     });
 
 

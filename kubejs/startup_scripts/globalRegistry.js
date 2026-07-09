@@ -331,6 +331,55 @@ global.logs = [
     { item: "minecraft:stripped_crimson_stem", value: 16 }, //TODO: wiki
     { item: "minecraft:pale_oak_log", value: 8 }, //TODO: wiki
     { item: "minecraft:stripped_pale_oak_log", value: 8 }, //TODO: wiki
+    { item: "regions_unexplored:alpha_log", value: 256}, //TODO: wiki
+    { item: "regions_unexplored:ashen_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:baobab_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_baobab_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:blackwood_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_blackwood_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:blue_bioshroom_stem", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_blue_bioshroom_stem", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:brimwood_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_brimwood_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:brimwood_log_magma", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:cobalt_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_cobalt_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:cypress_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_cypress_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:dead_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_dead_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:eucalyptus_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_eucalyptus_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:green_bioshroom_stem", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_green_bioshroom_stem", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:joshua_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_joshua_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:kapok_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_kapok_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:larch_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_larch_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:magnolia_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_magnolia_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:maple_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_maple_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:mauve_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_mauve_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:palm_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_palm_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:pine_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_pine_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:pink_bioshroom_stem", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_pink_bioshroom_stem", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:redwood_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_redwood_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:socotra_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_socotra_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:silver_birch_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:willow_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_willow_log", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:yellow_bioshroom_stem", value: 4}, //TODO: wiki
+    { item: "regions_unexplored:stripped_yellow_bioshroom_stem", value: 4}, //TODO: wiki
+
 ];
 
 /**
@@ -655,7 +704,76 @@ global.engineersgoods = [
 
 //flowers
 global.flowers = [
-    //flowers
+    { item: "minecraft:dandelion", value: 3 }, //TODO: wiki
+    { item: "minecraft:poppy", value: 3 }, //TODO: wiki
+    { item: "minecraft:blue_orchid", value: 3 }, //TODO: wiki
+    { item: "minecraft:allium", value: 3 }, //TODO: wiki
+    { item: "minecraft:azure_bluet", value: 3 }, //TODO: wiki
+    { item: "minecraft:red_tulip", value: 3 }, //TODO: wiki
+    { item: "minecraft:orange_tulip", value: 3 }, //TODO: wiki
+    { item: "minecraft:white_tulip", value: 3 }, //TODO: wiki
+    { item: "minecraft:pink_tulip", value: 3 }, //TODO: wiki
+    { item: "minecraft:oxeye_daisy", value: 3 }, //TODO: wiki
+    { item: "minecraft:cornflower", value: 3 }, //TODO: wiki
+    { item: "minecraft:lily_of_the_valley", value: 3 }, //TODO: wiki
+    { item: "minecraft:wither_rose", value: 128 }, //TODO: wiki
+    { item: "minecraft:open_eyeblossom", value: 3 }, //TODO: wiki
+    { item: "minecraft:closed_eyeblossom", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:alpha_dandelion", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:alpha_rose", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:aster", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:bleeding_heart", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:blue_lupine", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:daisy", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:dorcel", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:felicia_daisy", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:fireweed", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:glistering_bloom", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:hibiscus", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:mallow", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:hyssop", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:pink_lupine", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:poppy_bush", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:salmon_poppy_bush", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:purple_lupine", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:red_lupine", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:tsubaki", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:waratah", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:white_trillium", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:wilting_trillium", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:yellow_lupine", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:red_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:orange_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:yellow_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:lime_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:green_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:cyan_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:light_blue_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:blue_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:purple_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:magenta_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:pink_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:brown_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:white_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:light_gray_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:gray_snowbelle", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:black_snowbelle", value: 3 }, //TODO: wiki
+    { item: "minecraft:sunflower", value: 3 }, //TODO: wiki
+    { item: "minecraft:lilac", value: 3 }, //TODO: wiki
+    { item: "minecraft:peony", value: 3 }, //TODO: wiki
+    { item: "minecraft:rose_bush", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:tassel", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:day_lily", value: 3 }, //TODO: wiki
+    { item: "minecraft:mangrove_propagule", value: 3 }, //TODO: wiki
+    { item: "minecraft:pink_petals", value: 3 }, //TODO: wiki
+    { item: "minecraft:wildflowers", value: 3 }, //TODO: wiki
+    { item: "minecraft:cactus_flower", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:hyacinth_flowers", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:orange_coneflower", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:purple_coneflower", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:blue_magnolia_flowers", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:pink_magnolia_flowers", value: 3 }, //TODO: wiki
+    { item: "regions_unexplored:white_magnolia_flowers", value: 3 }, //TODO: wiki
 ];
 
 global.farmerProductMult = 1.0

@@ -306,4 +306,7 @@ ItemEvents.tooltip((tooltip) => {
     //engineersgoods
 
     //flowers
+    global.flowers.forEach((flowers) => {
+      global.addPriceTooltip(tooltip, flowers, "crop");
+    });
 });
