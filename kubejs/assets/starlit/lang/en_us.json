@@ -23,5 +23,12 @@
   "tooltip.starlit.farmer_product": "§f🔱§r Farmer product",
   "tooltip.starlit.artisan_product": "§f✎§r Artisan product",
   "tooltip.starlit.geologist_product": "§f🎣§r Geologist product",
-  "tooltip.starlit.adventurer_product": "§f🗡§r Adventurer product"
+  "tooltip.starlit.adventurer_product": "§f🗡§r Adventurer product",
+
+  "starlit.shipping_bin.debt_paid_all": "You paid off your §f●§r %s debt!",
+  "starlit.shipping_bin.debt_paid": "● §6%s§7 of your debt paid off...",
+  "starlit.hospital_receipt.author": "Starlit Valley Hospital",
+  "starlit.shipping_bin.debt_paid_note.title": "Debt Payment Receipt",
+  "starlit.shipping_bin.goods_sold": "%s§r● §6%s§7 worth of goods sold.",
+  "starlit.shipping_bin.full": "Your Basic Shipping Bin was too full to sell..."
 }

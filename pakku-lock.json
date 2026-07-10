@@ -1962,6 +1962,42 @@
             ]
         },
         {
+            "pakku_id": "Njo5zMGmYG7UKVdH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "embers-text-api"
+            },
+            "name": {
+                "curseforge": "Ember's Text API"
+            },
+            "id": {
+                "curseforge": "1345948"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emberstextapi-forge-1.20.1-3.0.2-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8389/412/emberstextapi-forge-1.20.1-3.0.2-all.jar",
+                    "id": "8389412",
+                    "parent_id": "1345948",
+                    "hashes": {
+                        "sha1": "62a9774a5610d34c2cfda86f01a493ad666bbb26",
+                        "md5": "d4ce651d4afe7c7758ede937280433e9"
+                    },
+                    "required_dependencies": [],
+                    "size": 5066605,
+                    "date_published": "2026-07-07T21:09:47.210Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "y1G0miVDfKFbKOEK",
             "pakku_links": [
                 "IreUJ5EL65k3JwXr"
