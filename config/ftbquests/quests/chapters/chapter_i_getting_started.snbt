@@ -67,7 +67,7 @@
 			id: "23680C1B3C50DC4E"
 			tasks: [{
 				id: "53651EFE231B1A84"
-				item: "shippingbin:shipping_bin"
+				item: "shippingbin:basic_shipping_bin"
 				type: "item"
 			}]
 			title: "Making Money"

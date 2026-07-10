@@ -30,5 +30,7 @@
   "starlit.hospital_receipt.author": "Starlit Valley Hospital",
   "starlit.shipping_bin.debt_paid_note.title": "Debt Payment Receipt",
   "starlit.shipping_bin.goods_sold": "%s§r● §6%s§7 worth of goods sold.",
-  "starlit.shipping_bin.full": "Your Basic Shipping Bin was too full to sell..."
+  "starlit.shipping_bin.full": "Your Basic Shipping Bin was too full to sell...",
+
+  "tooltip.starlit.shipping_bin": "Sells items every morning and leaves coins in its inventory. Can be renamed in an Anvil for labeling"
 }

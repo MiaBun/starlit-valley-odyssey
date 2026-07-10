@@ -1,4 +1,6 @@
 global.removedItems = [
+    "shippingbin:shipping_bin",
+
     'numismatics:andesite_depositor',
     'numismatics:white_card',
     'numismatics:orange_card',
