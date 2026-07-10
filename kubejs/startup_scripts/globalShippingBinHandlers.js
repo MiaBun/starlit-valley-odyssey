@@ -201,7 +201,7 @@ global.handleShippingBinDebt = (
           Text.translatable(
             "starlit.shipping_bin.debt_paid_all",
             global.formatPrice(debtPaid.toFixed())
-          ).toJson()
+          ).getString()
         )
       );
       global.setDebt(server, playerUUID, 0);
@@ -216,7 +216,7 @@ global.handleShippingBinDebt = (
           Text.translatable(
             "starlit.shipping_bin.debt_paid",
             global.formatPrice(debtPaid.toFixed())
-          ).toJson()
+          ).getString()
         )
       );
       global.setDebt(server, playerUUID, totalDebt - debtPaid);
@@ -229,7 +229,7 @@ global.handleShippingBinDebt = (
       player.username,
       global.formatPrice(debtPaid.toFixed()),
       global.formatPrice(totalDebt.toFixed())
-    ).toJson();
+    )
     let receiptTitle = global.translatableWithFallback("starlit.shipping_bin.debt_paid_note.title", "Debt Payment Receipt").getString();
     receipt = global.getNotePaperItem(receiptAuthor, receiptText, receiptTitle);
     if (extenalOutput) {
@@ -306,7 +306,7 @@ global.processValueOutput = (
               "starlit.shipping_bin.goods_sold",
               finalName,
               global.formatPrice(value.toFixed()),
-            ).toJson()
+            ).getString()
           )
         );
       }
@@ -368,7 +368,7 @@ global.processValueOutput = (
           player.username,
           `{anchor:"TOP_LEFT",background:1,color:"#FF5555",size:1,offsetY:36,offsetX:6,typewriter:1,align:"TOP_LEFT"}`,
           160,
-          Text.translatable("starlit.shipping_bin.full").toJson()
+          Text.translatable("starlit.shipping_bin.full").getString()
         )
       );
     }

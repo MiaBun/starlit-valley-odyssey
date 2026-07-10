@@ -725,6 +725,43 @@
             ]
         },
         {
+            "pakku_id": "vIKpq4Bm62z3i1YP",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "caxton"
+            },
+            "name": {
+                "curseforge": "Caxton"
+            },
+            "id": {
+                "curseforge": "1320863"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "caxton-0.6.4+1.20.1-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7937/761/caxton-0.6.4+1.20.1-FORGE.jar",
+                    "id": "7937761",
+                    "parent_id": "1320863",
+                    "hashes": {
+                        "sha1": "f29eccd5a2774b9cd723a0a0ef81c292fd160a6f",
+                        "md5": "af949cf04dc7fb249a467fecc70f3d7f"
+                    },
+                    "required_dependencies": [],
+                    "size": 4710348,
+                    "date_published": "2026-04-17T00:34:43.923Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "kC7WWxS0291XSGXz",
             "pakku_links": [
                 "ylbFz5Wp7PnOhvf1",
@@ -1962,7 +1999,10 @@
             ]
         },
         {
-            "pakku_id": "Njo5zMGmYG7UKVdH",
+            "pakku_id": "pUU3ez2gTfmFEnww",
+            "pakku_links": [
+                "vIKpq4Bm62z3i1YP"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "embers-text-api"
@@ -1976,7 +2016,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "emberstextapi-forge-1.20.1-3.0.2-all.jar",
+                    "file_name": "emberstextapi-1.4.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1984,16 +2024,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8389/412/emberstextapi-forge-1.20.1-3.0.2-all.jar",
-                    "id": "8389412",
+                    "url": "https://edge.forgecdn.net/files/7503/929/emberstextapi-1.4.1.jar",
+                    "id": "7503929",
                     "parent_id": "1345948",
                     "hashes": {
-                        "sha1": "62a9774a5610d34c2cfda86f01a493ad666bbb26",
-                        "md5": "d4ce651d4afe7c7758ede937280433e9"
+                        "sha1": "306a2c3938246550e9c50fd06a17956e9c20e164",
+                        "md5": "ecb34b9ccaa2dedf869bb9a65d78310b"
                     },
-                    "required_dependencies": [],
-                    "size": 5066605,
-                    "date_published": "2026-07-07T21:09:47.210Z"
+                    "required_dependencies": [
+                        "1320863"
+                    ],
+                    "size": 124384,
+                    "date_published": "2026-01-22T00:41:08.790Z"
                 }
             ]
         },
