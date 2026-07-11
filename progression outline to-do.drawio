@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="MYqo1k76NVaqQHKW2KsX">
-    <mxGraphModel dx="2796" dy="4299" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="4057" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6190,6 +6190,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOup-TiUkl32vM7SgMXa-615" edge="1" parent="1" source="iOup-TiUkl32vM7SgMXa-471" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="iOup-TiUkl32vM7SgMXa-613">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9gDeabgVgUW7mHhO2sn-2" edge="1" parent="1" source="iOup-TiUkl32vM7SgMXa-471" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="Q9gDeabgVgUW7mHhO2sn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOup-TiUkl32vM7SgMXa-471" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="microprocessor supercomputer" vertex="1">
@@ -14962,6 +14965,9 @@
         </mxCell>
         <mxCell id="lOY6bYaZwUm-q9B_0BBx-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="source forge" vertex="1">
           <mxGeometry height="60" width="120" x="16797" y="-1243" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9gDeabgVgUW7mHhO2sn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="don&#39;t order a DTPF from temu, drunken terraprismatic fluxinator alcohol -&amp;gt; EU" vertex="1">
+          <mxGeometry height="77" width="120" x="17864" y="3773" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
