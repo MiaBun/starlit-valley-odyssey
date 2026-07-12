@@ -1,10 +1,11 @@
 // priority: 1
 console.info("[STARLIT] smartShippingBin.js loaded");
 
-StartupEvents.registry("block", (event) => {
+StartupEvents.registry("block", (event) => { //TODO: wiki
   event
     .create("shippingbin:smart_shipping_bin", "cardinal")
     .tagBlock("minecraft:mineable/axe")
+    .tagBlock("starlit:shipping_bin")
     .item((item) => {
       item.tooltip(
         Text.translatable("tooltip.starlit.smart_shipping_bin").gray()

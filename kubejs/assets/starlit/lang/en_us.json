@@ -33,6 +33,13 @@
   "starlit.shipping_bin.full": "Your Basic Shipping Bin was too full to sell...",
 
   "tooltip.starlit.shipping_bin": "Sells items every morning and leaves coins in its inventory. Can be renamed in an Anvil for labeling",
+  "starlit.shipping_bin.owner": "%s§6's§r Shipping Bin",
+  "starlit.shipping_bin.sell_multipliers": "§f●§r Current sell multipliers:",
+  "starlit.shipping_bin.multiplier": "%s: §ax%s",
+  "starlit.shipping_bin.offline": "This is a stranger's Shipping Bin. They aren't online to draw stats from...",
   "tooltip.starlit.smart_shipping_bin": "Sells inventory periodically and puts the profit into your bank account.\nPlace a Card from a shared bank account in the first slot to sell directly to it.",
-  "tooltip.starlit.smart_shipping_bin.warn": "If you don't have an account or are at the limit it will spit out coins when sold."
+  "tooltip.starlit.smart_shipping_bin.warn": "If you don't have an account or are at the limit it will spit out coins when sold.",
+
+  "block.starlit.shipping_bin_monitor.offline": "Offline",
+  "block.starlit.shipping_bin_monitor.description": "Displays sell value of Shipping Bin below it with all bonuses applied. Updates every 10 seconds.\nRight click to manually update"
 }

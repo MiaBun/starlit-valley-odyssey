@@ -22,10 +22,11 @@ const calculateSlotsNeeded = (coins) => {
     return slots;
 };
 
-StartupEvents.registry("block", (event) => {
+StartupEvents.registry("block", (event) => { //TODO: wiki
   event
     .create("shippingbin:basic_shipping_bin", "cardinal")
     .tagBlock("minecraft:mineable/axe")
+    .tagBlock("starlit:shipping_bin")
     .item((item) => {
       item.tooltip(Text.translatable("tooltip.starlit.shipping_bin").gray());
       item.modelJson({
