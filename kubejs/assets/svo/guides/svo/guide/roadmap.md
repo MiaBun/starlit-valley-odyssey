@@ -10,7 +10,6 @@ Starlit Valley: Odyssey roadmap:
 
 | Version  | Feature |
 | ------------- | ------------- |
-| 0.2.0  | basic economy (items having base prices and shipping bin)  |
 | 0.2.0  | player shops now craftable  |
 | 0.3.0  | crop rework  |
 | 0.3.0  | seasons  |

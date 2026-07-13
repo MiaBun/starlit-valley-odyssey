@@ -4,6 +4,13 @@
 ### Changes
 - Sample Text
 
+## [0.1.2]
+### Changes
+- added shipping bin, this block allows you to sell items, items put in the blocks inventory are sold once a day.
+- added smart shipping bin, this block allows you to sell items, items put in the blocks inventory are sold every 5 minutes.
+- added shipping bin monitor, shows the coin worth of items in a shipping bin placed under it.
+- added prices to all sellable vanilla items
+
 ## [0.1.1]
 ### Changes
 - changed tool and armour progression, PLEASE NOTE THE TEMPLATES AREN'T AVAILABLE YET (yeah i really pushed a unobtainable item update)
