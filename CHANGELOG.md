@@ -4,6 +4,10 @@
 ### Changes
 - Sample Text
 
+## [0.1.3]
+### Changes
+- bumped core mod version that includes mod cleanup, should fix some old uglyness
+
 ## [0.1.2]
 ### Changes
 - added shipping bin, this block allows you to sell items, items put in the blocks inventory are sold once a day.
