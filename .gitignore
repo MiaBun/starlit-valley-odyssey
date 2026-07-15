@@ -73,12 +73,10 @@ config/chiselsandbits-common.toml
 config/defaultworldtype/world-presets.txt
 config/jecalculation/record.json
 config/jade/sort-order.json
-config/jei*
 config/embeddium++.toml
 config/emi.css
 config/darkmodeeverywhereshaders*
 config/ichunutil/themes/
-config/gtceu.yaml
 defaultconfigs/ftbultimine/ftbultimine-*.snbt
 
 # Linux

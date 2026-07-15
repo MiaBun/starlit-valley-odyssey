@@ -1105,6 +1105,42 @@
             ]
         },
         {
+            "pakku_id": "qQELR58LFd46WVR9",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "configured"
+            },
+            "name": {
+                "curseforge": "Configured"
+            },
+            "id": {
+                "curseforge": "457570"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "configured-forge-1.20.1-2.2.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5180/900/configured-forge-1.20.1-2.2.3.jar",
+                    "id": "5180900",
+                    "parent_id": "457570",
+                    "hashes": {
+                        "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+                        "md5": "9380dc31c599c523a5682a4025fceb92"
+                    },
+                    "required_dependencies": [],
+                    "size": 418929,
+                    "date_published": "2024-03-14T03:01:07.233Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "yHeMfB0vC66yyKEK",
             "type": "MOD",
             "slug": {
@@ -1795,85 +1831,6 @@
                     "required_dependencies": [],
                     "size": 168456,
                     "date_published": "2026-06-12T17:20:34.617Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "2tsaie60xPCUp1X3",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "emi"
-            },
-            "name": {
-                "curseforge": "EMI"
-            },
-            "id": {
-                "curseforge": "580555"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "emi-1.1.24+1.20.1+forge.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8081/375/emi-1.1.24+1.20.1+forge.jar",
-                    "id": "8081375",
-                    "parent_id": "580555",
-                    "hashes": {
-                        "sha1": "ea320200878e4a49196760234a22da763671520a",
-                        "md5": "c86d5772fba9fbd4d612f2fe82397f72"
-                    },
-                    "required_dependencies": [],
-                    "size": 1121750,
-                    "date_published": "2026-05-13T06:18:18.303Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "eKunjrGF6nUaDLiZ",
-            "pakku_links": [
-                "7QkccVTCYP2AAPpU",
-                "2tsaie60xPCUp1X3"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "emi-backport"
-            },
-            "name": {
-                "curseforge": "EMI++ Forked"
-            },
-            "id": {
-                "curseforge": "1411826"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "emixx-forge-1.5.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8274/454/emixx-forge-1.5.1.jar",
-                    "id": "8274454",
-                    "parent_id": "1411826",
-                    "hashes": {
-                        "sha1": "7bf56799042bb929418a497b08218e8a922e9d9e",
-                        "md5": "f0d9452a2fec8d718a58f156250a7dd9"
-                    },
-                    "required_dependencies": [
-                        "351264",
-                        "580555"
-                    ],
-                    "size": 399605,
-                    "date_published": "2026-06-18T18:02:34.723Z"
                 }
             ]
         },
@@ -3196,6 +3153,42 @@
             ]
         },
         {
+            "pakku_id": "XIYCQLOjTx38X8HC",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "gregtechceu-modern"
+            },
+            "name": {
+                "curseforge": "GregTech CEu Modern"
+            },
+            "id": {
+                "curseforge": "890405"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gtceu-1.20.1-7.5.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7917/773/gtceu-1.20.1-7.5.3.jar",
+                    "id": "7917773",
+                    "parent_id": "890405",
+                    "hashes": {
+                        "sha1": "2e9de016b74826d43f0d4e619a755e8ec0253784",
+                        "md5": "78d93936d70c0eba394a1a70d3ba1d52"
+                    },
+                    "required_dependencies": [],
+                    "size": 18209988,
+                    "date_published": "2026-04-12T20:47:58.687Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hv0ut46m9xCPq3mL",
             "type": "MOD",
             "slug": {
@@ -3630,7 +3623,7 @@
             ]
         },
         {
-            "pakku_id": "DuK0QfjFCpBfNYF8",
+            "pakku_id": "1vGG9MPXzkTBTHKl",
             "type": "MOD",
             "slug": {
                 "curseforge": "jei"
@@ -3644,7 +3637,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "jei-1.20.1-forge-15.20.0.130.jar",
+                    "file_name": "jei-1.20.1-forge-15.20.0.134.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3652,16 +3645,16 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7920/915/jei-1.20.1-forge-15.20.0.130.jar",
-                    "id": "7920915",
+                    "url": "https://edge.forgecdn.net/files/8419/86/jei-1.20.1-forge-15.20.0.134.jar",
+                    "id": "8419086",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34",
-                        "md5": "a47e80ce79ecbb6c60e28880ab997d1d"
+                        "sha1": "1150671952108303b4b02d2b09f42877fe14b138",
+                        "md5": "8d62254b3a8ea35a7ca6d29ccb628531"
                     },
                     "required_dependencies": [],
-                    "size": 1409705,
-                    "date_published": "2026-04-13T13:50:05.373Z"
+                    "size": 1412399,
+                    "date_published": "2026-07-12T14:26:11.390Z"
                 }
             ]
         },
@@ -5907,43 +5900,6 @@
                     "required_dependencies": [],
                     "size": 4903917,
                     "date_published": "2026-05-28T08:05:03.440Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "4JdrM0h3viVqdJPf",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "skin-layers-3d"
-            },
-            "name": {
-                "curseforge": "Skin Layers 3D"
-            },
-            "id": {
-                "curseforge": "521480"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7857/555/skinlayers3d-forge-1.11.1-mc1.20.1.jar",
-                    "id": "7857555",
-                    "parent_id": "521480",
-                    "hashes": {
-                        "sha1": "b64ccb25ebe4cb7b09d1dd4561dbc519d5f02382",
-                        "md5": "d7173930d21f0f3bf240e1d08ba84a29"
-                    },
-                    "required_dependencies": [],
-                    "size": 2163998,
-                    "date_published": "2026-04-01T18:15:51.713Z"
                 }
             ]
         },

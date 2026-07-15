@@ -2,7 +2,7 @@ console.info("[SVO] registerItems.js loaded");
 
 StartupEvents.registry("item", (e) => {
     const tiers = [
-        "Stone, Leather, Chainmail, nd Cotton",
+        "Stone, Leather, Chainmail, and Cotton",
         "Iron",
         "Gold",
         "Diamond"

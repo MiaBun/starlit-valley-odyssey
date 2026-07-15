@@ -32,6 +32,9 @@
 			willow = true
 			yellow_bioshroom = true
 
+		[types.wood_type.gtceu]
+			rubber = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.minecraft]
@@ -69,6 +72,9 @@
 			white_magnolia = true
 			willow = true
 			ashen = true
+
+		[types.leaves_type.gtceu]
+			rubber = true
 
 #Disables specific entries
 [entries]

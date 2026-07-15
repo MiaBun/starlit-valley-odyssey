@@ -791,4 +791,5 @@ global.removedItems = [
     'everycomp:c/regions_unexplored/willow_window_pane',
     'everycomp:c/regions_unexplored/alpha_window_pane',
     'everycomp:c/regions_unexplored/pink_bioshroom_window_pane'
+    
 ]

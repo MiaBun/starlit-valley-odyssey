@@ -2,6 +2,8 @@ console.info("[SVO] removeRecipes.js loaded");
 
 ServerEvents.recipes((e) => {
 
+    e.remove({mod: "gtceu"});
+
     const removeById = [
         "minecraft:stone_sword",
         "minecraft:iron_sword",
