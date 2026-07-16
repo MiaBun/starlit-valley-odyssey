@@ -1835,6 +1835,85 @@
             ]
         },
         {
+            "pakku_id": "kKDHZGIJ9Segq4ub",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "emi"
+            },
+            "name": {
+                "curseforge": "EMI"
+            },
+            "id": {
+                "curseforge": "580555"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emi-1.1.22+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6420/945/emi-1.1.22+1.20.1+forge.jar",
+                    "id": "6420945",
+                    "parent_id": "580555",
+                    "hashes": {
+                        "sha1": "d8049d6ec86befcd100a0ff0fc8ebc289f735997",
+                        "md5": "441c582c6e8a1d6fd9e3d16a27c1a39e"
+                    },
+                    "required_dependencies": [],
+                    "size": 1048567,
+                    "date_published": "2025-04-14T03:37:30.690Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lxlvj2LU7ZmR08aD",
+            "pakku_links": [
+                "7QkccVTCYP2AAPpU",
+                "kKDHZGIJ9Segq4ub"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "emi-backport"
+            },
+            "name": {
+                "curseforge": "EMI++ Forked"
+            },
+            "id": {
+                "curseforge": "1411826"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emixx-forge-1.5.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8274/201/emixx-forge-1.5.0.jar",
+                    "id": "8274201",
+                    "parent_id": "1411826",
+                    "hashes": {
+                        "sha1": "d13069a42c1a2708ed9fa8b023c6a8a7510055f1",
+                        "md5": "a90ecaecd5b7a811388bb7c9d282f47e"
+                    },
+                    "required_dependencies": [
+                        "351264",
+                        "580555"
+                    ],
+                    "size": 398359,
+                    "date_published": "2026-06-18T17:16:24.700Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Gd3OUxbI0qkJnMXv",
             "pakku_links": [
                 "SAuZduabO9ClRn7A"
