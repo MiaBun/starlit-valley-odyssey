@@ -1,11 +1,11 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "hats_cunfinished"
+	filename: "moths_cunfinished"
 	group: "1CDD3FAEAA3BA606"
-	id: "1086FD892469CD88"
-	order_index: 5
+	id: "07E71475967EE47A"
+	order_index: 9
 	quest_links: [ ]
 	quests: [ ]
-	title: "Hats &c[UNFINISHED]"
+	title: "Moths &c[UNFINISHED]"
 }
