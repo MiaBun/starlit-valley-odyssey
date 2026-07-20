@@ -1,8 +1,10 @@
 {
 	chapter_groups: [
 		{ id: "0869EF00969E7C6B", title: "Chapters" }
-		{ id: "2604B6D16AC50450", title: "Guides" }
-		{ id: "083763DEECE59D3E", title: "Milestones" }
-		{ id: "4AB68A96AF616F64", title: "Collections" }
+		{ id: "730D0517DAB95D05", title: "Side Quest 1: A Lost Dwarf" }
+		{ id: "6D37B04CFFDFD8D8", title: "Side Quest 2: Transmission From Space" }
+		{ id: "1CDD3FAEAA3BA606", title: "Museum" }
+		{ id: "72BAB4BD6886BD99", title: "Community Centre" }
+		{ id: "20468A960009E4CD", title: "Communities Completionist &c[UNFINISHED]" }
 	]
 }

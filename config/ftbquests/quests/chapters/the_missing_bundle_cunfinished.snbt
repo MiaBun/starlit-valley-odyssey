@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_missing_bundle_cunfinished"
+	group: "72BAB4BD6886BD99"
+	id: "0635FBA40B1D0B41"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "The Missing Bundle &c[UNFINISHED]"
+}

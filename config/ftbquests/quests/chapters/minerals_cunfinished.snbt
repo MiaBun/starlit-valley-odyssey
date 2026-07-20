@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "minerals_cunfinished"
+	group: "1CDD3FAEAA3BA606"
+	id: "2F106C766E92F2E7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Minerals &c[UNFINISHED]"
+}

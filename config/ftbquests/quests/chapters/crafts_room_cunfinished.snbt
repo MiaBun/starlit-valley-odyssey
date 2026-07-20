@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "crafts_room_cunfinished"
+	group: "72BAB4BD6886BD99"
+	id: "419DDAD93EF20F9C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Crafts Room &c[UNFINISHED]"
+}

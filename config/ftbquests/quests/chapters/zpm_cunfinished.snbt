@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zpm_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "599CE2C2D350504B"
+	order_index: 9
+	quest_links: [ ]
+	quests: [ ]
+	title: "ZPM &c[UNFINISHED]"
+}

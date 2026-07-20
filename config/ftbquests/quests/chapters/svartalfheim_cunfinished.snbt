@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "svartalfheim_cunfinished"
+	group: "730D0517DAB95D05"
+	id: "61FA2E3AC8666044"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "Svartalfheim &c[UNFINISHED]"
+}

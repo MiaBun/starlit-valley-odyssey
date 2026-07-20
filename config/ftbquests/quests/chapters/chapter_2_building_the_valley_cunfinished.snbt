@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_2_building_the_valley_cunfinished"
+	group: "0869EF00969E7C6B"
+	icon: {
+		Count: 1
+		id: "minecraft:iron_axe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "6E96281DB9FC1A50"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	subtitle: ["Let's restore this town!"]
+	title: "Chapter 2: Building The Valley! &c[UNFINISHED]"
+}

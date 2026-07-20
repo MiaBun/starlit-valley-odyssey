@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vault_cunfinished"
+	group: "72BAB4BD6886BD99"
+	id: "63C7EAC719686C09"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Vault &c[UNFINISHED]"
+}

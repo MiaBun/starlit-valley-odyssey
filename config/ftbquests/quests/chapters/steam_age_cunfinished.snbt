@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "steam_age_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "012AFBD6A4D584F7"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Steam Age &c[UNFINISHED]"
+}

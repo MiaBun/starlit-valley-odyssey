@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_3_to_the_mountains_cunfinished"
+	group: "0869EF00969E7C6B"
+	icon: "minecraft:grass_block"
+	id: "2B1CDE2E859A7B6D"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	subtitle: ["Let's take a field trip to the mountains!"]
+	title: "Chapter 3: To The Mountains! &c[UNFINISHED]"
+}

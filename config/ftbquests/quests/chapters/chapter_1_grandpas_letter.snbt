@@ -1,0 +1,44 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_1_grandpas_letter"
+	group: "0869EF00969E7C6B"
+	icon: "minecraft:crafting_table"
+	id: "00E3498660041BE3"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "53B110E5641A559E"
+			tasks: [{
+				id: "42F1D25F45CD06EA"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "A letter from Grandpa"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53B110E5641A559E"]
+			description: ["Upgrading your tools past wood requires a smithing table. at higher tiers it will require a smithing template purchased from the blacksmith"]
+			id: "5F2B8086907CC320"
+			tasks: [{
+				id: "4C20CAE21A397894"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Upgrading Tools?"
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+	subtitle: ["You received a letter from grandpa, i wonder what this is about?"]
+	title: "Chapter 1: Grandpa's Letter! &c[UNFINISHED]"
+}

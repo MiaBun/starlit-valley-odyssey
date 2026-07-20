@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lv_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "6DA501E76C121FB0"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+	title: "LV &c[UNFINISHED]"
+}

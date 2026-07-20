@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "uxv_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "6562BB534DBA0568"
+	order_index: 14
+	quest_links: [ ]
+	quests: [ ]
+	title: "UXV &c[UNFINISHED]"
+}

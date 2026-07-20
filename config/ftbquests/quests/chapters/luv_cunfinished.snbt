@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "luv_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "4D436A5660438FB1"
+	order_index: 8
+	quest_links: [ ]
+	quests: [ ]
+	title: "LuV &c[UNFINISHED]"
+}

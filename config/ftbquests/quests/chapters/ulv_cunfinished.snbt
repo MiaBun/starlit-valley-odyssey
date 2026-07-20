@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ulv_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "6DB51AFF2D0FCC80"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "ULV &c[UNFINISHED]"
+}

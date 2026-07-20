@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ev_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "688111009DB03A84"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "EV &c[UNFINISHED]"
+}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "elfheim_cunfinished"
+	group: "730D0517DAB95D05"
+	id: "0C9EA94BB9166163"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Elfheim &c[UNFINISHED]"
+}

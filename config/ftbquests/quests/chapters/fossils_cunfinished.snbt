@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fossils_cunfinished"
+	group: "1CDD3FAEAA3BA606"
+	id: "429B8899B65935B8"
+	order_index: 8
+	quest_links: [ ]
+	quests: [ ]
+	title: "Fossils &c[UNFINISHED]"
+}

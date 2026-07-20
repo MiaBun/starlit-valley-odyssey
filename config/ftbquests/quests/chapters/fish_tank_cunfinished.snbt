@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fish_tank_cunfinished"
+	group: "72BAB4BD6886BD99"
+	id: "09F3C291D1A95C53"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Fish Tank &c[UNFINISHED]"
+}

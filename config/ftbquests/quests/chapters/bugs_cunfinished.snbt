@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bugs_cunfinished"
+	group: "1CDD3FAEAA3BA606"
+	id: "61163F872498DF6F"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Bugs &c[UNFINISHED]"
+}

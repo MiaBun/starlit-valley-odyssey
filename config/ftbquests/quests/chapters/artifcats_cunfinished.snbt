@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "artifcats_cunfinished"
+	group: "1CDD3FAEAA3BA606"
+	id: "56659A056DB702BC"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Artifcats &c[UNFINISHED]"
+}

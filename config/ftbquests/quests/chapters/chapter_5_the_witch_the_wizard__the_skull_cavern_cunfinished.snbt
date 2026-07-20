@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_5_the_witch_the_wizard__the_skull_cavern_cunfinished"
+	group: "0869EF00969E7C6B"
+	icon: "minecraft:oak_fence_gate"
+	id: "3D01583C8EACEE5E"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	subtitle: ["I wonder if this new cave and these new residents have something in common?"]
+	title: "Chapter 5: The Witch, The Wizard \\& The Skull Cavern &c[UNFINISHED]"
+}

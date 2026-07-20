@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "helheim_cunfinished"
+	group: "730D0517DAB95D05"
+	id: "67921651A63D3174"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Helheim &c[UNFINISHED]"
+}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "muspelheim_cunfinished"
+	group: "730D0517DAB95D05"
+	id: "0C7C9875BE5BE196"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Muspelheim &c[UNFINISHED]"
+}

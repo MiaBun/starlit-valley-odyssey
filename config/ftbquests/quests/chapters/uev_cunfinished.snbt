@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "uev_cunfinished"
+	group: "6D37B04CFFDFD8D8"
+	id: "318FD7E20267C21B"
+	order_index: 12
+	quest_links: [ ]
+	quests: [ ]
+	title: "UEV &c[UNFINISHED]"
+}

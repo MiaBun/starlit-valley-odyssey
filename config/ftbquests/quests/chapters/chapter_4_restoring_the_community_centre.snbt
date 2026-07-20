@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_4_restoring_the_community_centre"
+	group: "0869EF00969E7C6B"
+	icon: "minecraft:oak_door"
+	id: "6F159F9573F5DC76"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+	subtitle: ["Let's restore the community centre!"]
+	title: "Chapter 4: Restoring the Community Centre! &c[UNFINISHED]"
+}
