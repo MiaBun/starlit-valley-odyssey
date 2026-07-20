@@ -4,6 +4,14 @@
 ### Changes
 - Sample Text
 
+## [0.2.0-PRE1]
+### Changes
+- PLEASE NOTE THIS IS A PRE-RELEASE AND CONTAINS EXPERIMENTAL FEATURES AND UNFINISHED FEATURES.
+- currently aware of: not being able to obtain smithing templates and thus iron, gold and diamond gear.
+- added gregtech CEU modern
+- made the core mod depend on gregtech CEU modern
+- rework of the questbook to be more in line with a own vision of stardew valley in minecraft
+
 ## [0.1.3]
 ### Changes
 - bumped core mod version that includes mod cleanup, should fix some old uglyness
