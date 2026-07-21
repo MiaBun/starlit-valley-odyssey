@@ -14973,10 +14973,109 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LV_id4KJUwiEKEqGbDbU" name="chapter 1: ">
-    <mxGraphModel dx="4558" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1823" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-3" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="welcome to starlit valley odyssey" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-5" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-9" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="tool progression changed" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-7" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="where to build a farm?" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-11" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="so how do i make money? (shipping bin)" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="where&#39;s my durability?" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="player shops" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUYWXKvOIPYE9gwdu6a-2" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="WpUYWXKvOIPYE9gwdu6a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="planting your first crop" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-13" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;" target="RKtuBnJF-op1V-zSIZqa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-17" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-1" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="how to water crops" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-15" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" target="RKtuBnJF-op1V-zSIZqa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="field guide" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-3" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="iXtKhQwrKeBX93EX1ca6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-7" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iXtKhQwrKeBX93EX1ca6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-11" edge="1" parent="1" source="RKtuBnJF-op1V-zSIZqa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iXtKhQwrKeBX93EX1ca6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKtuBnJF-op1V-zSIZqa-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="so what are these coins?" vertex="1">
+          <mxGeometry height="60" width="120" x="1520" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-5" edge="1" parent="1" source="iXtKhQwrKeBX93EX1ca6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="iXtKhQwrKeBX93EX1ca6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="skills" vertex="1">
+          <mxGeometry height="60" width="120" x="1520" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="regret your choice?" vertex="1">
+          <mxGeometry height="60" width="120" x="1520" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-9" edge="1" parent="1" source="iXtKhQwrKeBX93EX1ca6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iXtKhQwrKeBX93EX1ca6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="creating a bank account" vertex="1">
+          <mxGeometry height="60" width="120" x="1520" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sharing a bank account" vertex="1">
+          <mxGeometry height="60" width="120" x="1520" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUYWXKvOIPYE9gwdu6a-4" edge="1" parent="1" source="iXtKhQwrKeBX93EX1ca6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WpUYWXKvOIPYE9gwdu6a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXtKhQwrKeBX93EX1ca6-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the mail box" vertex="1">
+          <mxGeometry height="60" width="120" x="1700" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUYWXKvOIPYE9gwdu6a-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="seasons" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUYWXKvOIPYE9gwdu6a-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="earning some money (earn at least 10 coins)" vertex="1">
+          <mxGeometry height="60" width="120" x="1870" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
