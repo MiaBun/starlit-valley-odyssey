@@ -3,8 +3,8 @@
   "type": "emixx:group",
   "contents": [
     "minecraft:netherite_upgrade_smithing_template",
-    "starlit:diamond_upgrade_smithing_template",
-    "starlit:gold_upgrade_smithing_template",
-    "starlit:iron_upgrade_smithing_template"
+    "svo_core:diamond_upgrade_smithing_template",
+    "svo_core:gold_upgrade_smithing_template",
+    "svo_core:iron_upgrade_smithing_template"
   ]
 }

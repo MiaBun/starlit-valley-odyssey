@@ -15,7 +15,7 @@ ServerEvents.recipes((e) => {
                 );  
                 e.smithing(
                     `${modId}:iron_${type}`,
-                    "starlit:iron_upgrade_smithing_template",
+                    "svo_core:iron_upgrade_smithing_template",
                     `${modId}:stone_${type}`,
                     "minecraft:iron_ingot"
                 );
@@ -29,21 +29,21 @@ ServerEvents.recipes((e) => {
             );
             e.smithing(
                 `${modId}:iron_${type}`,
-                "starlit:iron_upgrade_smithing_template",
+                "svo_core:iron_upgrade_smithing_template",
                 `${modId}:chainmail_${type}`,
                 "minecraft:iron_ingot"
             );
         }
         e.smithing(
           `${modId}:gold${modId === "minecraft" ? "en" : ""}_${type}`,
-          `starlit:gold_upgrade_smithing_template`,
+          `svo_core:gold_upgrade_smithing_template`,
           `${modId}:iron_${type}`,
           "minecraft:gold_ingot"
         );
 
         e.smithing(
           `${modId}:diamond_${type}`,
-          `starlit:diamond_upgrade_smithing_template`,
+          `svo_core:diamond_upgrade_smithing_template`,
           `${modId}:gold${modId === "minecraft" ? "en" : ""}_${type}`,
           "minecraft:diamond"
         );
