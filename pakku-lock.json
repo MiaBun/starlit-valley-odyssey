@@ -7059,16 +7059,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "svo-0.0.11.jar",
+                    "file_name": "svo-0.0.14.jar",
                     "release_type": "release",
-                    "url": "https://github.com/MiaBun/starlit-valley-odyssey-core/releases/download/0.0.11/svo-0.0.11.jar",
-                    "id": "485092943",
+                    "url": "https://github.com/MiaBun/starlit-valley-odyssey-core/releases/download/0.0.14/svo-0.0.14.jar",
+                    "id": "488860242",
                     "parent_id": "1254627484",
                     "hashes": {
-                        "sha256": "c89f555563ba2e4519e67a789fe93df6ccf0b02a56ea310eaec56148683b48da"
+                        "sha256": "38cdf52570ff07f9e732931b612aeaf5ddaa3b2c0a1b3bea21f491aabc58f48a"
                     },
-                    "size": 24348,
-                    "date_published": "2026-07-21T19:55:21Z"
+                    "size": 34099,
+                    "date_published": "2026-07-24T21:54:09Z"
                 }
             ]
         }
