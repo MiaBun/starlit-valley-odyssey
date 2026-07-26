@@ -4,6 +4,23 @@
 ### Changes
 - Sample Text
 
+## [0.2.0-PRE2]
+### Changes
+- PLEASE NOTE THIS IS A PRE-RELEASE AND CONTAINS EXPERIMENTAL FEATURES AND UNFINISHED FEATURES.
+- currently aware of: not being able to obtain smithing templates and thus iron, gold and diamond gear, not being able to obtain gemstones and minerals
+- added:
+- added stack groups for gemstones and minerals
+- added emerald
+- added ruby
+- added amethyst
+- added topaz
+- added jade
+- added diamond
+- added prismatic shard
+- added earth crystal
+- added frozen tear
+- added fire quartz
+
 ## [0.2.0-PRE1]
 ### Changes
 - PLEASE NOTE THIS IS A PRE-RELEASE AND CONTAINS EXPERIMENTAL FEATURES AND UNFINISHED FEATURES.
