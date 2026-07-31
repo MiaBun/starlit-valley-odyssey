@@ -6,6 +6,29 @@
 	id: "0635FBA40B1D0B41"
 	order_index: 6
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: ["022AB527CB04F03E"]
+			id: "5F9542C919202935"
+			tasks: [{
+				id: "434B8A26665E666A"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "The Missing Bundle"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "022AB527CB04F03E"
+			tasks: [{
+				id: "0EE974B3EAC41AC7"
+				item: "svo_core:prismatic_shard"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
 	title: "The Missing Bundle &c[UNFINISHED]"
 }

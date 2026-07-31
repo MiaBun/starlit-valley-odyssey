@@ -6,6 +6,73 @@
 	id: "419DDAD93EF20F9C"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "0B6BC350E941E502"
+			tasks: [{
+				id: "710E7CDAABAE8439"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Spring Foraging Bundle"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "192241028D406293"
+			tasks: [{
+				id: "58241E428BB3DCB8"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Summer Foraging Bundle"
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			id: "6B4B59B04B474BE1"
+			tasks: [{
+				id: "057ADEC37F5E4368"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Fall Foraging Bundle"
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			id: "3811733C792B42C0"
+			tasks: [{
+				id: "6032C9ACF91044AB"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Winter Foraging Bundle"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			id: "1564068A6ED66248"
+			tasks: [{
+				id: "394380DED0D1F9FC"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Construction Bundle"
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			id: "47FAA3C532C3C083"
+			tasks: [{
+				id: "7BC5C23590F175B2"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Exotic Foraging Bundle"
+			x: 12.0d
+			y: -1.5d
+		}
+	]
 	title: "Crafts Room &c[UNFINISHED]"
 }

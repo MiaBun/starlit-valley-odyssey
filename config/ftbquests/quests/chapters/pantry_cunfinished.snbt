@@ -6,6 +6,73 @@
 	id: "73A4C8FBD924AD00"
 	order_index: 1
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "6695424CF9818948"
+			tasks: [{
+				id: "0AE619ECE3DF95B3"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Spring Crops Bundle"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "631C62D94B937E3E"
+			tasks: [{
+				id: "135BEE7D5CA0B085"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Summer Crops Bundle"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "04B9D7C5E407B37B"
+			tasks: [{
+				id: "229428C4C88DC554"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Fall Crops Bundle"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "53DC0103B7A199AD"
+			tasks: [{
+				id: "1FC9447290DDBA30"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Quality Crops Bundle"
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "6C92B6226FD4A8B7"
+			tasks: [{
+				id: "7D93E323B735EEB8"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Animal Bundle"
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			id: "5FF26BF36BA1C1C4"
+			tasks: [{
+				id: "04053C65CEEFBBA4"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Artisan Bundle"
+			x: 12.0d
+			y: 0.0d
+		}
+	]
 	title: "Pantry &c[UNFINISHED]"
 }

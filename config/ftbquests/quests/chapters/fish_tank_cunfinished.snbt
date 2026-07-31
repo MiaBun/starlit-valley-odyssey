@@ -6,6 +6,73 @@
 	id: "09F3C291D1A95C53"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "4ED27BBAB118CCA4"
+			tasks: [{
+				id: "069D51D6A38B82B4"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "River Fish Bundle"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7FC6DD7975895E33"
+			tasks: [{
+				id: "7867E3A3D3F25B81"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Lake Fish Bundle"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "5DF0FC3BC8F4728C"
+			tasks: [{
+				id: "6981D928439B7F6D"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Ocean Fish Bundle"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "2F036B309EB032A0"
+			tasks: [{
+				id: "684CA6833B93E943"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Night Fishing Bundle"
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			id: "33DFBE817307FB74"
+			tasks: [{
+				id: "54EA456612BF655E"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Crab Pot Bundle"
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "1F092E2B74D00EA2"
+			tasks: [{
+				id: "1BDC5B919D2D5C2D"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Speciality Fish Bundle"
+			x: -12.0d
+			y: 0.0d
+		}
+	]
 	title: "Fish Tank &c[UNFINISHED]"
 }

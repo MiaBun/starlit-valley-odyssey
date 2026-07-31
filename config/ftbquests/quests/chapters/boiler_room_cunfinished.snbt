@@ -6,6 +6,121 @@
 	id: "5066535314E35FD4"
 	order_index: 3
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: [
+				"04A93EF952D43666"
+				"1EDD5D63F093DEC9"
+				"5B108480FC098DBC"
+			]
+			id: "6E072FF09BBA68C1"
+			tasks: [{
+				id: "1F3FDAE5D934C281"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Blacksmith's Bundle"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "5B108480FC098DBC"
+			tasks: [{
+				id: "6B91A830FA914713"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			id: "1EDD5D63F093DEC9"
+			tasks: [{
+				id: "0ABD36F85E0DC65F"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "04A93EF952D43666"
+			tasks: [{
+				id: "7A3FF8103E90D0CC"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4DBA66E1ACB2B0E4"
+				"55293D61A8ABF7AD"
+				"07070270ECBAC422"
+				"577161482F0B7F1D"
+			]
+			id: "7CF1AF5A91217611"
+			tasks: [{
+				id: "2DB64FB905563662"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Geologist's Bundle"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "55293D61A8ABF7AD"
+			tasks: [{
+				id: "2BE062858752B478"
+				item: "svo_core:quartz"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			id: "577161482F0B7F1D"
+			tasks: [{
+				id: "53BB9487126AADCA"
+				item: "svo_core:earth_crystal"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "07070270ECBAC422"
+			tasks: [{
+				id: "6908337468A4B6FA"
+				item: "svo_core:frozen_tear"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "4DBA66E1ACB2B0E4"
+			tasks: [{
+				id: "1829656C044E527C"
+				item: "svo_core:fire_quartz"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "634ED45CE0D5203C"
+			tasks: [{
+				id: "4426CFBB12C33EA3"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Adventurer's Bundle"
+			x: 1.5d
+			y: 0.0d
+		}
+	]
 	title: "Boiler Room &c[UNFINISHED]"
 }

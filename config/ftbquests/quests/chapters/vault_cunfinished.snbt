@@ -6,6 +6,51 @@
 	id: "63C7EAC719686C09"
 	order_index: 5
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "75A7537B93A1E4AF"
+			tasks: [{
+				id: "7B90ACEE91624CEF"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "2,500 Bundle"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "3E552486B3D38627"
+			tasks: [{
+				id: "3AAF673CD293BA55"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "5,000 Bundle"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "69A8A330A8EED40E"
+			tasks: [{
+				id: "282BE7AE1695D4F6"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "10,000 Bundle"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "62A93E09DA9AD8C0"
+			tasks: [{
+				id: "067470FA1D196A4F"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "25,000 Bundle"
+			x: 0.0d
+			y: 1.0d
+		}
+	]
 	title: "Vault &c[UNFINISHED]"
 }

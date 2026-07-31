@@ -6,6 +6,537 @@
 	id: "2F106C766E92F2E7"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "3FEDA447B9F6BE39"
+			tasks: [{
+				id: "2A9D1D01DAD1A823"
+				item: "svo_core:quartz"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "6A66B1352F95D61F"
+			tasks: [{
+				id: "037D58B6FA1E075C"
+				item: "svo_core:earth_crystal"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "35640AF6351C9F22"
+			tasks: [{
+				id: "6AF50051BD1D2016"
+				item: "svo_core:frozen_tear"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "200DAE5A982D05B7"
+			tasks: [{
+				id: "0049CEE351F6AFCC"
+				item: "svo_core:fire_quartz"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "5EE3EFDD1F95D46D"
+			tasks: [{
+				id: "656FB9074B3598E2"
+				item: "svo_core:emerald"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "27CFD6C485E8CBE7"
+			tasks: [{
+				id: "7A9F1B992AE522E6"
+				item: "svo_core:aquamarine"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "6071764CD18FFD8A"
+			tasks: [{
+				id: "75937A66E1CAF6D0"
+				item: "svo_core:ruby"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "17268A490B3AD32D"
+			tasks: [{
+				id: "5F48D1FFFE6E53A2"
+				item: "svo_core:amethyst"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "2FD2F058FD9ABB5F"
+			tasks: [{
+				id: "2BD824A56E90B225"
+				item: "svo_core:topaz"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "6CD93A9FAA52239C"
+			tasks: [{
+				id: "42C2D6CDF1492F5D"
+				item: "svo_core:jade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "663673581D92EAC3"
+			tasks: [{
+				id: "62BB4C1963D06D17"
+				item: "svo_core:diamond"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "7B5C9AD6C435C1FB"
+			tasks: [{
+				id: "1C38CD9F7A156AF4"
+				item: "svo_core:prismatic_shard"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "6BBA839C753550FC"
+			tasks: [{
+				id: "20295B54F341B2B4"
+				item: "svo_core:tigerseye"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			id: "2D6FD4FEA246C384"
+			tasks: [{
+				id: "2CD36C4A06E4AEF3"
+				item: "svo_core:opal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "6DA75B2181C7B39E"
+			tasks: [{
+				id: "035D0E61DEB2F843"
+				item: "svo_core:fire_opal"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "65BB79AC510E483C"
+			tasks: [{
+				id: "52277B86CAC8F31E"
+				item: "svo_core:alamite"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			id: "75429917BB4A2D6F"
+			tasks: [{
+				id: "279F796423C41477"
+				item: "svo_core:bixite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "0C831E5AF185AD23"
+			tasks: [{
+				id: "63D68A0E285DA67C"
+				item: "svo_core:baryte"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "77C00E17556468C5"
+			tasks: [{
+				id: "642792DB175E167F"
+				item: "svo_core:aerinite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "76EB87CEBF056735"
+			tasks: [{
+				id: "221216AFB660D7AB"
+				item: "svo_core:calcite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			id: "5894F0F2FEC07F84"
+			tasks: [{
+				id: "7C93B7B60AD7F761"
+				item: "svo_core:dolomite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "3EA59F6D19D54D3F"
+			tasks: [{
+				id: "408ACB63D560978E"
+				item: "svo_core:esperite"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			id: "5ACFEA3CD7DCE09C"
+			tasks: [{
+				id: "0EC1DABE4824E7FA"
+				item: "svo_core:fluorapatite"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "71DC0F8A885F5343"
+			tasks: [{
+				id: "56A83ADB4A53C746"
+				item: "svo_core:geminite"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			id: "69E8F03CB2DA9A79"
+			tasks: [{
+				id: "6424A78FEC2A50CB"
+				item: "svo_core:helvite"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			id: "6A0E7ED33B4B3424"
+			tasks: [{
+				id: "64051C2BF4EDA739"
+				item: "svo_core:jamborite"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.5d
+		}
+		{
+			id: "5BE62FF29BF66832"
+			tasks: [{
+				id: "6960ED85002853F5"
+				item: "svo_core:jagoite"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			id: "384350A270443400"
+			tasks: [{
+				id: "76AD233799B66EBE"
+				item: "svo_core:kyanite"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			id: "4704CDE00B862683"
+			tasks: [{
+				id: "250E955EE0EC4DC8"
+				item: "svo_core:lunarite"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			id: "6FCEE32B03FEA3C0"
+			tasks: [{
+				id: "0F733AABA3E441D2"
+				item: "svo_core:malachite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			id: "0D45ABBC59578BC7"
+			tasks: [{
+				id: "0605318094BC43CE"
+				item: "svo_core:neptunite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			id: "5472ABE2F3AB3BE5"
+			tasks: [{
+				id: "062D9EF435187FB2"
+				item: "svo_core:lemon_stone"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			id: "0D53389FB2341DBD"
+			tasks: [{
+				id: "26F0EC57919013EC"
+				item: "svo_core:nekoite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			id: "7FB47421E9707311"
+			tasks: [{
+				id: "1402AC7C3D1BF21B"
+				item: "svo_core:orpiment"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "4D451ABD3F161550"
+			tasks: [{
+				id: "03DAED825B7711A2"
+				item: "svo_core:petrified_slime"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "425F559E0D92F690"
+			tasks: [{
+				id: "66F23E610BA67898"
+				item: "svo_core:thunder_egg"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "145733E4839CBEAE"
+			tasks: [{
+				id: "47F7D1E346E604EA"
+				item: "svo_core:pyrite"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "2BF538003DB897AE"
+			tasks: [{
+				id: "29DC026B0E5890C1"
+				item: "svo_core:ocean_stone"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			id: "5576D0583E87C377"
+			tasks: [{
+				id: "7253CA6D8CADC922"
+				item: "svo_core:ghost_crystal"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "4A2B3467514DC965"
+			tasks: [{
+				id: "6A2512C8896877F9"
+				item: "svo_core:jasper"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			id: "2C124FA7733024FA"
+			tasks: [{
+				id: "559A6A328E79DAF5"
+				item: "svo_core:celestine"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			id: "76A46B35B0DBB183"
+			tasks: [{
+				id: "7650B5FEB3D2A911"
+				item: "svo_core:marble"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.5d
+		}
+		{
+			id: "7F5F1C70D855B5C4"
+			tasks: [{
+				id: "50C02A7718FE3F2C"
+				item: "svo_core:sandstone"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			id: "71FB87A92F375AF5"
+			tasks: [{
+				id: "0940DE3016D02BB6"
+				item: "svo_core:granite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.0d
+		}
+		{
+			id: "67B2D95B04CD5747"
+			tasks: [{
+				id: "2695620AAA331D71"
+				item: "svo_core:basalt"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			id: "0D362048D42CA54D"
+			tasks: [{
+				id: "6781D42805F71340"
+				item: "svo_core:limestone"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			id: "211044C6E05BA204"
+			tasks: [{
+				id: "0E7EA1F257B6C624"
+				item: "svo_core:soapstone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "435989C6DDD1ED65"
+			tasks: [{
+				id: "795B22AE7ADD484C"
+				item: "svo_core:hermatite"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			id: "34CF8BB072E7C4FC"
+			tasks: [{
+				id: "0B6E206747577104"
+				item: "svo_core:mudstone"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			id: "724D4FFD155EAEC1"
+			tasks: [{
+				id: "69B02E546FA5E041"
+				item: "svo_core:obsidian"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.5d
+		}
+		{
+			id: "0028004F0AD65961"
+			tasks: [{
+				id: "2ADE4C1CBEAEBF6F"
+				item: "svo_core:slate"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			id: "7FA866AF01A33666"
+			tasks: [{
+				id: "3882276FB23D9BC4"
+				item: "svo_core:fairy_stone"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			id: "60C9E0A601F78444"
+			tasks: [{
+				id: "2038E4B24D8A55C1"
+				item: "svo_core:star_shards"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+	]
 	title: "Minerals &c[UNFINISHED]"
 }

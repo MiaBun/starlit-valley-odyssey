@@ -6,6 +6,84 @@
 	id: "32DB8582B6D93F44"
 	order_index: 4
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "6CD214DE5BFDCE8D"
+			tasks: [{
+				id: "51D2AD894AF70CF3"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Chef's Bundle"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["51615E6CF085B878"]
+			id: "334C9415C52D0541"
+			tasks: [{
+				id: "7E3A8214EB1FC0AE"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Dye Bundle"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AE661500E0E1F84"]
+			id: "3DEB4835A6EDB59A"
+			tasks: [{
+				id: "20DBBDF3EE260607"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Field Research Bundle"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "4135F8F7BADD4645"
+			tasks: [{
+				id: "2E6C29427A4E527D"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Fodder Bundle"
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "290615EE10829869"
+			tasks: [{
+				id: "35962F8A1C1AAFB4"
+				item: "ftbquests:barrier"
+				type: "item"
+			}]
+			title: "Enchanter's Bundle"
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			id: "51615E6CF085B878"
+			tasks: [{
+				id: "775641D3F44DF966"
+				item: "svo_core:aquamarine"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "6AE661500E0E1F84"
+			tasks: [{
+				id: "0649465AFDA86BE7"
+				item: "svo_core:frozen_tear"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+	]
 	title: "Bulletin Board &c[UNFINISHED]"
 }

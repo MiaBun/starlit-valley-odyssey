@@ -6795,7 +6795,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaerominimap-forge-1.20.1-26.1.0.jar",
+                    "file_name": "xaerominimap-forge-1.20.1-26.4.2.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -6804,16 +6804,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8231/196/xaerominimap-forge-1.20.1-26.1.0.jar",
-                    "id": "8231196",
+                    "url": "https://edge.forgecdn.net/files/8449/808/xaerominimap-forge-1.20.1-26.4.2.jar",
+                    "id": "8449808",
                     "parent_id": "263420",
                     "hashes": {
-                        "sha1": "5b2be59a71add73676596d0d3350b832552bac70",
-                        "md5": "35779121a4073ba1097db4e5042d61e3"
+                        "sha1": "8f5f747a33e787aaa3827b00eb0ad098966499ff",
+                        "md5": "f6019f3ba0925782cc3cd8405cc80259"
                     },
                     "required_dependencies": [],
-                    "size": 2147158,
-                    "date_published": "2026-06-11T11:13:37.323Z"
+                    "size": 2195245,
+                    "date_published": "2026-07-17T08:09:36.680Z"
                 }
             ]
         },
@@ -6832,7 +6832,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaeroworldmap-forge-1.20.1-1.41.0.jar",
+                    "file_name": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -6841,16 +6841,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8231/23/xaeroworldmap-forge-1.20.1-1.41.0.jar",
-                    "id": "8231023",
+                    "url": "https://edge.forgecdn.net/files/8449/908/xaeroworldmap-forge-1.20.1-1.44.2.jar",
+                    "id": "8449908",
                     "parent_id": "317780",
                     "hashes": {
-                        "sha1": "f2c63673810ff7b87a7fee40d34e70a04fc80ef6",
-                        "md5": "3d7d37fb8d136135332a5618f7d03d4f"
+                        "sha1": "d7cd24554d9c361b2d8d3efac2cb1408f118917d",
+                        "md5": "4876f693b6525716be8f8acfb1b2f6a5"
                     },
                     "required_dependencies": [],
-                    "size": 1389429,
-                    "date_published": "2026-06-11T10:42:06.597Z"
+                    "size": 1421224,
+                    "date_published": "2026-07-17T08:23:45.803Z"
                 }
             ]
         },
