@@ -1,0 +1,7 @@
+{
+  "id": "svo_core:geode_minerals",
+  "type": "emixx:group",
+  "contents": [
+    "#svo_core:geode_mineral"
+  ]
+}

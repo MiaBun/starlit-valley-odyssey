@@ -2,7 +2,8 @@
 
 ## [Unreleased]
 ### Changes
-- Sample Text
+- updated starlit valley odyssey core
+- added geode minerals stack group
 
 ## [0.2.0-PRE2]
 ### Changes
