@@ -6723,7 +6723,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Windy_Forge-1.20.1-v1.0.1.jar",
+                    "file_name": "Windy_Forge-1.20.1-v1.1.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6731,16 +6731,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7886/321/Windy_Forge-1.20.1-v1.0.1.jar",
-                    "id": "7886321",
+                    "url": "https://edge.forgecdn.net/files/8405/904/Windy_Forge-1.20.1-v1.1.1.jar",
+                    "id": "8405904",
                     "parent_id": "1506251",
                     "hashes": {
-                        "sha1": "8ab63a299bdcb49d4109f75e43f80cf36d18eb60",
-                        "md5": "654d266bd1b504d50653b68df112da82"
+                        "sha1": "55838fb0f3856a0edfebe742eb2895f96a4e4c37",
+                        "md5": "8ac397757ebeb971af048e78c675fff6"
                     },
                     "required_dependencies": [],
-                    "size": 43054,
-                    "date_published": "2026-04-06T18:44:52.467Z"
+                    "size": 60674,
+                    "date_published": "2026-07-10T12:40:23.353Z"
                 }
             ]
         },

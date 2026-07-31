@@ -4,6 +4,9 @@
 ### Changes
 - updated starlit valley odyssey core
 - added geode minerals stack group
+- did some quest work
+- updated xaero's world map and minimap
+- updated windy-configurable
 
 ## [0.2.0-PRE2]
 ### Changes
