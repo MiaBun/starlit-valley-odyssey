@@ -2,11 +2,16 @@
 
 ## [Unreleased]
 ### Changes
+- 
+
+## [0.2.0-PRE3]
+### Changes
 - updated starlit valley odyssey core
 - added geode minerals stack group
 - did some quest work
 - updated xaero's world map and minimap
 - updated windy-configurable
+- removed yeetus experimentalus due to it being moved to core mod
 
 ## [0.2.0-PRE2]
 ### Changes

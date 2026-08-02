@@ -6855,42 +6855,6 @@
             ]
         },
         {
-            "pakku_id": "SiiXll99zYM0ylcS",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "yeetusexperimentus"
-            },
-            "name": {
-                "curseforge": "Yeetus Experimentus"
-            },
-            "id": {
-                "curseforge": "635427"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4680/832/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
-                    "id": "4680832",
-                    "parent_id": "635427",
-                    "hashes": {
-                        "sha1": "6efdaf5d213f779e51aa84631a5f06a306351e75",
-                        "md5": "b6a02a72cc15d1b1228c4b1ecf7fa3ee"
-                    },
-                    "required_dependencies": [],
-                    "size": 568278,
-                    "date_published": "2023-08-03T18:04:25.470Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "HAtAViHgHnhQkS78",
             "type": "MOD",
             "slug": {
@@ -7059,16 +7023,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "svo-0.0.18.jar",
+                    "file_name": "svo-0.0.21.jar",
                     "release_type": "release",
-                    "url": "https://github.com/MiaBun/starlit-valley-odyssey-core/releases/download/0.0.18/svo-0.0.18.jar",
-                    "id": "497153255",
+                    "url": "https://github.com/MiaBun/starlit-valley-odyssey-core/releases/download/0.0.21/svo-0.0.21.jar",
+                    "id": "499311986",
                     "parent_id": "1254627484",
                     "hashes": {
-                        "sha256": "8ccfaca0d3e49284041f972963f26ddae53ebd1e6781ce72881eba928cfe3389"
+                        "sha256": "16ffd841c44d1a27587c5c08a1538af068b54b68fc3cd9ee751f7c96d79dc2bc"
                     },
-                    "size": 91297,
-                    "date_published": "2026-07-31T20:42:01Z"
+                    "size": 112660,
+                    "date_published": "2026-08-02T22:07:40Z"
                 }
             ]
         }

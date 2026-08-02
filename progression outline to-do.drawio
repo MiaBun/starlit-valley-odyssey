@@ -14973,7 +14973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LV_id4KJUwiEKEqGbDbU" name="chapter 1: ">
-    <mxGraphModel dx="2605" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4558" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15160,14 +15160,8 @@
         <mxCell id="5fCZxOoVEZnIiRFFZHhU-3" edge="1" parent="1" source="5fCZxOoVEZnIiRFFZHhU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RKtuBnJF-op1V-zSIZqa-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5fCZxOoVEZnIiRFFZHhU-8" edge="1" parent="1" source="5fCZxOoVEZnIiRFFZHhU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5fCZxOoVEZnIiRFFZHhU-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5fCZxOoVEZnIiRFFZHhU-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="charcoal kiln" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="5fCZxOoVEZnIiRFFZHhU-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="faster smelting?" vertex="1">
-          <mxGeometry height="60" width="120" x="400" y="550" as="geometry" />
         </mxCell>
         <mxCell id="ajslLI9857Gcs3dVuroX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nature&#39;s compass" vertex="1">
           <mxGeometry height="60" width="120" x="780" y="440" as="geometry" />
