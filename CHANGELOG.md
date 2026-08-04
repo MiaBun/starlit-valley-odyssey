@@ -2,7 +2,9 @@
 
 ## [Unreleased]
 ### Changes
-- 
+- updated core mod
+- this version introduces a full progression revamp of tools and armor.
+- introduced iridium tier tools and armor.
 
 ## [0.2.0-PRE3]
 ### Changes
