@@ -5,6 +5,10 @@
 - updated core mod
 - this version introduces a full progression revamp of tools and armor.
 - introduced iridium tier tools and armor.
+- moved guideme wiki to core mod
+- added the charcoal kiln
+- custom advancements
+- some chapter 1 quests have been added!
 
 ## [0.2.0-PRE3]
 ### Changes

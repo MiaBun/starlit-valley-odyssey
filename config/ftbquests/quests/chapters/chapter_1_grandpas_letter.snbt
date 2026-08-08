@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "chapter_1_grandpas_letter"
 	group: "0869EF00969E7C6B"
+	hide_quest_until_deps_complete: true
 	icon: "minecraft:crafting_table"
 	id: "00E3498660041BE3"
 	order_index: 0
@@ -21,21 +22,64 @@
 		}
 		{
 			dependencies: ["53B110E5641A559E"]
-			description: ["Upgrading your tools past wood requires a smithing table. at higher tiers it will require a smithing template purchased from the blacksmith"]
-			id: "5F2B8086907CC320"
+			description: [
+				"Coal veins have been nerfed in this modpack, "
+				"But there is a solution!"
+			]
+			id: "5BBAAAA0ED854923"
+			subtitle: "Where is my Coal!!"
 			tasks: [{
-				id: "4C20CAE21A397894"
+				id: "1338F605FB236104"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			title: "Need more Coal?"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5BBAAAA0ED854923"]
+			description: [
+				"the Charcoal Kiln,"
+				"It's the solution to all of your coal problems!"
+				"Just input a log and after 20 seconds you'll get some coal!"
+				""
+				"On a serious note though, Any wooden item has been removed from Furnace Fuels, instead you can only use a few specific items and one of those is Coal."
+				"since Coal veins have been nerfed we've come up with a solution. The Charcoal Kiln."
+			]
+			id: "62F219FA0A18DBC6"
+			subtitle: "Kiln me some Coal!"
+			tasks: [{
+				id: "14C24B26D5131C57"
+				item: "svo_core:charcoal_kiln"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["62F219FA0A18DBC6"]
+			description: [
+				"The general progression for tools and armor has been changed."
+				"after wood/leather you now have stone/chainmill, then you have copper, iron, gold, diamond and then Iridium!"
+				""
+				"don't worry though, every recipe can be seen in EMI and we strongly suggest you to follow this a guide!"
+			]
+			id: "39B61D6242B06263"
+			subtitle: "Wait huh?"
+			tasks: [{
+				id: "1DD24B785973BDC5"
 				item: {
 					Count: 1
-					id: "minecraft:wooden_pickaxe"
+					id: "minecraft:stone_pickaxe"
 					tag: {
 						Damage: 0
 					}
 				}
 				type: "item"
 			}]
-			title: "Upgrading Tools?"
-			x: 2.0d
+			title: "A new tool progression"
+			x: 4.5d
 			y: 0.0d
 		}
 	]

@@ -1,4 +1,4 @@
-<mxfile host="Electron" pages="32">
+<mxfile host="Electron" pages="33">
   <diagram name="old progression" id="MYqo1k76NVaqQHKW2KsX">
     <mxGraphModel dx="3113" dy="4386" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15180,6 +15180,77 @@
         </mxCell>
         <mxCell id="4C63oJcmnHAsITLlY0OG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="lunchbox" vertex="1">
           <mxGeometry height="60" width="120" x="1330" y="840" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_2fYCI1XVhBVxzOYznqk" name="chapter 1: advancements">
+    <mxGraphModel dx="950" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-3" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="welcome to starlit valley (have logs in inventory)" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-5" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-22" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="craft a crafting bench" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-9" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stone age (stone tool materials)" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="leather armor" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-11" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cv_l_zTcT3k5GSNsb45i-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-13" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="getting an upgrade" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="chainmill armor" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-15" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-17" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cv_l_zTcT3k5GSNsb45i-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-19" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="finding copper" vertex="1">
+          <mxGeometry height="60" width="120" x="1010" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="getting a furnace" vertex="1">
+          <mxGeometry height="60" width="120" x="1010" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="charcoal kiln" vertex="1">
+          <mxGeometry height="60" width="120" x="1010" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-21" edge="1" parent="1" source="cv_l_zTcT3k5GSNsb45i-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cv_l_zTcT3k5GSNsb45i-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="copper upgrade" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_l_zTcT3k5GSNsb45i-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="copper armor" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
