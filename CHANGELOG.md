@@ -9,6 +9,7 @@
 - added the charcoal kiln
 - custom advancements
 - some chapter 1 quests have been added!
+- added sophisticated backpacks, not yet integrated with progression
 
 ## [0.2.0-PRE3]
 ### Changes

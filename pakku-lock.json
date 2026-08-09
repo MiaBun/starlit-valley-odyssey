@@ -6110,6 +6110,85 @@
             ]
         },
         {
+            "pakku_id": "VXwC5MWen11Qstjq",
+            "pakku_links": [
+                "ztP6SK2vbkOiHWbT"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sophisticated-backpacks"
+            },
+            "name": {
+                "curseforge": "Sophisticated Backpacks"
+            },
+            "id": {
+                "curseforge": "422301"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedbackpacks-1.20.1-3.24.63.2049.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8596/644/sophisticatedbackpacks-1.20.1-3.24.63.2049.jar",
+                    "id": "8596644",
+                    "parent_id": "422301",
+                    "hashes": {
+                        "sha1": "a2a0dcde667a05fb979ad6e9f2d7eb90b5db84e5",
+                        "md5": "e5c57037376516fd895777bb21d65b42"
+                    },
+                    "required_dependencies": [
+                        "618298"
+                    ],
+                    "size": 1153328,
+                    "date_published": "2026-08-07T18:24:33.453Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ztP6SK2vbkOiHWbT",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sophisticated-core"
+            },
+            "name": {
+                "curseforge": "Sophisticated Core"
+            },
+            "id": {
+                "curseforge": "618298"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedcore-1.20.1-1.3.75.2231.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8593/869/sophisticatedcore-1.20.1-1.3.75.2231.jar",
+                    "id": "8593869",
+                    "parent_id": "618298",
+                    "hashes": {
+                        "sha1": "03048aad74abde3a8e61f4c4524a8411b3d1ea55",
+                        "md5": "40d4bc9ac3ea0f0f97b50cb524cf5f07"
+                    },
+                    "required_dependencies": [],
+                    "size": 1625194,
+                    "date_published": "2026-08-07T09:46:05.207Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7RNoM7d7fQcUDaXx",
             "pakku_links": [
                 "rp37PJgjurtIYyio"
