@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 ### Changes
+- 
+
+## [0.2.0-PRE4]
+### Changes
+- damn it's been 4 weeks since i decided to do weekly updates and they've gotten bigger and bigger...
 - updated core mod
 - this version introduces a full progression revamp of tools and armor.
 - introduced iridium tier tools and armor.
