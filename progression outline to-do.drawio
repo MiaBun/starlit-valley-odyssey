@@ -14973,7 +14973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LV_id4KJUwiEKEqGbDbU" name="chapter 1: ">
-    <mxGraphModel dx="2605" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1377" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15097,14 +15097,8 @@
         <mxCell id="WpUYWXKvOIPYE9gwdu6a-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="earning some money (earn at least 10 coins)" vertex="1">
           <mxGeometry height="60" width="120" x="2430" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="npocAvwcqBXwSM9aLiYr-4" edge="1" parent="1" source="npocAvwcqBXwSM9aLiYr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="npocAvwcqBXwSM9aLiYr-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="npocAvwcqBXwSM9aLiYr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="backpacks" vertex="1">
+        <mxCell id="npocAvwcqBXwSM9aLiYr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bundles" vertex="1">
           <mxGeometry height="60" width="120" x="780" y="760" as="geometry" />
-        </mxCell>
-        <mxCell id="npocAvwcqBXwSM9aLiYr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="backpack upgrades" vertex="1">
-          <mxGeometry height="60" width="120" x="780" y="870" as="geometry" />
         </mxCell>
         <mxCell id="npocAvwcqBXwSM9aLiYr-8" edge="1" parent="1" source="npocAvwcqBXwSM9aLiYr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="npocAvwcqBXwSM9aLiYr-7">
           <mxGeometry relative="1" as="geometry" />
