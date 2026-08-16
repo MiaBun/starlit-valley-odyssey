@@ -15250,7 +15250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b55eN3DuLaCe5zHRQzKg" name="chapter 2:">
-    <mxGraphModel dx="3143" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1377" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15288,6 +15288,9 @@
           <mxGeometry height="60" width="120" x="680" y="710" as="geometry" />
         </mxCell>
         <mxCell id="rno5moV7v-TxpNTdRY__-15" edge="1" parent="1" source="rno5moV7v-TxpNTdRY__-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rno5moV7v-TxpNTdRY__-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bi-ECZa0UBUmFxH-_Qib-2" edge="1" parent="1" source="rno5moV7v-TxpNTdRY__-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="bi-ECZa0UBUmFxH-_Qib-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rno5moV7v-TxpNTdRY__-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the blacksmith" vertex="1">
@@ -15686,6 +15689,9 @@
         <mxCell id="vlM7FNn2ACGWFmxhWiEz-5" edge="1" parent="1" source="AvZ_S_Dra_tP6l5MYc13-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vlM7FNn2ACGWFmxhWiEz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-2" edge="1" parent="1" source="AvZ_S_Dra_tP6l5MYc13-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="KO5jTdOgpbZGUBpD-KZW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AvZ_S_Dra_tP6l5MYc13-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="building a coop" vertex="1">
           <mxGeometry height="60" width="120" x="2560" y="510" as="geometry" />
         </mxCell>
@@ -15705,6 +15711,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vlM7FNn2ACGWFmxhWiEz-3" edge="1" parent="1" source="AvZ_S_Dra_tP6l5MYc13-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vlM7FNn2ACGWFmxhWiEz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-4" edge="1" parent="1" source="AvZ_S_Dra_tP6l5MYc13-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KO5jTdOgpbZGUBpD-KZW-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AvZ_S_Dra_tP6l5MYc13-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="building a barn" vertex="1">
@@ -15914,14 +15923,38 @@
         <mxCell id="5yBbBJwkshaFHG0LpK6F-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="garbage cans" vertex="1">
           <mxGeometry height="60" width="120" x="1320" y="790" as="geometry" />
         </mxCell>
+        <mxCell id="bi-ECZa0UBUmFxH-_Qib-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="upgrade table" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-6" edge="1" parent="1" source="KO5jTdOgpbZGUBpD-KZW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="KO5jTdOgpbZGUBpD-KZW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="capybaras" vertex="1">
+          <mxGeometry height="60" width="120" x="2290" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-8" edge="1" parent="1" source="KO5jTdOgpbZGUBpD-KZW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KO5jTdOgpbZGUBpD-KZW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="alpacas" vertex="1">
+          <mxGeometry height="60" width="120" x="2140" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bristle" vertex="1">
+          <mxGeometry height="60" width="120" x="2290" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KO5jTdOgpbZGUBpD-KZW-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="alpaca wool" vertex="1">
+          <mxGeometry height="60" width="120" x="2140" y="910" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="yo_bq3GJj5c_Mh0wfs8d" name="chapter 3:">
-    <mxGraphModel dx="4558" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EOMNC9p3J3CWIy7AzYXC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the artisan dream" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="540" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
