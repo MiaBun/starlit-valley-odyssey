@@ -6127,7 +6127,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedbackpacks-1.20.1-3.24.63.2049.jar",
+                    "file_name": "sophisticatedbackpacks-1.20.1-3.24.67.2109.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6136,18 +6136,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8596/644/sophisticatedbackpacks-1.20.1-3.24.63.2049.jar",
-                    "id": "8596644",
+                    "url": "https://edge.forgecdn.net/files/8687/830/sophisticatedbackpacks-1.20.1-3.24.67.2109.jar",
+                    "id": "8687830",
                     "parent_id": "422301",
                     "hashes": {
-                        "sha1": "a2a0dcde667a05fb979ad6e9f2d7eb90b5db84e5",
-                        "md5": "e5c57037376516fd895777bb21d65b42"
+                        "sha1": "c8545de2e15e79ca1511417a8346ec8c107c40d7",
+                        "md5": "e1946251e7e7584e7fe5591ed7256915"
                     },
                     "required_dependencies": [
                         "618298"
                     ],
-                    "size": 1153328,
-                    "date_published": "2026-08-07T18:24:33.453Z"
+                    "size": 1159096,
+                    "date_published": "2026-08-19T23:03:13.683Z"
                 }
             ]
         },
@@ -6166,7 +6166,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedcore-1.20.1-1.3.75.2231.jar",
+                    "file_name": "sophisticatedcore-1.20.1-1.3.84.2308.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6175,16 +6175,58 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8593/869/sophisticatedcore-1.20.1-1.3.75.2231.jar",
-                    "id": "8593869",
+                    "url": "https://edge.forgecdn.net/files/8705/513/sophisticatedcore-1.20.1-1.3.84.2308.jar",
+                    "id": "8705513",
                     "parent_id": "618298",
                     "hashes": {
-                        "sha1": "03048aad74abde3a8e61f4c4524a8411b3d1ea55",
-                        "md5": "40d4bc9ac3ea0f0f97b50cb524cf5f07"
+                        "sha1": "b77d093e3312a660594a08b043cf4966bfa3ba96",
+                        "md5": "280a896cfd6f9f4e1574492479df700c"
                     },
                     "required_dependencies": [],
-                    "size": 1625194,
-                    "date_published": "2026-08-07T09:46:05.207Z"
+                    "size": 1640160,
+                    "date_published": "2026-08-22T08:34:20.940Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FSMvgJzlxasFOazc",
+            "pakku_links": [
+                "ztP6SK2vbkOiHWbT"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sophisticated-storage"
+            },
+            "name": {
+                "curseforge": "Sophisticated Storage"
+            },
+            "id": {
+                "curseforge": "619320"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedstorage-1.20.1-1.4.85.2124.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8687/889/sophisticatedstorage-1.20.1-1.4.85.2124.jar",
+                    "id": "8687889",
+                    "parent_id": "619320",
+                    "hashes": {
+                        "sha1": "5a887adbc731cdaca1e41f0e1a270b5e837d8161",
+                        "md5": "98b1449820195ce0ccc300b353792151"
+                    },
+                    "required_dependencies": [
+                        "618298"
+                    ],
+                    "size": 1863079,
+                    "date_published": "2026-08-19T23:11:50.723Z"
                 }
             ]
         },
