@@ -1,8 +1,11 @@
 # Changelog
 
-## [Unreleased]
+## [0.2.0-PRE6]
 ### Changes
-- 
+- core mod updated
+- updated sophisticated core and backpacks
+- added sophisticated storage
+- lunchboxes :D
 
 ## [0.2.0-PRE5]
 ### Changes
