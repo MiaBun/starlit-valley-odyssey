@@ -1799,42 +1799,6 @@
             ]
         },
         {
-            "pakku_id": "Q1iRSCfiZzN9DfSV",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "dynamic-waters"
-            },
-            "name": {
-                "curseforge": "Dynamic Waters: Realistic Flowing Rivers"
-            },
-            "id": {
-                "curseforge": "1505834"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "dynamicwaters-9.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8237/798/dynamicwaters-9.0.0.jar",
-                    "id": "8237798",
-                    "parent_id": "1505834",
-                    "hashes": {
-                        "sha1": "221221db7ff08f420e9dd1ae0f9f4dc1e2b9bb5a",
-                        "md5": "40d70ee2dbbba70e1daf469e3cd142a6"
-                    },
-                    "required_dependencies": [],
-                    "size": 168456,
-                    "date_published": "2026-06-12T17:20:34.617Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "kKDHZGIJ9Segq4ub",
             "type": "MOD",
             "slug": {

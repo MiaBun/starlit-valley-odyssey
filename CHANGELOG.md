@@ -1,5 +1,9 @@
 # Changelog
 
+## [Unreleased]
+### Changes
+- removed dynamic waters
+
 ## [0.2.0-PRE6]
 ### Changes
 - core mod updated
