@@ -3,6 +3,25 @@
 ## [Unreleased]
 ### Changes
 - removed dynamic waters
+- updated svo core
+- fixed dye recipes by ensuring that vanilla dyes are always first.
+- removed feeding upgrades and tool swapping upgrades from sophisticated backpacks
+- removed netherite backpack
+- fixed iridium backpack texture
+- customised stack upgrades recipes from sophisticated backpacks
+- removed stack upgrade from x tier from sophisticated backpacks to make progression more streamlined
+- hid sophisticated storage auto feeder upgrades
+- customised stack upgrades recipes from sophisticated storage
+- removed stack upgrade from x tier from sophisticated storage to make progression more streamlined
+- customised sophisticated backpacks tier 4 and sophisticated storage tier 5 stack upgrades textures
+- custom sophisticated storage barrel recipes
+- removed netherite barrels
+- removed limited barrels
+- removed limited copper barrels
+- removed limited iron barrels
+- removed limited gold barrels
+- removed limited diamond barrels
+- removed limited netherite barrels
 
 ## [0.2.0-PRE6]
 ### Changes
