@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 ### Changes
+- 
+
+## [0.2.0-PRE7]
+### Changes
 - removed dynamic waters
 - updated svo core
 - fixed dye recipes by ensuring that vanilla dyes are always first.
