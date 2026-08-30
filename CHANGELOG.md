@@ -2,7 +2,8 @@
 
 ## [Unreleased]
 ### Changes
-- 
+- updated numismatics
+- updated numismatics-utils
 
 ## [0.2.0-PRE7]
 ### Changes
