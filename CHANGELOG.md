@@ -4,6 +4,9 @@
 ### Changes
 - updated numismatics
 - updated numismatics-utils
+- sleeping bags
+- sophisticated storage chest and normal chest advancements
+- sleeping bags advancements
 
 ## [0.2.0-PRE7]
 ### Changes
