@@ -82,6 +82,31 @@
 			x: 4.5d
 			y: 0.0d
 		}
+		{
+			dependencies: ["39B61D6242B06263"]
+			description: [
+				"Durability has changed."
+				"You don't lose durability when using items anymore, instead it's a death penalty!"
+				""
+				"everytime you die you lose roughly 15% of your durability, whilst keep inventory is on this hopefully gives you more thoughts about dying."
+			]
+			icon: {
+				Count: 1
+				id: "svo_core:copper_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "328B83F68FF88274"
+			tasks: [{
+				id: "1EA8550580CA29B6"
+				title: "Complete"
+				type: "checkmark"
+			}]
+			title: "Where's my durability?"
+			x: 4.5d
+			y: -1.5d
+		}
 	]
 	subtitle: ["You received a letter from grandpa, i wonder what this is about?"]
 	title: "Chapter 1: Grandpa's Letter! &c[UNFINISHED]"

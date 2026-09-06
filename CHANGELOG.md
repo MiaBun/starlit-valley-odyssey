@@ -7,6 +7,12 @@
 - sleeping bags
 - sophisticated storage chest and normal chest advancements
 - sleeping bags advancements
+- added toolbelts, they come in different tiers
+- added advancements for toolbelts
+- added recipes for toolbelts
+- added guideme for toolbelts
+- added some extra information to guideme for lunchboxes
+- added a quest for durability
 
 ## [0.2.0-PRE7]
 ### Changes
