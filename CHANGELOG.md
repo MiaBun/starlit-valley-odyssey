@@ -4,6 +4,16 @@
 ### Changes
 - 
 
+## [0.2.0-PRE11]
+### Changes
+- added a indicator setting to mailbox.
+- added a red exclamation mark particle hovering over the mailbox when you have unread mail.
+- added letters that render inside of the mailbox when you got unread mail, maximum of 12 to be rendered
+- fixed recipe to upgrade sack into lunchbox, now it properly makes items stay and refunds incompatible items.
+- fixed recipe to upgrade sack into toolbelt, now it properly makes items stay and refunds incompatible items.
+- fixed recipe to upgrade sack into backpacks, now it properly makes items stay and refunds incompatible items.
+- upgrade recipes for lunchbox and toolbelt keep items now.
+
 ## [0.2.0-PRE10]
 ### Changes
 - grandpa's letter
