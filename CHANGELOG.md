@@ -4,6 +4,15 @@
 ### Changes
 - 
 
+## [0.2.0-PRE12]
+### Changes
+- refactored advancement lang keys
+- refactored tooltip lang keys
+- refactored gui lang keys
+- refactored keybinds lang keys
+- refactored external lang keys
+- improved sack to backpack dye recipes
+
 ## [0.2.0-PRE11]
 ### Changes
 - added a indicator setting to mailbox.
